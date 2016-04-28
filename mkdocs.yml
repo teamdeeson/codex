@@ -1,0 +1,17 @@
+site_name: Deeson Codex
+pages:
+- Home: index.md
+- About: about.md
+- Deeson Handbook: handbook.md
+- Company: company.md
+- Development:
+    - Our Approach: development/approach.md
+    - Front end: development/frontend.md
+    - Drupal 8: development/drupal8.md
+    - git: development/git.md
+    - Make files: development/makefiles.md
+    - Deployment: development/deployment.md
+    - Coder lounge: development/coder-lounge.md
+    - Brown bags: development/brown-bags.md
+- Discovery: discovery.md
+theme: readthedocs
