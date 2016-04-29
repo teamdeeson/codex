@@ -1,4 +1,7 @@
 site_name: Deeson Codex
+theme: readthedocs
+repo_url: https://github.com/teamdeeson/codex
+include_search: true
 pages:
 - Home: index.md
 - About: about.md
@@ -14,4 +17,3 @@ pages:
     - Coder lounge: development/coder-lounge.md
     - Brown bags: development/brown-bags.md
 - Discovery: discovery.md
-theme: readthedocs
