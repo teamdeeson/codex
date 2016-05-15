@@ -2,8 +2,7 @@
 
 Deeson is a Digital Agency in Europe https://www.deeson.co.uk
 
-This is our internal processes and best practices, open to the world
-for reuse and comment.
+This is our internal processes and best practices, open to the world.
 
 ## Editing the Codex
 
