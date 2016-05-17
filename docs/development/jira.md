@@ -44,7 +44,29 @@ project as well as ongoing maintenance work to the live site.
 
 ### Recommended board settings
 
-To configure a board, navigate to the board then choose *Board* and *Configure*
+To configure a board, navigate to the project then choose *Board* and *Configure*
 
-| Configuration area | Options |
-| Columns | 
+#### Columns
+ 
+Add an _Awaiting acceptance_ column and move the statues to match the setup below
+
+![Columns](../images/jira-board-column-status.png "Columns")
+
+#### Swimlanes
+
+Base Swimlanes on _Stories_
+
+#### Card layout
+
+Set additional fields on the layout of story cards as below
+
+![Card layout](../images/jira-board-card-layout.png "Card layout")
+
+#### Estimation 
+
+1. Estimation statistic should be *Original time estimate*
+2. Time tracking should be *Remaining Estimate and Time Spent*
+
+#### Issue detail view
+
+Add *Acceptance criteria* field to the _General Fields_
