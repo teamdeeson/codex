@@ -36,3 +36,15 @@ project as well as ongoing maintenance work to the live site.
 ### Creating a simple board
 
 ![Create a project board](../images/jira-create-simple-board.gif "Create a project board")
+
+1. From the Project Board menu (*...* button) choose *Create board*
+2. Choose to create a *Scrum board* if this is a project with  sprints or *Kanban* board for an adhoc support project
+3. Choose *Board from an existing project*
+4. Give the board a name, e.g. *Project board*
+
+### Recommended board settings
+
+To configure a board, navigate to the board then choose *Board* and *Configure*
+
+| Configuration area | Options |
+| Columns | 

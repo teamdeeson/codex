@@ -5,8 +5,25 @@ include_search: true
 pages:
 - Home: index.md
 - About: about.md
-- Deeson Handbook: handbook.md
-- Company: company.md
+- Deeson Handbook:
+    - Principles and values: handbook/principles-and-values.md
+    - Self-organisation: handbook/self-organisation.md
+    - Accountabilities and teams: handbook/accountabilities-and-teams.md
+    - Roles at Deeson: handbook/roles-at-deeson.md
+    - Pods: handbook/pods.md
+    - Chapters: handbook/chapters.md
+    - Company-wide tools, processes and policies: handbook/principles-and-values.md
+- Working at Deeson:
+    - Joining Deeson: working-at-deeson/joining-deeson.md
+    - Where and when we work: working-at-deeson/where-and-when-we-work.md
+    - Personal goals and development: working-at-deeson/personal-goals-and-development.md
+    - Tools, purchasing and equipment: working-at-deeson/tools-purchasing-and-equipment.md
+    - Pay, benefits and expenses: working-at-deeson/pay-benefits-and-expenses.md
+    - Taking leave: working-at-deeson/taking-leave.md
+    - London office: working-at-deeson/london-office.md
+    - Canterbury office: working-at-deeson/canterbury-office.md
+    - Useful links: working-at-deeson/useful-links.md
+    - Q&A: working-at-deeson/questions-and-answers.md
 - Development:
     - Our Approach: development/approach.md
     - Front end: development/frontend.md
