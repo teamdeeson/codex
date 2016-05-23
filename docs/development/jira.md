@@ -42,9 +42,53 @@ project as well as ongoing maintenance work to the live site.
 3. Choose *Board from an existing project*
 4. Give the board a name, e.g. *Project board*
 
+### Creating a complex board
+
+_@todo_
+
 ### Recommended board settings
 
-To configure a board, navigate to the board then choose *Board* and *Configure*
+To configure a board, navigate to the project then choose *Board* and *Configure*
 
-| Configuration area | Options |
-| Columns | 
+#### Columns
+ 
+Add an _Awaiting acceptance_ column and move the statues to match the setup below
+
+![Columns](../images/jira-board-column-status.png "Columns")
+
+#### Swimlanes
+
+Base Swimlanes on _Stories_
+
+#### Card layout
+
+Set additional fields on the layout of story cards as below
+
+![Card layout](../images/jira-board-card-layout.png "Card layout")
+
+#### Estimation 
+
+1. Estimation statistic should be *Original time estimate*
+2. Time tracking should be *Remaining Estimate and Time Spent*
+
+#### Issue detail view
+
+Add *Acceptance criteria* field to the _General Fields_
+
+## Importing stories
+
+To import a sheet into Jira as a single story with multiple sub tasks you would do the following:
+
+_@todo_
+
+## Starting a sprint
+
+_@todo_
+
+## Running a sprint
+
+_@todo_
+
+## Burndown charts
+
+_@todo_
