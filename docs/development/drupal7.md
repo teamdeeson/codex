@@ -39,4 +39,5 @@ The following `ENVIRONMENT VARIABLES` are always available within these settings
 |----------------------|------------|-----------------------------------------------|
 | SETTINGS_ENVIRONMENT | string     | 'local', 'dev', 'test' or 'prod'              |
 | SETTINGS_INSTANCE    | string     | Domain, e.g. 'mysite.dev' or 'www.mysite.org' |
-| SETTINGS_PLATFORM    | string     | either 'pulsant' or 'vdd'                     |
+| SETTINGS_PLATFORM    | string     | platform identifier e.g. 'acquia' or 'vdd'    |
+
