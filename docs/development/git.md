@@ -25,9 +25,18 @@ GitFlow makes parallel development very easy, by isolating new development from 
 (such as features and non-emergency bug fixes) is done in feature branches, and is only merged back into main body of
 code when the developer(s) is happy that the code is ready for release.
 
-Ensure you have the GitFlow tools installed locally, you can install it via Homebrew with
+Ensure you have the GitFlow tools installed locally, you can install it via Homebrew with:
 
     brew install git-flow
+
+You should also install the command line auto completion tool to all tab completion of git and git flow commands:
+
+1. `brew install bash-completion`
+2. Add bash-completion to your .bash_profile:
+
+    if [ -f `brew --prefix`/etc/bash_completion ]; then
+       . `brew --prefix`/etc/bash_completion
+    fi
 
 Here is an overview of the branching model, more information can be found at the link above.
 
