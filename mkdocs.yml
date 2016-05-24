@@ -1,7 +1,6 @@
 site_name: Deeson Codex
 theme: readthedocs
 repo_url: https://github.com/teamdeeson/codex
-include_search: true
 pages:
 - Home: index.md
 - About: about.md
@@ -25,6 +24,7 @@ pages:
     - Q&A: working-at-deeson/questions-and-answers.md
 - Development:
     - Our Approach: development/approach.md
+    - Local development: development/vdd.md
     - Front end: development/frontend.md
     - Drupal 7: development/drupal7.md
     - Drupal 8: development/drupal8.md
