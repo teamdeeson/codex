@@ -6,17 +6,17 @@ what each build task comprises of.
 
 The following are the minimum expected tasks a project should define in its Makefile:
 
-1. Download all library dependencies and build all static assets
+Download all library dependencies and build all static assets :-
 
-    make build
+      make build
 
-2. Run all the project's tests
+Run all the project's tests :-
 
-    make test
+     make test
 
-3. Delete all static assets and external library dependencies
+Delete all static assets and external library dependencies :-
 
-    make clean
+      make clean
 
 #### Running on different environments
 
