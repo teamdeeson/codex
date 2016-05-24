@@ -29,7 +29,7 @@ All variables should be stored using Features (via strongarm) unless:
 
 Deeson have devised our own [Drupal Settings File Strategy](https://www.deeson.co.uk/labs/site-configuration-strategy-or-how-manage-your-settingsphp-files)
 
-Settings files are stored in `sites/all/conf*.settings.inc` with a separate files for each sub module which needs
+Settings files are stored in `sites/all/conf/*.settings.inc` with a separate files for each sub module which needs
 configuration storing like this. This keeps the settings neatly separated.  The following environment variables should
 be available within the settings files allowing switches in code to set different configuration based on:
 
