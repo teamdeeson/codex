@@ -4,7 +4,7 @@ audit trail.
 
 ## BitBucket
 
-Deeson use [BitBucket] for version control as it ties neatly into our project management tool Jira.
+Deeson use **BitBucket** for version control as it ties neatly into our project management tool Jira.
 
 Our BitBucket repository is located at [https://bitbucket.org/deesongroup6346](https://bitbucket.org/deesongroup6346)
 
