@@ -21,8 +21,22 @@ smaller feature modules which are easy to manage and is good for larger more com
 
 #### Variables
 
-All variables should be stored using features (via strongarm) unless:
+All variables should be stored using Features (via strongarm) unless:
 
 1. they need to be controlled by some kind of per-environment logic.
 2. they are so unbelievably important that you shouldn't ever be able to change them from the UI (Acquia purge settings).
 3. you are really sure its better to be in the conf file.
+
+Deeson have devised our own [Drupal Settings File Strategy](https://www.deeson.co.uk/labs/site-configuration-strategy-or-how-manage-your-settingsphp-files)
+
+Settings files are stored in `sites/all/conf*.settings.inc` with a separate files for each sub module which needs
+configuration storing like this. This keeps the settings neatly separated.  The following environment variables should
+be available within the settings files allowing switches in code to set different configuration based on:
+
+The following `ENVIRONMENT VARIABLES` are always available within these settings files:
+
+| Environment variable | Type       | Value(s)                                      |
+|----------------------|------------|-----------------------------------------------|
+| SETTINGS_ENVIRONMENT | string     | 'local', 'dev', 'test' or 'prod'              |
+| SETTINGS_INSTANCE    | string     | Domain, e.g. 'mysite.dev' or 'www.mysite.org' |
+| SETTINGS_PLATFORM    | string     | either 'pulsant' or 'vdd'                     |
