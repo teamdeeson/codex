@@ -37,6 +37,8 @@ Here is an overview of the branching model, more information can be found at the
 
 ![First rule of GitFlow](http://deeson.co.uk/sites/default/files/secondary_images/images_and_text/gitflow-no-commit-to-master.jpg "First rule of GitFlow")
 
+Don't commit code directly into master, use the git flow command line options described below.
+
 ### Feature branches
 
 When you start a new issue it is generally a good idea to start a new feature for it. This can be done with the command
