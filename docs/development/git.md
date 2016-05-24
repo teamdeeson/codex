@@ -31,12 +31,15 @@ Ensure you have the GitFlow tools installed locally, you can install it via Home
 
 You should also install the command line auto completion tool to all tab completion of git and git flow commands:
 
-1. `brew install bash-completion`
-2. Add bash-completion to your .bash_profile:
+1. Install bash-completion with Homebrew
 
-```    if [ -f `brew --prefix`/etc/bash_completion ]; then
-       . `brew --prefix`/etc/bash_completion
-    fi```
+        brew install bash-completion
+
+2. Add bash-completion to your `.bash_profile`:
+
+        if [ -f `brew --prefix`/etc/bash_completion ]; then
+            . `brew --prefix`/etc/bash_completion
+        fi
 
 Here is an overview of the branching model, more information can be found at the link above.
 
