@@ -97,7 +97,7 @@ In addition to their primary role, some team members hold additional accountabil
 5. Acting as the senior expert for complex and tricky problems 
 6. Innovation, R&D and creativity within the chapter
 
-## Technical roles
+## Technical specialisms
 
 Within roles in the technical chapter, it is important we have the right mix of technical skills to deliver work. Our core technology skill areas are:
 
