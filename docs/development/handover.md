@@ -14,6 +14,7 @@ Here are some **important** things to consider:
    https://username:password@uat.env.com/path/to/example
 5. Don't assume the client will work it out, you'll lose more time later when they feedback a bunch of questions which
    could have been answered before hand with some simple instructions
+6. Always offer a call to go through the feature with them if they need it
    
 ### Acceptance criteria approach
 
