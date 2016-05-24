@@ -10,7 +10,7 @@ Here are some things to consider:
 2. Provide links to examples on the UAT environment where they can be viewed
 3. Provide instructions on the process of using the functionality
 4. The UAT environment is probably protected with _basic authentication_ so remember to include the access details along
-   with the instructions every time. Its nice to add this in the URLs like this:
+   with the instructions every time to save them just asking for them. Its nice to add this in the URLs like this:
    https://username:password@uat.env.com/path/to/example
 5. Don't assume the client will work it out, you'll lose more time later when they feedback a bunch of questions which
    could have been answered before hand with some simple instructions
