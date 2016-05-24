@@ -34,9 +34,9 @@ You should also install the command line auto completion tool to all tab complet
 1. `brew install bash-completion`
 2. Add bash-completion to your .bash_profile:
 
-    if [ -f `brew --prefix`/etc/bash_completion ]; then
+```    if [ -f `brew --prefix`/etc/bash_completion ]; then
        . `brew --prefix`/etc/bash_completion
-    fi
+    fi```
 
 Here is an overview of the branching model, more information can be found at the link above.
 
