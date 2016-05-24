@@ -11,7 +11,13 @@ Features configuration should be exported to a module located in the `sites/all/
 Features modules on a site should have some logical organisation. A typical strategy for organising your Drupal Features
 is to create a feature module for different features of your site that a user will interact with. Using the analogy of a
 blog feature, you might export into your blog feature module the configuration for content types, fields, views,
-pathauto settings and whatever else is required to make the blog feature work.
+pathauto settings and whatever else is required to make the blog feature work. This is typically enough for a site.
+
+A more complex strategy is the shared dependencies approach where we export base components, like field_bases, into a set
+of base modules. Drupal Features still follows the traditional approach and we may have feature modules for our blog,
+news, etc. Common components of our top tier of features are moved into the lowest tier. Thus the lowest tier is a
+series of Drupal Feature modules which group together common components from the top tiers.  This has the advantage of
+smaller feature modules which are easy to manage and is good for larger more complex sites.
 
 #### Variables
 
