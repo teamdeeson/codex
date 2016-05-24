@@ -1,6 +1,4 @@
-_Work in progress ..._
-
-All project automation or commands should be abstracted into the root level `Makefile`. This allows the
+Project automation commands should be abstracted into the root level `Makefile`. This allows the
 industry standard make command to be used to execute individual tasks and describes precisely, in code,
 what each build task comprises of.
 
