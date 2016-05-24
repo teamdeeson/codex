@@ -4,7 +4,7 @@ work you have done as complete.
 You should use your good judgement to ensure the right level of detail and instruction. If you are unsure if you
 communication will be understood, check with a colleague before sending.
 
-Here are some things to consider:
+Here are some **important** things to consider:
 
 1. Repeat what you were asked to do and describe how it is complete
 2. Provide links to examples on the UAT environment where they can be viewed
