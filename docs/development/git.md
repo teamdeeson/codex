@@ -94,6 +94,30 @@ and not release what is presently in develop you need to create a HotFix branch 
 
 ## Pull Requests
 
+Pull requests are a great way to get structured peer-review feedback on your work.
+It's important that you drive the process, by creating the PR yourself, asking
+others in the team to review, and completing the merge to `develop` at the end.
+
+When you complete development on a feature you should consider asking others in
+the project team or pod to review your code. To create a pull request:
+
+1. Head to BitBucket and locate your repository.
+2. Go to the Pull Requests page and click "create pull request"
+3. Locate your feature branch on the left and on the right select the `develop`
+branch (as that's where your code will be going once it's approved).
+4. Provide a reasonable title and description and review the diff preview below
+then submit. Feel free to mark people as reviewers
+5. Send a notification in Slack asking for feedback.
+
+It's important that everyone in the team provides feedback on pull requests,
+once you're happy with whatever it is you're reviewing you can click the "Approve"
+button.
+
+We don't recommend using BitBucket's merge facilty, it's usually better to use
+the `git-flow` command line tool.
+
+Remember that your work is always your own and you're still responsible for
+testing work yourself.
 
 ## Semantic Versioning
 
