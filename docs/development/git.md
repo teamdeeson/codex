@@ -1,4 +1,4 @@
-The version control system we use is [git](https://git-scm.com/). The purpose of version control is to ensure the 
+The version control system we use is [git](https://git-scm.com/). The purpose of version control is to ensure the
 code created is saved in a central repository and that changes made to the codebase are reversable and there is an
 audit trail.
 
@@ -10,6 +10,21 @@ Our BitBucket repository is located at [https://bitbucket.org/deesongroup6346](h
 
 You should sign up for a BitBucket account using your deeson email and request to be added to the account by one of the
 administrators.  Any Pod SA should be able to do this.
+
+### Sites that are hosted by Acquia and Pantheon
+
+If your site is hosted by a platform provider, such as Acquia or Pantheon,
+that comes with it's own git repository then you can configure
+git to use both BitBucket and the platform repo without needing to change your
+working practices too much.
+
+When checking out the code, make sure that you run these commands:
+
+    git remote set-url --add --push origin [bitbucket url]
+    git remote set-url --add --push origin [platform provider url]
+
+This will ensure that pushes to the remote "origin" always go to both
+repositories.
 
 ## Commit messages
 
@@ -61,7 +76,7 @@ When you are finished with the feature it can be merged back into the develop br
 ### Release branches
 
 If you need to create a new release, this can be created via `git flow release start [release-name]` where
-[release-name] is the name of the new tag which will be created.  We use the [SemVer](http://semver.org/) standard 
+[release-name] is the name of the new tag which will be created.  We use the [SemVer](http://semver.org/) standard
 for release names and so this should be an increment of the MINOR revision number.
 
 ### Hotfix branches
@@ -70,17 +85,17 @@ The master branch contains the codebase as it currently is in production. If you
 and not release what is presently in develop you need to create a HotFix branch which is a branch from master:
 
     git flow hotfix start [release-name]
-    
+
 [release-name] is the name of the next tag release. We use the [SemVer](http://semver.org/) standard for release names
  and so this should be an increment of the PATCH revision number. After fixing the issue you would merge it into
  master and develop at the same time with this command
- 
+
      git flow hotfix finish [release-name]
 
 ## Semantic Versioning
 
 We use the [SemVer](http://semver.org/) standard for release names / tag names.
- 
+
 Given a version number MAJOR.MINOR.PATCH, increment the:
 
 1. MAJOR version when you make incompatible API changes,
