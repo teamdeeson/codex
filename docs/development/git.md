@@ -92,15 +92,22 @@ and not release what is presently in develop you need to create a HotFix branch 
 
      git flow hotfix finish [release-name]
 
+## Pull Requests
+
+
 ## Semantic Versioning
 
-We use the [SemVer](http://semver.org/) standard for release names / tag names.
+We've taken inspiration from the [SemVer](http://semver.org/) standard for how
+we manager release and tag names.
 
-Given a version number MAJOR.MINOR.PATCH, increment the:
+Given a version number MAJOR.MINOR.PATCH, we find that the MINOR portion aligns
+well with git-flow releases and that the PATH portion works well for the hotfix]
+which means we don't tend to update the MAJOR number throughout the project.
 
-1. MAJOR version when you make incompatible API changes,
-2. MINOR version when you add functionality in a backwards-compatible manner, and
-3. PATCH version when you make backwards-compatible bug fixes.
+In practice this means that our version numbers follow the format:
 
-In practice this means the Major version never changes (unless you got from Drupal 7 to Drupal 8), Minor is an increment
-on a scheduled release and Patch is incremented on a security update or urgent bug fix (hotfix)
+    1.RELEASE.HOTFIX
+
+With releases coming when adding functionality via the feature branching flow,
+and hotfixes being used whenever a change is being applied directly to the live
+environment (e.g security updates and bug fixes)
