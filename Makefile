@@ -1,15 +1,15 @@
 # Makefile for makedocs documentation
 
-help:
-	@echo "Hello world"
+install:
+	@pip install mkdocs
 
 clean:
-	rm -rf _build
+	rm -rf site
 
 build:
 	mkdocs build
 	@echo
-	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
+	@echo "Build finished. The HTML pages are in the site directory"
 
 serve:
 	mkdocs serve
