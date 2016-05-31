@@ -2,6 +2,16 @@
 
 We have a small number of job roles in each pod.
 
+Here are the specific accountabilities we all share:
+
+- Client satisfaction
+- Delivering projects (on time, on budget, on spec)
+- Your own capacity
+- Your own capability
+- Supporting your colleagues
+- Following company processes
+
+
 The specific accountabilities of each are shown below:
 
 ##Solutions Architect
