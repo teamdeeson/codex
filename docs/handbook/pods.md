@@ -68,6 +68,6 @@ You can see this in the [project overview list] (https://docs.google.com/spreads
 
 We have a company and pod dashboard that’s available for everyone in the company to see. 
 
-The scorecard is updated at the start of each week and shows the key numbers that show how the company and pod is doing against its goals:
-[https://deeson.geckoboard.com/dashboards/] (https://deeson.geckoboard.com/dashboards/3F4D0EB97220EC81).
+The scorecard is updated at the start of each week and shows the key numbers that show how the company and pod is doing against its goals. 
 
+The company scorecard URL is shared in the #general Slack channel as a pinned item.
