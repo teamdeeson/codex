@@ -24,16 +24,6 @@ Here are the specific accountabilities we all share regardless of our role:
 5. Supporting your colleagues
 6. Following company processes
 
-
-We will have more solutions architects  (maybe 2-3 per pod) and up to three developers per pod.
-We will still have developers who have specialisms - eg Drupal or front-end
-We will expect developers to be interested and able to develop a level of skills in more than one area - for example we expect a developer who is a front-end specialist to have Drupal skills too - but not be as expert in Drupal as a developer for whom Drupal is their main specialism
-
-What this doesn’t mean
-
-We are not going to be recruiting developers with a view to them becoming generalists - we will still work towards developers having a specialism in one or more areas (eg Drupal, front-end) and the ability/desire to learn other areas
-We are not wanting our current team members to become generalist developers - but we are recognising that having skills in more than one of the technology areas identified is generally a good thing
-
 #The job roles
 
 We have five specific job roles:
