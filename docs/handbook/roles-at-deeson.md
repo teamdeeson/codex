@@ -1,94 +1,137 @@
 #Roles at Deeson
 
-We have a small number of job roles in each pod.
+We're not big on job titles at Deeson, but we do think it's important that everyone understands their accountabilities.
 
-Here are the specific accountabilities we all share:
+When thinking about roles there are two subtly different things that are important:
 
-- Client satisfaction
-- Delivering projects (on time, on budget, on spec)
-- Your own capacity
-- Your own capability
-- Supporting your colleagues
-- Following company processes
+1. The **job role** that we hire people into the agency to do and they need to fulfil when they’re here.
+2. The **project roles** that team members play on specific projects when they’re working within a pod
+
+The first is important to set expectations for the company and the new team member. It will inevitably change over time as the agency and the team member develops professionally.
+
+The second reflects the pod being a unique team of individuals and recognises that on different projects, pod team members with different skills will be able to play different roles - and that’s ok.
+
+The first is broader in remit and more fixed than the second, which may flex according to pod and projects. The second is always a sub-set of the first.
+
+##Shared accountabilities
+
+Here are the specific accountabilities we all share regardless of our role:
+
+1. Client satisfaction
+2. Delivering projects (on time, on budget, on spec)
+3. Your own capacity
+4. Your own capability
+5. Supporting your colleagues
+6. Following company processes
 
 
-The specific accountabilities of each are shown below:
+We will have more solutions architects  (maybe 2-3 per pod) and up to three developers per pod.
+We will still have developers who have specialisms - eg Drupal or front-end
+We will expect developers to be interested and able to develop a level of skills in more than one area - for example we expect a developer who is a front-end specialist to have Drupal skills too - but not be as expert in Drupal as a developer for whom Drupal is their main specialism
+
+What this doesn’t mean
+
+We are not going to be recruiting developers with a view to them becoming generalists - we will still work towards developers having a specialism in one or more areas (eg Drupal, front-end) and the ability/desire to learn other areas
+We are not wanting our current team members to become generalist developers - but we are recognising that having skills in more than one of the technology areas identified is generally a good thing
+
+#The job roles
+
+We have five specific job roles:
+
+1. Solutions Architect
+2. Developer
+3. UX
+4. Designer
+5. Account Manager
+
+The specific accountabilities of each job role are shown below:
 
 ##Solutions Architect
 
-1. Delivery of the production phase of a project (on time, on scope, on budget)
-2. Understanding the client requirements for the project
-3. Scoping, identifying, estimating and deploying technical solutions that deliver the project goals and the outcomes of the discovery phase, including adequate assessment, definition and documenting of technologies, tools, modules to meet project needs.
-4. Undertaking complex custom programming and web application development using one or more open source platforms (Drupal, Angular, Symfony, Laravel, React, WordPress)
-5. Identifying and mitigating technical risk during projects
-6. Daily review of development progress against estimates and resolution of issues arising for allocated projects
-7. Facllitation for developers on a project to resolve problems and ensure rapid project progression
-8. On-project coaching for technical pod team members to support professional development as agreed with the chapter lead
-9. Where applicable, ensure features have sufficient test coverages (testing tools and methods TBD)
-10. Technical work produced by pod meets Deeson standards
-11. Understand requirements for accessibility and how this will impact the technical aspects of the project
-12. Actively contributing improvements back to open source community projects
-13. Own the project blueprint during the production phase
+###Technical strategy and consultancy    
 
-*These accountabilities are being reviewed and clarified and may well change in June 2016*
+- Understanding the client business goals and requirements for the project
+- Scoping, identifying, estimating and deploying technical solutions that deliver the project goals and the outcomes of the discovery phase, including adequate assessment, definition and documenting of technologies, tools, modules to meet project needs
+- Ownership of the project blueprint during the production phase
+
+###Delivery
+
+- Delivery of the production phase of a project (on time, on scope, on budget)
+- Undertaking complex custom programming and web application development using one or more open source platforms 
+- Identifying and mitigating technical risk during projects
+- Daily review of development progress against estimates and resolution of issues arising for allocated projects
+- Where applicable, ensure features have sufficient test coverage (testing tools and methods as needed)
+- Technical work produced by pod meets Deeson standards
+- Understand requirements for accessibility and how this will impact the technical aspects of the project
+
+###Team and community
+
+- Facilitation for developers on a project to resolve problems and ensure rapid project progression
+- On-project coaching for technical pod team members to support professional development as agreed with the chapter lead
+- Actively sharing knowledge with / contributing improvements back to open source community and projects
+
 
 ##Developer
 
-1. Technical work produced by pod meets Deeson standards
-2. Developing well engineered technical solutions to properly defined problems in collaboration with the pod using using one or more open source platforms (including Drupal, Angular, Symfony, Laravel, React, WordPress)
-3. Definition and estimation for development tasks
-4. Testing and quality assurance for own solutions developed as defined by the definition of done
-5. Sharing best practice and new found learning internally and externally
-6. Learning new skills, tools and approaches at a rate expected of a fast changing industry
-7. Collaborating and pairing with others in the pod and actively reviewing each others code
-8. Actively contributing improvements back to open source community projects
+###Delivery
+- Developing well engineered technical solutions to properly defined problems in collaboration with the pod using using one or more open source platforms 
+- Technical work produced by pod meets Deeson standards
+- Definition and estimation for development tasks
+- Testing and quality assurance for own solutions developed as defined by the definition of done
 
-*These accountabilities are being reviewed and clarified and may well change in June 2016*
+###Team and community
+- Collaborating and pairing with others in the pod and actively reviewing each others code
+- Sharing best practice and new found learning internally and externally
+- Learning new skills, tools and approaches at a rate expected of a fast changing industry
+- Actively contributing improvements back to open source community projects
+
 
 ##UX
 
-1. Delivery of the discovery phase of a project  (on time, on scope, on budget)
-2. Own the project blueprint during the discovery phase
-3. Client stakeholder research
-4. User experience research 
-5. User experience design
-6. Prototyping and wireframing
-7. User experience testing
-8. Analytics and optimisation
-9. Estimation for UX tasks
-10. Be up to date on requirements for AA accessibility and how this will impact the project
-11. Internal product ownership during Production
+- Delivery of the discovery phase of a project  (on time, on scope, on budget)
+- Own the project blueprint during the discovery phase
+- Client stakeholder research
+- User experience research 
+- User experience design
+- Prototyping and wireframing
+- User experience testing
+- Analytics and optimisation
+- Estimation for UX tasks
+- Be up to date on requirements for AA accessibility and how this will impact the project
+- Internal product ownership during Production
 
 ##Designer
 
-1. Creative development of concepts, styles and branding
-2. Collaboration with and facilitation of UX and SA roles to undertake the discovery process, including client and end user interviews and usability labs.
-3. Lead the team on design thinking, using and explaining design affordance, whilst helping the team to move away from initial concepts and gut reactions.
-4. Design solutions that meet the needs of the users, as well as the strategic and tactical goals of the client
-5. Understand AA accessibility and impact on the design process
-6. User interface design, including interaction design
-7. Collaboration with front-end developers to ensure interaction design works within technological constraints
-8. Time estimation for design tasks
-9. Remain up to date with web design trends so that you are able to recognise them, and steer clients away from them where necessary
-10. Present your designs to clients, face to face or using video link.
+- Creative development of concepts, styles and branding
+- Collaboration with and facilitation of UX and SA roles to undertake the discovery process, including client and end user interviews and usability labs.
+- Lead the team on design thinking, using and explaining design affordance, whilst helping the team to move away from initial concepts and gut reactions.
+- Design solutions that meet the needs of the users, as well as the strategic and tactical goals of the client
+- Understand AA accessibility and impact on the design process
+- User interface design, including interaction design
+- Collaboration with front-end developers to ensure interaction design works within technological constraints
+- Time estimation for design tasks
+- Remain up to date with web design trends so that you are able to recognise them, and steer clients away from them where necessary
+- Present your designs to clients, face to face or using video link.
 
 ##Account Manager
 
-1. First line client support and enquiries
-2. Undertaking pre-client quality control and testing
-3. Delivering client training and documentation
-4. Reporting and management information for projects/pod
-5. Project documentation - quality control
-6. Growing accounts - relationships and size
-7. Billing
+- Client satisfaction and growing relationships
+- Identifying opportunities
+- Commercial awareness
+- Project kick-off and set-up
+- Establishing overall project timings
+- Documentation production & delivery
+- Phase Lead for Support & Maintenance clients
+- Reporting & Billing
+- Client development
+- Pre-client release quality control and testing.
 
-*These accountabilities are being reviewed and clarified and may well change in June 2016*
 
-##Additional accountabilities
+#Additional accountabilities
 
 In addition to their primary role, some team members hold additional accountabilities as well:
 
-###Pod Lead
+##Pod Lead
 
 1. Client satisfaction
 2. Delivering projects (on time, on budget, on spec)
@@ -98,7 +141,7 @@ In addition to their primary role, some team members hold additional accountabil
 6. Company processes followed by all
 7. Team member engagement and happiness
 
-###Chapter Lead
+##Chapter Lead
 
 1. Establishing, sharing and maintaining professional best practice within the chapter 
 2. Thought leadership outside the agency
@@ -107,25 +150,36 @@ In addition to their primary role, some team members hold additional accountabil
 5. Acting as the senior expert for complex and tricky problems 
 6. Innovation, R&D and creativity within the chapter
 
-## Technical specialisms
+#Technical specialisms
 
-Within roles in the technical chapter, it is important we have the right mix of technical skills to deliver work. Our core technology skill areas are:
+Within roles in the technical chapter, it is important we have the right mix of technical skills to deliver client work. 
+
+To deliver our vision of being Europe’s leading open source agency, our core technology skill areas will need to be (at least):
 
 - Drupal
 - WordPress
-- HTML/CSS
-- Angular
-- Symfony
-- React
-- Laravel
-- Devops
+- HTML
+- CSS and CSS preprocessing (SASS)
+- ES6 (and future versions)
+- Frontend javascript (e.g. Angular, React, Flux)
+- Server side javascript (e.g. Node.js)
+- PHP frameworks (e.g. Symfony, Laravel)
+- Infrastructure
 
-Developers at Deeson join the company with technical skills in at least one of these areas. 
-
-We expect our developers to be interested and able enough to learn how to work in other areas listed, although we don’t expect everyone to be equally competent in each area. 
+Developers at Deeson join the company with technical skills in at least one of these areas. We expect our developers to be interested and able enough to learn how to work in other areas listed, although we don’t expect everyone to be equally competent in each area. 
 
 Deep specialisms in one or more area are a good thing and are encouraged through our quarterly OKR process.
 
 Solutions Architects need to be able to know enough about all of these areas to be able to do their role effectively, but they’re likely to have deeper specialisms in one or more of these areas too.
 
-*This section is being reviewed and clarified and may well change in June 2016*
+Pod 2 have been trialling a simple form of [skills mapping] (https://docs.google.com/spreadsheets/d/1GrD3DmFcYpNec_DsmBF3GP3x-SI55LdGLac3L_1MdrU/edit#gid=0) to help show this in more detail.
+
+This self-assessment mapping shows how the developer role is broad enough to accommodate different strengths in different technologies - and how this looks across a pod as a whole. 
+
+There’s not a single desired profile of skills for the developer roles, but we need to make sure that the mix is right across a pod as a whole. 
+
+#Project roles
+
+The blend of technologies, schedules and project requirements means that for each project, a developer may undertake different kinds of work on different projects - within the overall scope of the developer job role as outlined above.
+
+It’s up to the pod to determine how this will work on each project, as the pod team is best informed about the needs of the project and the strengths of each pod member (as mapped using the pod 2 technique above).
