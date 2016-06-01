@@ -1,8 +1,7 @@
 #Reference information
 
-- [Pod team lists]
-(https://docs.google.com/document/d/1g6r1k6JgFNe_4NvvZfSa4ROONzUNWWGMedb-gBHQkkk/edit#heading=h.bwbcgo8uj5ew)
-- [Team contact details] (https://deeson-agency.slack.com/team)
+- [Pod team lists](https://docs.google.com/document/d/1g6r1k6JgFNe_4NvvZfSa4ROONzUNWWGMedb-gBHQkkk/edit#heading=h.bwbcgo8uj5ew)
+- [Team contact details](https://deeson-agency.slack.com/team)
 - Company and pod dashboards - link is pinned in the #general channel on Slack
 
 #Project processes and templates
