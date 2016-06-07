@@ -1,6 +1,7 @@
 site_name: Deeson Handbook
 theme: readthedocs
 repo_url: https://github.com/teamdeeson/codex
+copyright: <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />The Deeson Handbook is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 pages:
 - Home: index.md
 - About: about.md
