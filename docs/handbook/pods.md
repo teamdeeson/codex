@@ -34,7 +34,7 @@ In practice that everyone working in our agency has a set of accountabilities in
 
 For us to be at the top of our game we need everyone to be great at being where they’re supposed to be and doing what they’re supposed to do. 
 
-Each role within the agency has clear accountabilities. You can read more about those [here] (http://deeson-codex.readthedocs.io/en/latest/handbook/roles-at-deeson/).
+Each role within the agency has clear accountabilities. You can read more about those [here](http://deeson-codex.readthedocs.io/en/latest/handbook/roles-at-deeson/).
 
 #Questions and answers about pod working
 
@@ -58,11 +58,11 @@ Directors look after all other line management functions (such as pay, performan
 
 ##Who's in which pod?
 
-You can see details of who does what in each pod [here] (https://docs.google.com/document/d/1g6r1k6JgFNe_4NvvZfSa4ROONzUNWWGMedb-gBHQkkk/edit#heading=h.bwbcgo8uj5ew). 
+You can see details of who does what in each pod [here](https://docs.google.com/document/d/1g6r1k6JgFNe_4NvvZfSa4ROONzUNWWGMedb-gBHQkkk/edit#heading=h.bwbcgo8uj5ew). 
 
 ##Which clients / projects are in each pod?
 
-You can see this in the [project overview list] (https://docs.google.com/spreadsheets/d/1RYEHvwX79gxh23FKGeR_bg-FmYY_dCBIOxkCCypTmU4/edit#gid=0).
+You can see this in the [project overview list](https://docs.google.com/spreadsheets/d/1RYEHvwX79gxh23FKGeR_bg-FmYY_dCBIOxkCCypTmU4/edit#gid=0).
 
 ##How do I know how my pod is doing?
 
