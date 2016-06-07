@@ -12,6 +12,7 @@
 
 #Company tools
 
+- [Slack](https://deeson-agency.slack.com/messages)
 - [ReceiptBank](https://app.receipt-bank.com/login)
 - [Xero](https://www.xero.com/uk/)
 - [Harvest - digital agency](https://deesonemedia.harvestapp.com/overview)
