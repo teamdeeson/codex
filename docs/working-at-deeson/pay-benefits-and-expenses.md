@@ -72,7 +72,7 @@ Repayments will be made by BACS within 21 days.
 
 Then you should ideally hire one for insurance and cost reasons. 
 
-If there’s a reason not to and you’ve got appropriate commercial use insurance then mileage for cars and motorcycles is paid at standard rates. 
+If there’s a reason not to and you’ve got appropriate commercial use insurance then mileage for cars and motorcycles is paid at [HMRC standard rates](https://www.gov.uk/expenses-and-benefits-business-travel-mileage/rules-for-tax). 
 
 To claim mileage complete a copy of this [form](https://docs.google.com/a/deeson.co.uk/document/d/1hCzjEty61qrAFGcvBO5fMh_CCT_QLNYB9wg9mageAp8/edit?usp=drive_web) and submit a PDF to ReceiptBank.
 
