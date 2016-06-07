@@ -4,7 +4,7 @@ We're not big on job titles at Deeson, but we do think it's important that every
 
 When thinking about roles there are two subtly different things that are important:
 
-1. The **job role** that we hire people into the agency to do and they need to fulfil when they’re here.
+1. The **job role** that we hire people into the agency to do and they need to fulfil when they’re here
 2. The **project roles** that team members play on specific projects when they’re working within a pod
 
 The first is important to set expectations for the company and the new team member. It will inevitably change over time as the agency and the team member develops professionally.
@@ -162,7 +162,7 @@ Deep specialisms in one or more area are a good thing and are encouraged through
 
 Solutions Architects need to be able to know enough about all of these areas to be able to do their role effectively, but they’re likely to have deeper specialisms in one or more of these areas too.
 
-Pod 2 have been trialling a simple form of [skills mapping] (https://docs.google.com/spreadsheets/d/1GrD3DmFcYpNec_DsmBF3GP3x-SI55LdGLac3L_1MdrU/edit#gid=0) to help show this in more detail.
+Pod 2 have been trialling a simple form of [skills mapping](https://docs.google.com/spreadsheets/d/1GrD3DmFcYpNec_DsmBF3GP3x-SI55LdGLac3L_1MdrU/edit#gid=0) to help show this in more detail.
 
 This self-assessment mapping shows how the developer role is broad enough to accommodate different strengths in different technologies - and how this looks across a pod as a whole. 
 
