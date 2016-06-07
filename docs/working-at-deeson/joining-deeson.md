@@ -77,8 +77,7 @@ The outcomes for your first week at Deeson are shown below:
 5. You’ll have had your official photo taken. Doug Mackay is the person to ask to take your photo.
 6. You’ll have your photo added to the Deeson team page on the agency website. You can do this yourself using the CMS.
 7. You’ll have agreed month one goals with your pod lead to help inform your learning during your first month. We have a self-led development approach. This is your first step towards self-led development.
-8. You’ll have a first week review meeting with your pod lead. This is A
-9.an opportunity to share feedback from your first week and answer those burning questions.
+8. You’ll have a first week review meeting with your pod lead. This is an opportunity to share feedback from your first week and answer those burning questions.
 
 #In months one to six
 
@@ -89,7 +88,7 @@ The table below shows the onboarding outcomes for months one to six after joinin
 1. You’ll have participated in an activity with your chapter (e.g. Coder Lounge)
 2. You’ll know and understand the Deeson handbook
 3. You’ll understand how Deeson projects are delivered 
-4. You’ll have met or spoken with a Deeson cient
+4. You’ll have met or spoken with a Deeson client
 5. You’ll have asked for feedback from your buddy and pod lead about your first month - giving and receiving feedback is an important part of our culture so we value feedback from early on in your time at the agency.
 6. You’ll have reviewed your learning goals for month one and set new goals for month two with your pod and chapter leads.
 
