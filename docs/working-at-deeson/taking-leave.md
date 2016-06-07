@@ -16,7 +16,7 @@ Your target billable hours reduce proportionately (e. 1 day in a week off means 
 
 For pod team members holiday requests are approved by your pod lead. For everyone it's approved by the MD.
 
-##Sickness and medical appointments?
+##Sickness and medical appointments
 
 These should be incorporated into your flexible time wherever possible, otherwise requested via Who’s Off.
 
