@@ -8,22 +8,23 @@ Here’s a quick rundown of what’s a company-wide standard:
 
 ##Company-wide processes and policies
 
-- EOS methods and tools
+- [EOS methods and tools](https://www.eosworldwide.com/what-is-eos)
 - Our delivery methodology - the three stage Discovery, Production and Optimisation approach
 - The Deeson agile delivery methodology
-- Estimating methodology
-- Recruitment
+- [Estimating methodology](https://docs.google.com/document/d/115Pup6P7hL1tMS6K4cSX_ewzWom96Eb3dtmrOlR3alw/edit)
+- [Recruitment](https://docs.google.com/document/d/1jDHdwLlcTu6bUuAb9tUvpvAwbuPN9Z_F7rdshl5zPOU/edit?ts=5630dc9b)
 - Goals and development
-- Company business policies (HR, environmental etc)
-- The Deeson Handbook
-- Job roles and accountabilities
+- [Company business policies](https://docs.google.com/document/d/1rGy0i56tOjmohsM8lfkFboq1F4Wyi0jkwyL6VHr3Q0M/edit#heading=h.kuif7x8g66b2)  
+- [The Deeson Handbook](http://deeson-codex.readthedocs.io/en/latest/)
+- [Job roles and accountabilities](http://deeson-codex.readthedocs.io/en/latest/handbook/roles-at-deeson/)
 
 ##Company-wide tools
 
 - Discipline-specific software, tools and standards- eg development environments
-- Reporting standards and tools - eg report cards
-- Our time recording tool - Harvest
-- Our forecasting tool - Forecast
+- Reporting standards and tools - eg [report cards](https://docs.google.com/spreadsheets/d/1RYEHvwX79gxh23FKGeR_bg-FmYY_dCBIOxkCCypTmU4/edit#gid=0)
+- Our reporting dashboard tool - Geckoboards
+- Our time recording tool - [Harvest](https://deesonemedia.harvestapp.com/overview)
+- Our forecasting tool - [Forecast](https://forecastapp.com/89482/schedule/team)
 - Business systems - Macs, Google Drive, email etc
 
 If the company-wide standard tool or process isn’t working as well as you think it could or you think there’s a better way, get a guild together and recommend a better way for consideration.
