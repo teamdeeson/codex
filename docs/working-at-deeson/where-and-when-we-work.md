@@ -64,7 +64,7 @@ If you’re not then speak to your pod colleagues to see how you can make best u
 
 Before the end of each week you must make sure your Harvest is up-to-date and you’ve logged all your billable and non-billable hours - remember that’s at least 30hrs billable and 35hrs in total each week.
 
-Check against your targets using this [Harvest report] (https://deesonemedia.harvestapp.com/reports). 
+Check against your targets using this [Harvest report](https://deesonemedia.harvestapp.com/reports). 
 
 ##If I work 60 hours one week, then can I reduce the hours that I work the following week?
 
