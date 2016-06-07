@@ -4,7 +4,7 @@ repo_url: https://github.com/teamdeeson/codex
 pages:
 - Home: index.md
 - About: about.md
-- The basics:
+- THE BASICS:
     - Principles and values: handbook/principles-and-values.md
     - Self-organisation: handbook/self-organisation.md
     - Accountabilities and teams: handbook/accountabilities-and-teams.md
@@ -12,7 +12,7 @@ pages:
     - Pods: handbook/pods.md
     - Chapters: handbook/chapters.md
     - Company-wide tools, processes and policies: handbook/tools-processes-policies.md
-- Working at Deeson:
+- WORKING AT DEESON:
     - Joining Deeson: working-at-deeson/joining-deeson.md
     - Where and when we work: working-at-deeson/where-and-when-we-work.md
     - Personal goals and development: working-at-deeson/personal-goals-and-development.md
@@ -22,7 +22,7 @@ pages:
     - Deeson offices: working-at-deeson/canterbury-office.md
     - Useful links: working-at-deeson/useful-links.md
     - Q&A: working-at-deeson/questions-and-answers.md
-- Development:
+- DEVELOPMENT:
     - Our Approach: development/approach.md
     - Local development: development/vdd.md
     - Front end: development/frontend.md
@@ -36,4 +36,4 @@ pages:
     - Brown bags: development/brown-bags.md
     - Jira: development/jira.md
     - Handover comms: development/handover.md
-- Discovery: discovery.md
+- DISCOVERY: discovery.md
