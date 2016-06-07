@@ -18,7 +18,7 @@ These are called your objectives and key results (OKRs) - what you will achieve 
 
 We use an established approach for this. It’s called “Objectives and Key Results” which is usually abbreviated to “OKRs”.
 
-OKRs were invented at Intel Corporation and some of the biggest tech companies in the world use OKRs including Google, Zynga, Upstart and many others. There’s plenty of material online about how different companies have used OKRs. We particularly like this [First Round Review article] (http://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/).
+OKRs were invented at Intel Corporation and some of the biggest tech companies in the world use OKRs including Google, Zynga, Upstart and many others. There’s plenty of material online about how different companies have used OKRs. We particularly like this [First Round Review article](http://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/).
 
 We set OKRs each quarter to fit with our quarterly planning cycle for company goals. 
 
@@ -38,7 +38,7 @@ During the trial period we’re expecting everyone to have three or four OKRs fo
 
 Each team member is responsible for setting their own OKRs, with advice from other members of the agency as they feel necessary. In practice, this probably means you need to get advice and guidance from a pod lead, chapter lead and/or director, but who you involve is up to you depending on the nature of your goals. 
 
-All OKRs are shared and reported on [publicly here] (https://docs.google.com/a/deeson.co.uk/spreadsheets/d/1PtX_sRt82f5j_gSzV7I3T1YKmS62AKwvxUz2mfuCquc/edit?usp=drive_web) so everyone knows what everyone else is aiming to do.
+All OKRs are shared and reported on [publicly here](https://docs.google.com/a/deeson.co.uk/spreadsheets/d/1PtX_sRt82f5j_gSzV7I3T1YKmS62AKwvxUz2mfuCquc/edit?usp=drive_web) so everyone knows what everyone else is aiming to do.
 
 ##Hitting OKRs
 
@@ -159,6 +159,6 @@ There will be many development goals where you need to invest some of your own t
 
 Having an open and accessible way of recording what everyone’s OKRs are, how they’re going and what support they’re getting is really important. It’ll help everyone see where there might be opportunities to collaborate on learning, mentoring and development. 
 
-During the six month trial we’ll be using a simple Google Docs based system for recording goals and logging progress. After that we’ll look at the best way of continuing with recording and tracking goals. There are a range of SaaS options or we may continue with the Google Docs based system. 
+During the six month trial we’re  using a simple Google Docs based system for recording goals and logging progress. After that we’ll look at the best way of continuing with recording and tracking goals. There are a range of SaaS options or we may continue with the Google Docs based system. 
 
 In the first six months our focus needs to be on getting OKRs up and running properly and iterating how we do this.
