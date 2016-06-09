@@ -100,5 +100,7 @@ Remember the bonus is paid along with your normal salary and is subject to tax a
 
 For referrals where more than one team member claims the bonus, you’ll need to agree how to split the bonus among yourselves. 
 
+The £2,000 bonus is effective for candidates first introduced after Monday 13 June 2016. For candidates first introduced before this date the bonus payable is £750.
+
 Remember the bonus isn’t payable when a candidate contacts us directly as a result of any of our existing recruitment marketing - it’s about helping us meet people we wouldn’t have otherwise met. 
 
