@@ -92,7 +92,7 @@ We pay a bonus of £2,000 to say thank you to current team members who do someth
 
 A referral is defined as:
 
->When you doing something beyond the scope of your everyday job that leads to the candidate applying for a relevant role and subsequently being successful in their application, e.g. contacting a member of your existing network or meeting someone at a conference and inviting them to apply.
+>When you do something beyond the scope of your everyday job that leads to the candidate applying for a relevant role and subsequently being successful in their application, e.g. contacting a member of your existing network or meeting someone at a conference and inviting them to apply.
 
 All you need to do to claim the bonus is let the recruitment lead know who you’re introducing. The candidate will go through our normal recruitment process and if they’re successful, we’ll pay the £2,000 when they start with the company. 
 
