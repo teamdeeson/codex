@@ -68,6 +68,9 @@ Acceptable supporting documents include:
 - A simplified receipt for transactions under £250 e.g. Tesco/Starbucks
 - A VAT invoice from the supplier (this will show an invoice number, invoice date, supplier’s trading name & address, supplier’s VAT number, our company name & a description of the goods/services provided)
 
+Here's an example of a receipt that'll keep Hannah happy:
+![Good receipt](https://d5av3fo92eabs.cloudfront.net/sites/default/files/misc/42112523.jpeg)
+
 Supporting documents that aren't acceptable include:
 - Email confirmation
 - Delivery notes
@@ -76,6 +79,8 @@ Supporting documents that aren't acceptable include:
 - Card copy receipt
 - Letters
 - Paypal receipts (please obtain the supplier invoice)
+
+![Bad receipt](https://d5av3fo92eabs.cloudfront.net/sites/default/files/misc/41992399.jpeg)
 
 If expense receipts are lost or the incorrect supporting document is uploaded, we can't reclaim the VAT on the purchase.
 
