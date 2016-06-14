@@ -60,13 +60,28 @@ If you’re working away from your normal working location (Canterbury, London o
 
 **How do I claim expenses?**
 
-You claim out of pocket expenses (travel, subsistence and accommodation) via ReceiptBank. 
+Expenses can be paid either on a company credit card or paid using your own cash or card and then reimbursed to you. Repayments will be made by BACS within 21 days.
+
+All expenses should have an accompanying supporting document and must be uploaded to Receipt Bank. Where they can be billed to a project please indicate this in the notes field before submitting.
+
+Acceptable supporting documents include:
+- A simplified receipt for transactions under £250 e.g. Tesco/Starbucks
+- A VAT invoice from the supplier (this will show an invoice number, invoice date, supplier’s trading name & address, supplier’s VAT number, our company name & a description of the goods/services provided)
+
+Supporting documents that aren't acceptable include:
+- Email confirmation
+- Delivery notes
+- Remittance advices
+- Supplier statements
+- Card copy receipt
+- Letters
+- Paypal receipts (please obtain the supplier invoice)
+
+If expense receipts are lost or the incorrect supporting document is uploaded, we can't reclaim the VAT on the purchase.
+
+Please try to upload documents to Receipt Bank as soon as possible after you've spent the money. If in doubt, just ask Hannah! 
 
 Purchases of equipment and supplies are handled differently, see the Tool section.
-
-Supporting documentation (e.g. receipts) should be submitted via ReceiptBank. Where they can be billed to a project please indicate this in the notes field before submitting.
-
-Repayments will be made by BACS within 21 days.
 
 **If I go by car?**
 
