@@ -1,28 +1,29 @@
-site_name: Deeson Codex
+site_name: Deeson Handbook
 theme: readthedocs
 repo_url: https://github.com/teamdeeson/codex
+copyright: <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />The Deeson Handbook is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 pages:
 - Home: index.md
-- About: about.md
-- Deeson Handbook:
+- THE BASICS:
     - Principles and values: handbook/principles-and-values.md
     - Self-organisation: handbook/self-organisation.md
     - Accountabilities and teams: handbook/accountabilities-and-teams.md
     - Roles at Deeson: handbook/roles-at-deeson.md
     - Pods: handbook/pods.md
     - Chapters: handbook/chapters.md
-    - Company-wide tools, processes and policies: handbook/principles-and-values.md
-- Working at Deeson:
+    - Company-wide tools, processes and policies: handbook/tools-processes-policies.md
+- WORKING AT DEESON:
     - Joining Deeson: working-at-deeson/joining-deeson.md
     - Where and when we work: working-at-deeson/where-and-when-we-work.md
     - Personal goals and development: working-at-deeson/personal-goals-and-development.md
     - Tools, purchasing and equipment: working-at-deeson/tools-purchasing-and-equipment.md
+    - Time recording: working-at-deeson/time-recording.md
     - Pay, benefits and expenses: working-at-deeson/pay-benefits-and-expenses.md
     - Taking leave: working-at-deeson/taking-leave.md
-    - Canterbury office: working-at-deeson/canterbury-office.md
+    - Deeson offices: working-at-deeson/deeson-offices.md
     - Useful links: working-at-deeson/useful-links.md
-    - Q&A: working-at-deeson/questions-and-answers.md
-- Development:
+    - User guides: working-at-deeson/user-guides.md
+- DEVELOPMENT:
     - Our Approach: development/approach.md
     - Local development: development/vdd.md
     - Front end: development/frontend.md
@@ -36,4 +37,4 @@ pages:
     - Brown bags: development/brown-bags.md
     - Jira: development/jira.md
     - Handover comms: development/handover.md
-- Discovery: discovery.md
+- DISCOVERY: discovery.md
