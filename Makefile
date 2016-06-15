@@ -13,3 +13,6 @@ build:
 
 serve:
 	mkdocs serve
+
+deploy: build
+	@deepub.sh publish codex site/
