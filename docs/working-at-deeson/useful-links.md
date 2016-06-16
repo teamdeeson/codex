@@ -8,7 +8,7 @@
 
 - [Estimating methodology for projects](https://docs.google.com/document/d/115Pup6P7hL1tMS6K4cSX_ewzWom96Eb3dtmrOlR3alw/edit)
 - [The Deeson project blueprint - template](https://docs.google.com/document/d/1fqNkhTgEo6OZj8ewQAioTqbjDWq61cxRIN3FjDsQvMg/edit)
-- [Discovert process](https://docs.google.com/document/d/1ugutCc-e7LvaPNYw3X7T2pEwz2KulCzc2TWGpa-5mAw/edit#heading=h.dglinb4whg2q)
+- [Discovery process](https://docs.google.com/document/d/1ugutCc-e7LvaPNYw3X7T2pEwz2KulCzc2TWGpa-5mAw/edit#heading=h.dglinb4whg2q)
 - [Payment models for projects](https://docs.google.com/document/d/1Bti69GzVe_mk0MCRn5w_lLpzhks_HyLZvarxIT1fqbo/edit)
 
 #Company tools
