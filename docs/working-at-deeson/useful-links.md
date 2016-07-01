@@ -36,6 +36,7 @@
 #Policies and procedures
 
 - [Deeson company policies](https://docs.google.com/document/d/1rGy0i56tOjmohsM8lfkFboq1F4Wyi0jkwyL6VHr3Q0M/edit)
+- [Guidelines for client service using Slack](https://docs.google.com/document/d/1PWLrExVQiR6wS0a52i7AYzX8FaiWYmSMOcKsPWg322g/edit)
 - [Weekly project oversight responsibilities for AMs, SAs, UXs, and FM](https://docs.google.com/document/d/1GXm6aV3zOa172EgbzPVTT3wbxAbNXhsz9Y-n322-RwY/edit) 
 - [ISO Quality Manual & Procedures](https://drive.google.com/a/deeson.co.uk/folderview?id=0B0GQKUgEHXldYXY1d01ha1VaRkU&usp=sharing)
 - [Laptop retention and disposal policy](https://docs.google.com/document/d/1yMDWQCJDbgxQkSu9sMvPsBLjeOTDxKGOYhNrbnUQe3M/edit) 
