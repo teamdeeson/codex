@@ -4,12 +4,14 @@
 - [Team contact details](https://deeson-agency.slack.com/team)
 - Company and pod dashboards - link is pinned in the #general channel on Slack
 
-#Project processes and templates
+#Processes and templates
 
 - [Estimating methodology for projects](https://docs.google.com/document/d/115Pup6P7hL1tMS6K4cSX_ewzWom96Eb3dtmrOlR3alw/edit)
 - [The Deeson project blueprint - template](https://docs.google.com/document/d/1fqNkhTgEo6OZj8ewQAioTqbjDWq61cxRIN3FjDsQvMg/edit)
-- [Discovert process](https://docs.google.com/document/d/1ugutCc-e7LvaPNYw3X7T2pEwz2KulCzc2TWGpa-5mAw/edit#heading=h.dglinb4whg2q)
+- [Discovery process](https://docs.google.com/document/d/1ugutCc-e7LvaPNYw3X7T2pEwz2KulCzc2TWGpa-5mAw/edit#heading=h.dglinb4whg2q)
 - [Payment models for projects](https://docs.google.com/document/d/1Bti69GzVe_mk0MCRn5w_lLpzhks_HyLZvarxIT1fqbo/edit)
+- [Standard terms and conditions](https://docs.google.com/document/d/1AqcHf5br2mpxLUTZ9GqucezAgr3oCto8drbpARhmOGY/edit)
+- [New business process](https://docs.google.com/presentation/d/12YKQqMV48oZx2KfD0qqJaE9ZIVrtw3yRx1hz7jwRmj0/edit#slide=id.p)
 
 #Company tools
 
@@ -34,6 +36,7 @@
 #Policies and procedures
 
 - [Deeson company policies](https://docs.google.com/document/d/1rGy0i56tOjmohsM8lfkFboq1F4Wyi0jkwyL6VHr3Q0M/edit)
+- [Guidelines for client service using Slack](https://docs.google.com/document/d/1PWLrExVQiR6wS0a52i7AYzX8FaiWYmSMOcKsPWg322g/edit)
 - [Weekly project oversight responsibilities for AMs, SAs, UXs, and FM](https://docs.google.com/document/d/1GXm6aV3zOa172EgbzPVTT3wbxAbNXhsz9Y-n322-RwY/edit) 
 - [ISO Quality Manual & Procedures](https://drive.google.com/a/deeson.co.uk/folderview?id=0B0GQKUgEHXldYXY1d01ha1VaRkU&usp=sharing)
 - [Laptop retention and disposal policy](https://docs.google.com/document/d/1yMDWQCJDbgxQkSu9sMvPsBLjeOTDxKGOYhNrbnUQe3M/edit) 
