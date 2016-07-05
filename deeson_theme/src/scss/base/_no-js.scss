@@ -1,0 +1,21 @@
+html .no-js{
+  display: none;
+}
+
+html.no-js {
+
+  // Button group inputs should not be hidden for users with JS disabled
+  [data-toggle=buttons] > .btn-group > .btn input[type=checkbox], [data-toggle=buttons] > .btn-group > .btn input[type=radio], [data-toggle=buttons] > .btn input[type=checkbox], [data-toggle=buttons] > .btn input[type=radio] {
+    position: inherit;
+    clip: inherit;
+    pointer-events: inherit;
+  }
+
+  .js{
+    display: none;
+  }
+  .no-js{
+    display: inherit;
+  }
+
+}

@@ -1,0 +1,14 @@
+/*
+  Manage z-index stack here
+*/
+
+$vars_z-index: (
+    header: 1,
+    overlay: 4,
+    logo: 5,
+    nav-button: 7,
+    timeline-circle: 7,
+    case-study-teaser: 7,
+    mobile-menu: 6,
+    block-p: 2
+);

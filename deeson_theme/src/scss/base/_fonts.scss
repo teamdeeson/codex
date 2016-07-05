@@ -1,0 +1,137 @@
+@font-face {
+  font-family: "Circular-Bold-S";
+  src:url("../fonts/lineto-circular-bold.eot");
+  src:url("../fonts/lineto-circular-bold.eot?#iefix") format("embedded-opentype"),
+  url("../fonts/lineto-circular-bold.woff2") format("woff2"),
+  url("../fonts/lineto-circular-bold.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Circular-Bold-Italic";
+  src:url("../fonts/lineto-circular-bolditalic.eot");
+  src:url("../fonts/lineto-circular-bolditalic.eot?#iefix") format("embedded-opentype"),
+  url("../fonts/lineto-circular-bolditalic.woff2") format("woff2"),
+  url("../fonts/lineto-circular-bolditalic.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Circular-Book";
+  src:url("../fonts/lineto-circular-book.eot");
+  src:url("../fonts/lineto-circular-book.eot?#iefix") format("embedded-opentype"),
+  url("../fonts/lineto-circular-book.woff2") format("woff2"),
+  url("../fonts/lineto-circular-book.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Circular-Book-Italic";
+  src:url("../fonts/lineto-circular-bookitalic.eot");
+  src:url("../fonts/lineto-circular-bookitalic.eot?#iefix") format("embedded-opentype"),
+  url("../fonts/lineto-circular-bookitalic.woff2") format("woff2"),
+  url("../fonts/lineto-circular-bookitalic.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+// body copy
+
+@font-face {
+  font-family: "Maison-Neue-Light";
+  src:url("../fonts/MaisonNeue-Light.otf");
+  src:url("../fonts/MaisonNeue-Light.otf?#iefix") format("embedded-opentype"),
+  url("../fonts/MaisonNeueWEB-Light.woff2") format("woff2"),
+  url("../fonts/MaisonNeueWEB-Light.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Maison-Neue-Light-Italic";
+  src:url("../fonts/MaisonNeue-Lightitalic.otf");
+  src:url("../fonts/MaisonNeue-Lightitalic.otf?#iefix") format("embedded-opentype"),
+  url("../fonts/MaisonNeueWEB-Lightitalic.woff2") format("woff2"),
+  url("../fonts/MaisonNeueWEB-Lightitalic.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Maison-Neue-Medium";
+  src:url("../fonts/MaisonNeue-Medium.otf");
+  src:url("../fonts/MaisonNeue-Medium.otf?#iefix") format("embedded-opentype"),
+  url("../fonts/MaisonNeueWEB-Medium.woff2") format("woff2"),
+  url("../fonts/MaisonNeueWEB-Medium.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Maison-Neue-Mediumitalic";
+  src:url("../fonts/MaisonNeue-Mediumitalic.otf");
+  src:url("../fonts/MaisonNeue-Mediumitalic.otf?#iefix") format("embedded-opentype"),
+  url("../fonts/MaisonNeueWEB-Mediumitalic.woff2") format("woff2"),
+  url("../fonts/MaisonNeueWEB-Mediumitalic.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Maison-Neue-Bold";
+  src:url("../fonts/MaisonNeue-Bold.otf");
+  src:url("../fonts/MaisonNeue-Bold.otf?#iefix") format("embedded-opentype"),
+  url("../fonts/MaisonNeueWEB-Bold.woff2") format("woff2"),
+  url("../fonts/MaisonNeueWEB-Bold.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Maison-Neue-Bolditalic";
+  src:url("../fonts/MaisonNeue-Bolditalic.otf");
+  src:url("../fonts/MaisonNeue-Bolditalic.otf?#iefix") format("embedded-opentype"),
+  url("../fonts/MaisonNeueWEB-Bolditalic.woff2") format("woff2"),
+  url("../fonts/MaisonNeueWEB-Bolditalic.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+$font-family-titles: "Circular-Bold-S";
+$font-family-book: "Circular-Book";
+
+// GLOBAL STYLES
+
+// mobile sizes
+
+@media (max-width:$screen-xs-max) {
+
+  h1 {
+    font-size: $font-size-base * 3;
+  }
+
+}
+
+p a {
+  text-decoration: underline;
+  color: $deeson-grey;
+}
+
+
+// block quote
+
+
+.intro-para {
+  font-size: $font-size-base * 1.1666666667;
+  font-family: "Maison-Neue-Medium";
+}
+
+// overriding the html
+
+strong, b {
+  font-family: "Maison-Neue-Bold";
+}

@@ -1,3 +1,6 @@
 _build
 site
 .idea
+deesontheme/.sass-cache
+deesontheme/bower_components
+deesontheme/node_modules

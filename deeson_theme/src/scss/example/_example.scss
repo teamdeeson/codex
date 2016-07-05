@@ -1,0 +1,31 @@
+// BEM style component example
+
+$vars_example: (
+    header-height: 170px
+);
+
+.example{
+  display:inline-block;
+
+  background-color:tomato;
+  height: calc(100vh - #{map-get($vars_example, header-height)});
+
+  .example__element{
+    display:block;
+    margin:10px;
+    width:50px;
+    height:50px;
+
+    background-color:red;
+
+    &.example__element--modifier{
+      margin:5px;
+
+      border:coral 5px solid;
+    }
+  }
+
+  &.example--modifier{
+    background-color:navajowhite;
+  }
+}

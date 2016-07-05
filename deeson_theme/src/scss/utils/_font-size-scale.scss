@@ -1,0 +1,41 @@
+/**
+* Requires Bootstrap 3.x
+*
+* @author Deeson
+**/
+@import "../lib/bootstrap/variables";
+
+@function _get-vw($target) {
+  // 1 vw is equal to 1% of the viewport width
+  $_vw-context: ($screen-lg-min * .01) * 1; // 1% viewport width
+  @return ($target/$_vw-context) * 1vw;
+}
+
+// Returns a font size at 70% or min font size if too small
+@function _calc-min-font-size($standard-font-size) {
+  $_some-var: ceil(($standard-font-size * 0.7));
+  @return if($_some-var > $font-size-small, $_some-var, $font-size-small);
+}
+
+/**
+ * Create a scaling font value based on browser width `vw` unit
+ * with a max font size set at the largest breakpoint.
+ * ---
+ * @access public
+ * ---
+ * @param {string} $font-size — font size at largest breakpoint (px)
+ * @param {string} $min-font-size — an optional
+ */
+@mixin font-size-scale($font-size, $min-font-size:_calc-min-font-size($font-size)) {
+  font-size: $font-size;
+  font-size: _get-vw($font-size);
+
+  // Prevent font-size from getting too small
+  @media (max-width:$screen-xs-max) {
+    font-size: $min-font-size;
+  }
+  // Prevent font-size from getting too big
+  @media (min-width:$screen-lg-min) {
+    font-size: $font-size;
+  }
+}

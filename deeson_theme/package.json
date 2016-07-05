@@ -1,0 +1,62 @@
+{
+  "name": "deeson-frontend",
+  "projectName": "Deeson frontend",
+  "description": "Deeson front end static asset build scripts (gulp, scss, twitter-bootstrap)",
+  "version": "2.0.0",
+  "author": "Deeson",
+  "license": "MIT",
+  "repository" :
+  { "type" : "git",
+    "url" : "https://bitbucket.org/deesongroup6346/bootstrap_boilerplate"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/gulp",
+    "clean": "rm -rf dist/",
+    "build": "npm run clean && ./node_modules/.bin/gulp --no-open",
+    "prod": "NODE_ENV=production npm run build"
+  },
+  "engines": {
+    "node": ">= 5.2.0"
+  },
+  "dependencies": {
+    "autoprefixer": "^6.3.1",
+    "bootstrap-sass": "^3.3.5",
+    "bower": "^1.7.2",
+    "browser-sync": "^2.9.12",
+    "browserify": "^12.0.1",
+    "browserify-shim": "^3.8.11",
+    "browserslist": "^1.1.3",
+    "cssnano": "^3.4.0",
+    "del": "^2.2.0",
+    "eslint": "^1.10.3",
+    "find-node-modules": "^1.0.1",
+    "findup-sync": "^0.3.0",
+    "gulp": "^3.9.0",
+    "gulp-compile-handlebars": "^0.5.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-contains": "^1.0.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-jscs": "^3.0.2",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-postcss": "^6.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.1.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-util": "^3.0.7",
+    "handlebars": "^4.0.4",
+    "handlebars-layouts": "^3.1.2",
+    "imagemin-pngquant": "^4.2.0",
+    "jscs": "^2.8.0",
+    "lmn-gulp-tasks": "5.1.0",
+    "lodash": "^3.10.1",
+    "multipipe": "^0.3.0",
+    "node-sass": "^3.4.2",
+    "path": "^0.12.7",
+    "phantomjs": "^1.9.18",
+    "rev-del": "^1.0.5",
+    "stringify": "^3.1.0",
+    "through2": "^2.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
