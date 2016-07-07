@@ -3,10 +3,14 @@ $font-family-sub-title: "Circular-Book";
 $font-family-text: "Maison-Neue-Light";
 $font-family-text-bold: "Maison-Neue-Bold";
 
-body{
+html{
   font-family: $font-family-text;
   font-size: 16px;
   line-height: 1.875;
+
+  @media only screen and (max-width: $breakpoint-main-content-menu-1-max){
+    font-size: 12px;
+  }
 }
 
 h1{
@@ -49,9 +53,9 @@ h4,h5,h6{
 blockquote{
   margin-top: 24px;
   margin-bottom: 12px;
-  padding-left: 36px;
+  padding-left: 2.25rem;
 
-  font-size: 36px;
-  line-height: 48px;
+  font-size: 2.25rem;
+  line-height: 1.33;
 }
 
