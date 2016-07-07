@@ -1,0 +1,19 @@
+<ul class="breadcrumbs" role="navigation" aria-label="breadcrumbs navigation">
+  <li class="breadcrumbs__item">
+    <a class="breadcrumbs__link" href="{{ homepage_url }}">
+      Handbook
+    </a>
+  </li>
+  {% for section in nav %}
+  {% if section.active %}
+  <li class="breadcrumbs__item">
+    <a class="breadcrumbs__link" href="../">{{ section.title }}</a>
+  </li>
+  {% if section.children %}
+  <li class="breadcrumbs__item breadcrumbs__item--active">
+    <a class="breadcrumbs__link" href="{{ current_page.url }}">{{ current_page.title }}</a>
+  </li>
+  {% endif %}
+  {% endif %}
+  {% endfor %}
+</ul>

@@ -1,0 +1,26 @@
+.menu{
+  padding:0;
+  margin:0.625em 0 0 0;
+
+  text-transform: uppercase;
+
+  .menu__item{
+    list-style: none;
+    margin-bottom: 0.625em;
+
+    &.menu__item--active{
+      font-family: $font-family-text-bold;
+    }
+  }
+
+  .menu__link{
+    color: white;
+    text-decoration: none;
+  }
+
+  .menu{
+    margin-left: 1.5em;
+
+    text-transform: none;
+  }
+}

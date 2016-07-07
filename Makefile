@@ -6,8 +6,14 @@ install:
 clean:
 	rm -rf site
 
-build:
-	mkdocs build
+# Build the theme assets
+build-frontend:
+	cd deeson-theme && \
+	  npm i && \
+	  npm run prod
+
+build: build-frontend
+	mkdocs build --clean
 	@echo
 	@echo "Build finished. The HTML pages are in the site directory"
 
@@ -15,4 +21,4 @@ serve:
 	mkdocs serve
 
 deploy: build
-	@deepub.sh publish codex site/
+	@deepub.sh publish handbook site/

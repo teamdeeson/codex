@@ -1,17 +1,17 @@
-# Deeson Codex
+# Deeson handbook
 
 Deeson is a Digital Agency in Europe https://www.deeson.co.uk
 
 This is our internal processes and best practices, open to the world.
 
-## Editing the Codex
+## Editing the handbook
 
-If you'd like to contribute to the Codex, its in a git repository so
+If you'd like to contribute to the handbook, its in a git repository so
 go ahead and make a pull request. Deeson employees can edit files
 directly in GitHub (find the page and click edit) or by using
 [prose.io](https://prose.io)
 
-## Building the Codex
+## Building the handbook
 
 There is no need to do this if you just want to edit the documentation.
 
