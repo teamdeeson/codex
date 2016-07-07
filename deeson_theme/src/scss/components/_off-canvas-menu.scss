@@ -1,0 +1,53 @@
+.off-canvas-menu {
+
+  .off-canvas-menu__trigger{
+    display: none;
+  }
+
+  .off-canvas-menu__close-trigger{
+    display: none;
+  }
+
+  @media only screen and (max-width: $breakpoint-main-content-menu-1-max){
+
+    transform: translate3d(0, 0, 0);
+    transition: transform 500ms ease;
+
+    .off-canvas-menu__menu{
+      position: absolute;
+      left: map-get($vars_handbook, sidebar-width) * -1;
+      top: 0;
+      height: 100%;
+    }
+
+    .off-canvas-menu__content{
+      transform: translate3d(0, 0, 0);
+      transition: transform 500ms ease;
+    }
+
+    &.off-canvas-menu--open {
+      left:0;
+      transform: translate3d(map-get($vars_handbook, sidebar-width), 0, 0);
+    }
+
+    .off-canvas-menu__trigger{
+      display: inline-block;
+      border-radius: 1px;
+      margin-right:1em;
+
+      text-transform: uppercase;
+      text-decoration: none;
+    }
+
+    .off-canvas-menu__close-trigger{
+      display: block;
+      position:absolute;
+      right: 1rem;
+      top: 1rem;
+
+      font-size: 2rem;
+    }
+
+  }
+
+}

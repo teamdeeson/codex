@@ -26,18 +26,6 @@ gulp.task('clean', getLmnTask('clean', {
   src: './dist/'
 }));
 
-gulp.task('copy-bootstrap-fonts', getLmnTask('extract', {
-  module: 'bootstrap-sass',
-  src: '/assets/fonts/**/*.*',
-  dest: './dist/fonts/bootstrap/'
-}));
-gulp.task('copy-bootstrap-js', getLmnTask('extract', {
-  module: 'bootstrap-sass',
-  src: '/assets/javascripts/**/*.js',
-  dest: './dist/js/bootstrap/'
-}));
-gulp.task('bootstrap-assets', ['copy-bootstrap-fonts','copy-bootstrap-js']);
-
 gulp.task('images', getTask('images'));
 
 gulp.task('html', getTask('html'));
@@ -52,12 +40,12 @@ gulp.task('style', getTask('style', {
   src: './src/scss/*.scss',
   dest: './dist/css',
   imagePath: '../img/',
-  includePaths: ['bootstrap-sass']
+  includePaths: ['normalize.css']
 }));
 gulp.task('move-fonts', getLmnTask('copy', {
   src: './src/fonts/**.*',
   dest: './dist/fonts/'
 }));
 
-gulp.task('default', ['html', 'js', 'style', 'images', 'move-fonts', 'bootstrap-assets'], getTask('default'));
+gulp.task('default', ['html', 'js', 'style', 'images', 'move-fonts'], getTask('default'));
 

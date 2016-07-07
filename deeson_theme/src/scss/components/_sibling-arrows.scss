@@ -1,0 +1,23 @@
+.sibling-arrows{
+  @include clearfix;
+
+  .sibling-arrows__arrow {
+    font-family: $font-family-titles;
+    font-size: 1.3125rem;
+
+    color: $color-grey-mid;
+    text-decoration: none;
+
+    &[href]{
+      color: $color-grey-dark;
+    }
+
+    &.sibling-arrows__arrow--left{
+      float:left;
+    }
+    &.sibling-arrows__arrow--right{
+      float:right;
+    }
+
+  }
+}

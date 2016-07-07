@@ -1,14 +1,11 @@
-<!--
-
--->
 {% if not nav_item.children %}
-<li {% if nav_item.active %}class="active"{% endif %}>
-    <a href="{{ nav_item.url }}">{{ nav_item.title }}</a>
+<li class="menu__item{% if nav_item.active %} menu__item--active{% endif %}">
+    <a class="menu__link" href="{{ nav_item.url }}">{{ nav_item.title }}</a>
 </li>
 {% else %}
-  <li>
+  <li class="menu__item">
     {{ nav_item.title }}
-    <ul>
+    <ul class="menu">
         {% for nav_item in nav_item.children %}
             {% include "nav.html" %}
         {% endfor %}

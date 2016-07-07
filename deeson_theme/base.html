@@ -1,197 +1,174 @@
-<!--
-  This Basic theme serves as an example for how to create other
-  themes by demonstrating the features with minimal HTML and CSS.
-  Comments like this will be through the code to explain briefly
-  what each feature is and point you to the MkDocs documentation
-  to find out more.
--->
 <!DOCTYPE html>
+<html lang="en">
 <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <meta name="description" content="">
+  <meta name="author" content="">
 
-  <!--
-    The page_title contains the title for a page as shown in the navigation.
-    Site name contains the name as defined in the mkdocs.yml
-  -->
+  {% if favicon %}
+  <link rel="shortcut icon" href="{{ favicon }}">
+  {% else %}
+  <link rel="shortcut icon" href="{{ base_url }}/favicon.ico">
+  {% endif %}
+
   <title>{% if page_title %}{{ page_title }} - {% endif %}{{ site_name }}</title>
 
-  <!--
-    Support custom favicon support.
-    http://www.mkdocs.org/user-guide/configuration/#site_favicon
-  -->
-  {% if favicon %}
-    <link rel="shortcut icon" href="{{ favicon }}">
-  {% else %}
-    <link rel="shortcut icon" href="{{ base_url }}/favicon.ico">
-  {% endif %}
-
-  <!--
-    You can include external assets of course, but be aware that it means the
-    documentation may not work well offline.
-  -->
-  <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
-
+  <!-- Custom styles for this template -->
   <link rel="stylesheet" href="{{ base_url }}/dist/css/all.css">
 
-  <!--
-    extra_ess contains paths to CSS files in the users
-    documentation directory or a list of CSS files defined in
-    their mkdocs.yml.
-
-    http://www.mkdocs.org/user-guide/configuration/#extra_css
-  -->
   {% for path in extra_css %}
-    <link href="{{ path }}" rel="stylesheet">
+  <link href="{{ path }}" rel="stylesheet">
   {% endfor %}
 
-  <!--
-    To include static assets from our theme, just add
-    {{ base_url }} beforehand which will be the relative path to
-    the root of the documentation.
-  -->
-  <script src="{{ base_url }}/dist/js/all.js"></script>
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
 
-  <!--
-    extra_javascript contains paths to JavaScript files in the
-    users documentation directory or a list of JavaScript files
-    defined in their mkdocs.yml.
-
-    http://www.mkdocs.org/user-guide/configuration/#extra_javascript
-  -->
-  {% for path in extra_javascript %}
-    <script src="{{ path }}"></script>
-  {% endfor %}
-
-  <!--
-    Include Google Analytics tracking code.
-
-    http://www.mkdocs.org/user-guide/configuration/#google_analytics
-  -->
   {% if google_analytics %}
   <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-      ga('create', '{{ google_analytics[0] }}', '{{ google_analytics[1] }}');
-      ga('send', 'pageview');
+    ga('create', '{{ google_analytics[0] }}', '{{ google_analytics[1] }}');
+    ga('send', 'pageview');
   </script>
   {% endif %}
+
+  <link rel="stylesheet" href="https://i.icomoon.io/public/96e9843f50/Deesonhandbook/style.css">
 
   {% block extrahead %}
   {% endblock %}
 </head>
 
-<body>
+<body role="document">
 
-  <h1>This is an example theme for MkDocs.</h1>
-
-  <p>
-    It is designed to be read by looking at the theme HTML which is heavily
-    commented. The easiest way to do that is by
-    <strong><a href="https://github.com/mkdocs/mkdocs-basic-theme/tree/master/basic_theme">
-    looking at the source on GitHub.</a></strong>. Otherwise this is just a
-    demonstration that the theme is fully functional.
-  </p>
-
-  <hr/>
-
-  <h2>Documentation Navigation</h2>
-
-  <!--
-    Create the navigation for the documentation.
-
-    Because we don't know how many levels deep the navigation is, it needs to
-    be included in it's own file so it can be recursive. Otherwise the theme
-    can also only support a specific number of levels.
-
-    See the nav.html file for more details about how this works.
-  -->
-  <ul>
-  {% for nav_item in nav %}
-    {% include "nav.html" %}
-  {% endfor %}
-  </ul>
-
-  <hr/>
-
-  <h2>Support for search</h2>
-  <!--
-    Create a search form that sends the user to the search.html file - this is
-    the other file in the template which adds search to the theme. The only
-    requirement here is that there is a text input with the name 'q' and the
-    action and methods match below.
-  -->
-  <div role="search">
-    <form action="{{ base_url }}/search.html" method="get">
-      <input type="text" name="q" placeholder="Search docs" />
-    </form>
-  </div>
-
-  <hr/>
-
-  <h2>Next and previous links</h2>
-  <!--
-    Implement the previous and next links to cycle through the pages.
-  -->
-  {% if next_page or previous_page %}
-    <div>
-      {% if previous_page %}
-        <a href="{{ previous_page.url }}" title="{{ previous_page.title }}">&#8592; Previous Page</a>
-      {% else %}
-        &#8592; Previous Page
-      {% endif %}
-      -
-      {% if next_page %}
-        <a href="{{ next_page.url }}" title="{{ next_page.title }}"/>Next Page &#8594;</a>
-      {% else %}
-        Next Page &#8594;
-      {% endif %}
+<div class="handbook off-canvas-menu">
+  <div class="handbook__sidebar off-canvas-menu__menu">
+    <div class="sidebar">
+      <div class="off-canvas-menu__close-trigger">
+        <span class="icon-close"></span>
+      </div>
+      <div class="sidebar__logo logo">
+        <a href="{{ homepage_url }}" class="logo__image">
+          Deeson
+        </a>
+      </div>
+      <div class="sidebar__search search" role="search">
+        <form action="{{ base_url }}/search.html" method="get">
+          <input type="search" class="search__input" name="q" placeholder="Search docs" />
+        </form>
+      </div>
+      <nav class="sidebar__menus nav-block">
+        <h2 class="nav-block__title">
+          Menu title
+        </h2>
+        <ul class="nav-block___menu menu" role="navigation" aria-label="main navigation">
+          {% for nav_item in nav %}
+          {% include "nav.html" %}
+          {% endfor %}
+        </ul>
+      </nav>
     </div>
-  {% endif %}
+  </div>
+  <div class="handbook__main off-canvas-menu__content">
+    <section class="handbook__main__content content">
+      <header class="content__header">
+        <div class="off-canvas-menu__trigger">
+          <span class="icon-list"></span>
+        </div>
+        {% include "breadcrumbs.html" %}
+        {% if repo_url %}
+        <a href="{{ repo_url }}" class="git-link pull-right">
+          {% if repo_name == 'GitHub' %}
+          <span class="icon-github"></span> Edit on GitHub
+          {% elif repo_name == 'Bitbucket' %}
+          <span class="icon-bitbucket"></span> Edit on BitBucket
+          {% else %}
+          Edit in Repository
+          {% endif %}
+        </a>
+        {% endif %}
+      </header>
+      <main class="content__main">
+        <h1>
+          This is the primary heading and there should only be one of these per page
+        </h1>
+        {% block content %}
+        {{ content }}
+        {% endblock %}
 
-  <hr/>
+        <div class="table-of-contents">
+          <h2>
+            Contents for the current page
+          </h2>
+          <ul>
+            {% for toc_item in toc %}
+            <li><a href="{{ toc_item.url }}">{{ toc_item.title }}</a></li>
+            {% for toc_item in toc_item.children %}
+            <li><a href="{{ toc_item.url }}">{{ toc_item.title }}</a></li>
+            {% endfor %}
+            {% endfor %}
+          </ul>
+        </div>
 
-  <h2>Link to the source</h2>
-  <!--
-    Support repo URL
-  -->
-  {% if repo_url %}
-    {% if repo_name == 'GitHub' %}
-      <a href="{{ repo_url }}"> Edit on GitHub</a>
-    {% elif repo_name == 'Bitbucket' %}
-      <a href="{{ repo_url }}"> Edit on BitBucket</a>
-    {% else %}
-      <a href="{{ repo_url }}"> Edit in Repository</a>
-    {% endif %}
-  {% endif %}
+      </main>
+      <footer class="content__footer">
 
-  <hr/>
+        {% if next_page or previous_page %}
+        <div class="sibling-arrows">
+          {% if previous_page %}
+          <a class="sibling-arrows__arrow sibling-arrows__arrow--left" href="{{ previous_page.url }}" title="{{ previous_page.title }}">
+            <span class="icon-arrow-left"></span> Previous page
+          </a>
+          {% else %}
+          <span class="sibling-arrows__arrow sibling-arrows__arrow--left" title="{{ previous_page.title }}">
+              <span class="icon-arrow-left"></span> Previous page
+          </span>
+          {% endif %}
+          {% if next_page %}
+          <a class="sibling-arrows__arrow sibling-arrows__arrow--right" href="{{ next_page.url }}" title="{{ next_page.title }}"/>
+          Next page <span class="icon-arrow-right"></span>
+          </a>
+          {% else %}
+          <span class="sibling-arrows__arrow sibling-arrows__arrow--right" title="{{ next_page.title }}"/>
+          Next page <span class="icon-arrow-right"></span>
+          </span>
+          {% endif %}
+        </div>
+        {% endif %}
 
-  <h2>Show the table of contents for the current page</h2>
-  <ul>
-  {% for toc_item in toc %}
-      <li><a href="{{ toc_item.url }}">{{ toc_item.title }}</a></li>
-      {% for toc_item in toc_item.children %}
-          <li><a href="{{ toc_item.url }}">{{ toc_item.title }}</a></li>
-      {% endfor %}
-  {% endfor %}
-  </ul>
+        <div class="content__footer__extra-info">
 
-  <hr/>
+          {% if copyright %}
+          <div class="copyright-info">
+            <p>{{ copyright }}</p>
+          </div>
+          {% endif %}
 
-  {% block content %}
-    {{ content }}
-  {% endblock %}
+          <div class="credit">
+            <p>
+              Built with MkDocs using the <a href="https://github.com/teamdeeson/codex/tree/master/deeson_theme">Deeson</a> theme.
+            </p>
+          </div>
+        </div>
+      </footer>
+    </section>
+  </div>
+</div>
 
-  <hr/>
-
-  Built with <a href="http://www.mkdocs.org">MkDocs</a>.
-
-  <!--
+<!--
   MkDocs version      : {{ mkdocs_version }}
   Docs Build Date UTC : {{ build_date_utc }}
   -->
+
+<script src="{{ base_url }}/dist/js/all.js"></script>
 
 </body>
 </html>

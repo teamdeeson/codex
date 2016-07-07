@@ -5,9 +5,9 @@
   "version": "2.0.0",
   "author": "Deeson",
   "license": "MIT",
-  "repository" :
-  { "type" : "git",
-    "url" : "https://bitbucket.org/deesongroup6346/bootstrap_boilerplate"
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/deesongroup6346/bootstrap_boilerplate"
   },
   "scripts": {
     "start": "./node_modules/.bin/gulp",
@@ -58,5 +58,9 @@
     "stringify": "^3.1.0",
     "through2": "^2.0.0",
     "vinyl-source-stream": "^1.1.0"
+  },
+  "devDependencies": {
+    "jquery": "^3.0.0",
+    "normalize.css": "^4.2.0"
   }
 }

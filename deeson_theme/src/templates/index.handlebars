@@ -1,20 +1,156 @@
 {{> header}}
 
-<div class="handbook">
-    <div class="handbook__sidebar">
-        <div class="menu">
-            <h1>
-                SIDEBAR
-            </h1>
+<div class="handbook off-canvas-menu">
+    <div class="handbook__sidebar off-canvas-menu__menu">
+        <div class="sidebar">
+            <div class="off-canvas-menu__close-trigger">
+                <span class="icon-close"></span>
+            </div>
+            <div class="sidebar__logo logo">
+                <a class="logo__image">
+                    Deeson
+                </a>
+            </div>
+            <div class="sidebar__search search">
+                <input type="search" class="search__input" placeholder="Search...">
+            </div>
+            <nav class="sidebar__menus nav-block">
+                <h2 class="nav-block__title">
+                    Menu title
+                </h2>
+                <ul class="nav-block___menu menu">
+                    <li class="menu__item">
+                        <a href="#" class="menu__link">
+                            Some nav item
+                        </a>
+                    </li>
+                    <li class="menu__item">
+                        <a href="#" class="menu__link">
+                            Some nav item
+                        </a>
+                    </li>
+                    <li class="menu__item">
+                        <a href="#" class="menu__link">
+                            Some nav item
+                        </a>
+                    </li>
+                    <li class="menu__item">
+                        <a href="#" class="menu__link">
+                            Some nav item
+                        </a>
+                    </li>
+                    <li class="menu__item menu__item--active">
+                        <a href="#" class="menu__link">
+                            Some nav item
+                        </a>
+                        <ul class="menu">
+                            <li class="menu__item">
+                                <a href="#" class="menu__link">
+                                    Some nav item
+                                </a>
+                            </li>
+                            <li class="menu__item">
+                                <a href="#" class="menu__link">
+                                    Some nav item
+                                </a>
+                            </li>
+                            <li class="menu__item">
+                                <a href="#" class="menu__link">
+                                    Some nav item
+                                </a>
+                            </li>
+                            <li class="menu__item">
+                                <a href="#" class="menu__link">
+                                    Some nav item
+                                </a>
+                            </li>
+                            <li class="menu__item">
+                                <a href="#" class="menu__link">
+                                    Some nav item
+                                </a>
+                            </li>
+                            <li class="menu__item">
+                                <a href="#" class="menu__link">
+                                    Some nav item
+                                </a>
+                            </li>
+                            <li class="menu__item">
+                                <a href="#" class="menu__link">
+                                    Some nav item
+                                </a>
+                            </li>
+                            <li class="menu__item">
+                                <a href="#" class="menu__link">
+                                    Some nav item
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="menu__item">
+                        <a href="#" class="menu__link">
+                            Some nav item
+                        </a>
+                    </li>
+                    <li class="menu__item">
+                        <a href="#" class="menu__link">
+                            Some nav item
+                        </a>
+                    </li>
+                    <li class="menu__item">
+                        <a href="#" class="menu__link">
+                            Some nav item
+                        </a>
+                    </li>
+                </ul>
+            </nav>
         </div>
     </div>
-    <div class="handbook__main">
-        <div class="container">
-            <div class="col-md-12">
-                {{> kitchen-sink}}
+    <div class="handbook__main off-canvas-menu__content">
+        <section class="handbook__main__content content">
 
-            </div>
-        </div>
+            <header class="content__header">
+                <div class="off-canvas-menu__trigger">
+                    <span class="icon-list"></span>
+                </div>
+                <ul class="breadcrumbs">
+                    <li class="breadcrumbs__item">
+                        <a href="#" class="breadcrumbs__link">
+                            Breadcrumb
+                        </a>
+                    </li>
+                    <li class="breadcrumbs__item">
+                        <a href="#" class="breadcrumbs__link">
+                            Breadcrumb
+                        </a>
+                    </li>
+                    <li class="breadcrumbs__item breadcrumbs__item--active">
+                        <a href="#" class="breadcrumbs__link">
+                            Breadcrumb
+                        </a>
+                    </li>
+                </ul>
+                <a href="#" class="git-link pull-right">
+                    <span class="icon-github"></span> View on Github
+                </a>
+            </header>
+            <main class="content__main">
+                {{> kitchen-sink}}
+            </main>
+            <footer class="content__footer">
+                <div class="sibling-arrows">
+                    <div class="sibling-arrows__arrow sibling-arrows__arrow--left"><span class="icon-arrow-left"></span> Prev</div>
+                    <div class="sibling-arrows__arrow sibling-arrows__arrow--right">Next <span class="icon-arrow-right"></span></div>
+                </div>
+                <div class="content__footer__extra-info">
+                    <div class="copyright-info">
+
+                    </div>
+                    <div class="credit">
+                        <p>Built with MkDocs using the <a href="https://github.com/teamdeeson/codex/tree/master/deeson_theme">Deeson</a> theme.</p>
+                    </div>
+                </div>
+            </footer>
+        </section>
     </div>
 </div>
 

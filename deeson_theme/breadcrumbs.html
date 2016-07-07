@@ -1,0 +1,35 @@
+  <ul class="breadcrumbs" role="navigation" aria-label="breadcrumbs navigation">
+    <li class="breadcrumbs__item">
+      <a class="breadcrumbs__link" href="{{ homepage_url }}">
+        Handbook
+      </a>
+    </li>
+    {% if page %}
+      {% for doc in page.ancestors %}
+        {% if doc.link %}
+          <li class="breadcrumbs__item">
+            <a class="breadcrumbs__link" href="{{ doc.link|e }}">
+              {{ doc.title }}
+            </a>
+          </li>
+        {% else %}
+          <li class="breadcrumbs__item">
+              {{ doc.title }}
+          </li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+    {% if page %}<li class="breadcrumbs__item breadcrumbs__item--active">{{ page.title }}</li>{% endif %}
+    <li class="breadcrumbs__item">
+      {%- block repo %}
+      {% if page and page.edit_url %}
+        <a class="breadcrumbs__link" href="{{ page.edit_url }}"
+        {%- if repo_name|lower == 'github' %}
+          <span class="icon icon-github"></span>
+        {%- elif repo_name|lower == 'bitbucket' %}
+          <span class="icon icon-bitbucket"></span>
+        {% endif %}> Edit on {{ repo_name }}</a>
+      {% endif %}
+      {%- endblock %}
+    </li>
+  </ul>

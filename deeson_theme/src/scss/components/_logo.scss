@@ -1,0 +1,12 @@
+.logo{
+  .logo__image{
+    width:150px;
+    padding-top:28px;
+    height:0;
+    overflow: hidden;
+    display: block;
+
+    background-image: url(../img/deeson-logo.svg);
+    background-repeat: no-repeat;
+  }
+}

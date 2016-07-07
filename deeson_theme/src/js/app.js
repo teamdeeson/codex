@@ -1,3 +1,3 @@
-var square = require('./modules/square');
+var offCanvasMenu = require('./modules/off-canvas-menu');
 
-console.log(square(125)); //=> 15625
+offCanvasMenu(); 

@@ -101,37 +101,4 @@
   font-style: normal;
 }
 
-$font-family-titles: "Circular-Bold-S";
-$font-family-book: "Circular-Book";
 
-// GLOBAL STYLES
-
-// mobile sizes
-
-@media (max-width:$screen-xs-max) {
-
-  h1 {
-    font-size: $font-size-base * 3;
-  }
-
-}
-
-p a {
-  text-decoration: underline;
-  color: $deeson-grey;
-}
-
-
-// block quote
-
-
-.intro-para {
-  font-size: $font-size-base * 1.1666666667;
-  font-family: "Maison-Neue-Medium";
-}
-
-// overriding the html
-
-strong, b {
-  font-family: "Maison-Neue-Bold";
-}

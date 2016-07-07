@@ -4,19 +4,39 @@ $vars_handbook: (
 
 .handbook{
   width:100%;
-  display: flex;
-  flex-flow: row nowrap;
+
+  @media only screen and (min-width: $breakpoint-main-content-menu-2-min) {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
 
   .handbook__sidebar{
     width:map-get($vars_handbook, sidebar-width);
-    flex: 1 auto;
+
+    @media only screen and (min-width: $breakpoint-main-content-menu-2-min) {
+      flex-grow: 0;
+      flex-shrink: 0;
+    }
+    padding: 45px;
 
     background-color: #3C3D3E;
     color: white;
   }
   .handbook__main{
-    flex: 1 auto;
+    @media only screen and (min-width: $breakpoint-main-content-menu-2-min) {
+      flex: 1 auto;
+    }
+    margin: 0 auto;
+    padding: 45px;
+    align-items: flex-start;
 
     background-color: white;
+
+    .handbook__main__content{
+      width:100%;
+      max-width: 770px;
+      margin:0 auto;
+    }
   }
 }

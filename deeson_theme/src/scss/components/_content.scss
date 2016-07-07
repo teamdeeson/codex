@@ -1,0 +1,23 @@
+.content{
+  .content__header{
+    border-bottom: 1px solid $color-grey-light;
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+    @include clearfix;
+  }
+  .content__main{
+    @include clearfix;
+  }
+  .content__footer{
+    @include clearfix;
+
+    .content__footer__extra-info{
+      border-top: 1px solid $color-grey-light;
+      margin-top: 1em;
+      padding-top: 1em;
+
+      font-size: 0.9375rem;
+      line-height: 1.6;
+    }
+  }
+}
