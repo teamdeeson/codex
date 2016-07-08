@@ -173,7 +173,7 @@ Master module discussion: https://www.drupal.org/node/2397817
 
 @todo Need to put in the frontend folder and link it into the bootstrap subtheme.
 
-## 10. Updating Drupal
+## Updating Drupal
 
 Updating Drupal core can be done via:
 
