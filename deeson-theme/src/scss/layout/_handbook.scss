@@ -13,6 +13,8 @@ $vars_handbook: (
 
   .handbook__sidebar{
     width:map-get($vars_handbook, sidebar-width);
+    min-height: 100vh;
+    overflow-y: scroll;
 
     @media only screen and (min-width: $breakpoint-main-content-menu-2-min) {
       flex-grow: 0;
@@ -37,6 +39,11 @@ $vars_handbook: (
       width:100%;
       max-width: 770px;
       margin:0 auto;
+
+      img{
+        max-width: 100%;
+        height: auto;
+      }
     }
   }
 }
