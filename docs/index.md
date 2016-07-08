@@ -1,4 +1,4 @@
-We're an agency called Deeson. You can find out more about us over on our website at [www.deeson.co.uk](www.deeson.co.uk).
+We're an agency called Deeson. You can find out more about us over on our website at [http://www.deeson.co.uk/](www.deeson.co.uk).
 
 Our mission is to become Europe’s leading open source agency
 
