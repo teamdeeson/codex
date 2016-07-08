@@ -20,5 +20,5 @@ build: build-frontend
 serve:
 	mkdocs serve
 
-deploy: build
-	@deepub.sh publish handbook site/
+deploy:
+	@echo 'Just commit into master and push, the code is built and deployed to http://handbook.deeon.co.uk'
