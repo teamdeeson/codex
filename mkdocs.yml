@@ -25,6 +25,8 @@ pages:
     - Deeson offices: working-at-deeson/deeson-offices.md
     - Useful links: working-at-deeson/useful-links.md
     - User guides: working-at-deeson/user-guides.md
+- Projects:
+    - Project Healthcheck: handbook/project-healthcheck.md
 - Development:
     - Our Approach: development/approach.md
     - Local development: development/vdd.md
