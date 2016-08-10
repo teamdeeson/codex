@@ -4,7 +4,7 @@ We believe that to be able to do their best work, everyone needs clear goals tha
 
 As an agency we have a longstanding strong commitment to helping team members pursue their personal development goals. 
 
-This section of the handbook explains how we set goals and ensure that everyone gets the right feedback to help them achieve those goals. 
+This section of the handbook explains how we set goals and ensure that everyone gets the right feedback to help them achieve those goals. The OKR process applies to everyone in the company, including team members in their first year.
 
 This is a new approach that we’re introducing for a trial from April 2016 to November 2016.
 
