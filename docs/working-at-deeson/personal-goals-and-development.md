@@ -6,7 +6,7 @@ As an agency we have a longstanding strong commitment to helping team members pu
 
 This section of the handbook explains how we set goals and ensure that everyone gets the right feedback to help them achieve those goals. 
 
-This is a new approach that we’re introducing for a six month trial from April 2016 to October 2016.
+This is a new approach that we’re introducing for a trial from April 2016 to November 2016.
 
 # The basics of goal setting
 
@@ -20,7 +20,7 @@ We use an established approach for this. It’s called “Objectives and Key Res
 
 OKRs were invented at Intel Corporation and some of the biggest tech companies in the world use OKRs including Google, Zynga, Upstart and many others. There’s plenty of material online about how different companies have used OKRs. We particularly like this [First Round Review article](http://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/).
 
-We set OKRs each quarter to fit with our quarterly planning cycle for company goals. 
+We set OKRs every three months to follow after our quarterly planning cycle for company goals. 
 
 An OKR at Deeson is made up of: 
 
@@ -129,29 +129,33 @@ Feedback from other pod team members helped me come up with this OKR. I spoke wi
 
 ##When do I set my OKRs?
 
-We set OKRs and personal development goals each quarter - in first working week of each quarter. 
+We set OKRs and personal development goals every three months - in first working week of the second month of each quarter. 
 
 Our business quarters are:
 
-Q1 - October, November, December
-Q2 - January, February, March
-Q3 - April, May, June
-Q4 - July, August, September
+- Q1 - October, November, December - OKRs set in first week of November
+- Q2 - January, February, March - OKRs set in first week of February
+- Q3 - April, May, June - OKRs set in first week of May
+- Q4 - July, August, September - OKRs set in first week of August
+
 
 ##How are my OKRs reviewed?
 
-Once you’ve set your OKRs, each month during the quarter you’ll need to rate your progress on each key result you’ve set out. This rating is a simple 0 to 100% rating, with 100% being the result has been fully delivered.
+At the end of each OKR period you’ll need to rate your progress on each key result you’ve set out. This rating is a simple 0 to 100% rating, with 100% being the result has been fully delivered.
 
 ##What kind of support can I get to help me achieve my OKRs?
 
 When you set your OKRs you need to think about what support you need. Support can be anything reasonable that makes it more likely that you’ll be able to accomplish your goal.
 
 This support might include a specific training course or qualification, an opportunity to work on a different kind of project to gain different experience, time in your schedule, pair working or mentoring. This list isn’t exhaustive - you need to think about what’s relevant to your goal and be as specific as you can.
-I never get any time for personal development. Help!
+
+##I never get any time for personal development. Help!
 
 You are responsible for your own schedule and for working with your pod colleagues to fulfil your project responsibilities and achieving your development goals. 
 
-If your chapter lead and pod lead has agreed support for your development goal that includes some company time, then make sure you put that time into your schedule. In practice only you can effectively balance project and personal development time so make sure you’re regularly managing your schedule and commitments to ensure you achieve both.
+If your chapter lead and pod lead has agreed support for your development goal that includes some company time, then make sure you put that time into your schedule. This will also be taken account of in your personal billability target.
+
+In practice only you can effectively balance project and personal development time so make sure you’re regularly managing your schedule and commitments to ensure you achieve both.
 
 There will be many development goals where you need to invest some of your own time too. It’s important to be realistic about this when setting your goals to ensure that you have enough time, both at work and at home, to invest in your personal development.
 
