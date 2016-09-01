@@ -35,7 +35,12 @@
             m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
     ga('create', 'UA-53946181-1', 'auto');
-    ga('send', 'pageview');
+
+    if (location.pathname == '/') {
+      ga('send', 'pageview', '/handbook');
+    } else {
+      ga('send', 'pageview');
+    }
   </script>
 
   <!-- Hotjar Tracking Code for www.deeson.co.uk -->
