@@ -1,4 +1,5 @@
-Front end standards ##
+Front end standards
+===================
 
 - Ensure the browser support base has been signed off by the client before starting work.
 - Use SVGs where possible
@@ -12,9 +13,10 @@ Front end standards ##
 - Keep the build process simple. Suggest writing to single list folder/bundle file.
 - Use scripts to run build (if necessary), suggest nam scripts in package.json - document these in a readme.MD. Assume use of a CI server for production build even if this ends up being a manual step.
 
-Tools##
+Tools
+-----
 
-DeePub###
+### DeePub
 
 DeePub is a tool we use for publishing frontend HTML/CSS/JS for clients to preview.
 Your frontend application will then be available at https://preview.deeson.net
