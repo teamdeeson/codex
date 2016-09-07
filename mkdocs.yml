@@ -39,4 +39,5 @@ pages:
     - Brown bags: development/brown-bags.md
     - Jira: development/jira.md
     - Handover comms: development/handover.md
+    - PHP Storm Config: development/php-storm-config.md
     - Learning resources: development/learning-resources.md
