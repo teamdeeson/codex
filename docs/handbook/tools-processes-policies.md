@@ -14,7 +14,7 @@ Here’s a quick rundown of what’s a company-wide standard:
 - [Estimating methodology](https://docs.google.com/document/d/115Pup6P7hL1tMS6K4cSX_ewzWom96Eb3dtmrOlR3alw/edit)
 - [Recruitment](https://docs.google.com/document/d/1jDHdwLlcTu6bUuAb9tUvpvAwbuPN9Z_F7rdshl5zPOU/edit?ts=5630dc9b)
 - Goals and development
-- [Company business policies](https://docs.google.com/document/d/1rGy0i56tOjmohsM8lfkFboq1F4Wyi0jkwyL6VHr3Q0M/edit#heading=h.kuif7x8g66b2)  
+- Company business policies
 - [The Deeson Handbook](http://deeson-codex.readthedocs.io/en/latest/)
 - [Job roles and accountabilities](http://deeson-codex.readthedocs.io/en/latest/handbook/roles-at-deeson/)
 
