@@ -31,6 +31,16 @@ repositories.
 Make sure you commit messages include the Jira Ticket number in them as this ties the commit to the relevant Jira issue
 and allows all activity on the ticket to be tracked and reviewed.
 
+In writing a commit message keep in mind that you are writing it to inform other people involved in the project (as well as your future self) of what that commit achieves. If you can do that and entertain or vent at the same time that is great but the priority are messages that are concise and consistent.
+
+Here are some simple guidelines to follow:
+
+1. Limit the subject line to about 70 characters. Most online tools will cut off after that so best to get all the information in a way that is easy for others to read. Also makes it easier when using `git shortlog`.
+2. Include the ticket number from Jira (or other bug tracking tool) in the subject line - e.g. "DEESON-23: Introduce NP-complete algorithm for natural language understanding".
+3. Use the imperative mood in the subject line. This means that the commit message should read as a command that changes the application. For example say "DEESON-24: Add semantic annotation to all pages." vs "DEESON-24: Changed markup to include semantic annotation." If in doubt try to use your commit message in the phrase "If applied this commit will: <your commit message>". If that phrase works you are good to go!
+4. Include further context in the message body as required. Try to explain the what and why. Don't worry about the how - the code should cover that.
+
+
 ## GitFlow
 
 [Gitflow](http://nvie.com/posts/a-successful-git-branching-model/) is a branching model for Git. Its purpose is to
