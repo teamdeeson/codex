@@ -18,7 +18,7 @@ Remember if you’re going to working with confidential information on your scre
 
 ##How will people know where I am?
 
-It’s really important that Who’s Off (our holiday booking system) and Google Calendar are up to date - the onus is on you.
+It’s really important that Bamboo (our holiday booking system) and your own Forecast and Google Calendar are up to date - the onus is on you.
 
 It’s annoying for other people trying to book meetings or work out where you are otherwise. 
 
@@ -40,7 +40,7 @@ It’s not about being at a screen 100% of that time, going for a coffee or taki
 
 ##What counts as work? How does billable vs non-billable work?
 
-For Deeson to be successful commercially, our model is based on team members logging at least 30 hours of client chargeable work each week (roughly 85% of your time worked for a typical 35 hour week).
+For Deeson to be successful commercially, our model is based on team members achieving their personal billable target for client chargeable work each week (roughly 30-31.5 hours of your time worked for a typical 35 hour week).
 
 There are lots of good reasons why this number goes down as well as up, but this gives us a baseline to forecast on. 
 
@@ -48,7 +48,7 @@ Sometimes this won’t be possible for reasons outside of your control - for exa
 
 But you do need to be proactive in working towards that target and showing good use of your time.
 
-Some weeks you’ll need to do more than 30 hours of chargeable work to be able to fulfil your commitments. 
+Some weeks you’ll need to do more than your target for chargeable work to be able to fulfil your commitments. 
 
 And non-client hours are just as important to keep things running smoothly and they will vary each week.
 
@@ -58,11 +58,11 @@ There’s lots of very good reasons that we don’t all hit the target numbers e
 
 Some of our most useful time is un-billable, for example investing in people and processes. The process of reviewing what’s happened and planning for the next week are the important bit.
 
-Before the start of each week you are responsible for reviewing your Forecast schedule and checking you’re on track for a minimum of 30hrs billable time.
+Before the start of each week you are responsible for reviewing your Forecast schedule and checking you’re on track for your personal billable target.
 
 If you’re not then speak to your pod colleagues to see how you can make best use of your time this week
 
-Before the end of each week you must make sure your Harvest is up-to-date and you’ve logged all your billable and non-billable hours - remember that’s at least 30hrs billable and 35hrs in total each week.
+Before the end of each week you must make sure your Harvest is up-to-date and you’ve logged all your billable and non-billable hours - remember that’s at least your personal billable target and 35hrs in total each week.
 
 Check against your targets using this [Harvest report](https://deesonemedia.harvestapp.com/reports). 
 
@@ -96,15 +96,13 @@ If you’re travelling by train or plane, you could choose to work (and it count
 
 #Time planning works for team members in their first year
 
-All new team members get a billability plan for the first year. 
-
-This shows the amount of your time which should be booked against projects (billable time) versus the amount of time which is considered training.
+All new team members get a personal billable target  that increases during their first year to reflect on-boarding and training time.
 
 New staff members time on projects is scheduled based on their billability. So if you are due to work a 35 hour week and you are 40% billable then only 14 hours is scheduled on projects and 21 hours is scheduled for training in that week.
 
 Everyone records their time in Harvest.  As a new starter, you will be given a task to do and be told how long the task has been quoted to take in hours.  You should book the time spent on a task as billable and against the relevant project, until you reach the quoted time, at which point you should switch your timer to your training project.
 
-This approach only applies to new starters. Once your training plan has you working at the maximum 85% billability then you should no longer book overspend on tasks to training.
+This approach only applies to new starters. Once your training plan has you working at your full billable hours target then you should no longer book overspend on tasks to training.
 
 This means:
 
