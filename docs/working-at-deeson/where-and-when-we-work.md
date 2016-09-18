@@ -38,9 +38,11 @@ During these core hours everyone should be available to collaborate with colleag
 
 It’s not about being at a screen 100% of that time, going for a coffee or taking a lunch break is assumed. It’s to make booking meetings or knowing people are around easier.
 
-##What counts as work? How does billable vs non-billable work?
+##Personal billable hours targets
 
 For Deeson to be successful commercially, our model is based on team members achieving their personal billable target for client chargeable work each week (roughly 30-31.5 hours of your time worked for a typical 35 hour week).
+
+You will have your own personal billable target for the number of billable hours you need to work. This is set out week by week. If you don't know where this is shown and tracked, ask your pod lead and they'll share the link.
 
 There are lots of good reasons why this number goes down as well as up, but this gives us a baseline to forecast on. 
 
@@ -48,9 +50,23 @@ Sometimes this won’t be possible for reasons outside of your control - for exa
 
 But you do need to be proactive in working towards that target and showing good use of your time.
 
-Some weeks you’ll need to do more than your target for chargeable work to be able to fulfil your commitments. 
+Some weeks you’ll need to do more than your target for chargeable work to be able to fulfil your commitments.
 
-And non-client hours are just as important to keep things running smoothly and they will vary each week.
+##How do non-billable things like new business or own site maintenance affect billable targets?
+
+If you work on any of the activities below in a partiular week, the hours will be retrospectively removed from your target for that week. 
+
+We do this as it's important to manage your own billability over an extended period. Where you work on non-billable tasks listed below, this shouldn't affect your achievement of your billable hours target in the longer term. That's why we remove those hours retrospectively.
+
+The type of tasks that this applies to are:
+
+- Work on the Deeson site
+- Work on any internal marketing
+- New business and pitches
+- Training / conferences
+- Technical tasks that are required to keep us going - eg looking after our deployment system and servers.
+- Onboarding / supporting new team members
+- Recruitment tasks eg interviews
 
 ##What do I need to do every week to manage my targets?
 
