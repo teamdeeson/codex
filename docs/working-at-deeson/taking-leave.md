@@ -8,7 +8,7 @@ For team members based outside the UK there may be individual variations to this
 
 You will have to take the time for our Christmas to New Year company wide close down period from your allowance each year - this is usually three or four days of leave and will be automatically booked for you at the start of each calendar year.
 
-To book holiday make appropriate plans for your schedule, confirm with the colleagues it affects and then request via [Who’s Off](http://www.whosoff.com).
+To book holiday make appropriate plans for your schedule, confirm with the colleagues it affects and then request via Bamboo.
 
 You can use holiday in half days or whole days. On a half day you either start or finish at 12.30pm.
 
@@ -18,7 +18,7 @@ For pod team members holiday requests are approved by your pod lead. For everyon
 
 ##Sickness and medical appointments
 
-These should be incorporated into your flexible time wherever possible, otherwise requested via Who’s Off.
+These should be incorporated into your flexible time wherever possible, otherwise requested via Bamboo.
 
 If you're sick the company provides ten paid sick days per calendar year. You should speak to your pod lead as soon possible each day to let them know you are unwell and to handover any work that needs dealing with that day.
 
@@ -41,7 +41,7 @@ The guidelines are:
 
 Long term team members and long term clients are a great benefit of our approach.
 
-But fresh perspective is really valuable too. That’s why we’re introducing a new sabbatical scheme for all permanent employed team members every five years.
+But fresh perspective is really valuable too. That’s why we’re [introducing a paid sabbatical](https://www.deeson.co.uk/blog/weve-introduced-sabbaticals-heres-why) for all permanent employed team members every five years.
 
 In the calendar year when you reach five years of continuous employment with the company you become eligible for a mandatory five week long sabbatical. You’ll then be eligible for a five week sabbatical every five years after that.
 
