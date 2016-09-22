@@ -24,7 +24,7 @@ In summary, at Deeson it’s about ownership of results, not being told what to 
 
 # Core values
 
-In 2015 we spoke at length with our team members and clients about what made Deeson different to other agencies and places to work.
+Back in 2015 [we spoke at length](https://www.deeson.co.uk/blog/evolving-our-culture-deeson-facilitation-over-management "Blog post on evolving culture") with our team members and clients about what made Deeson different to other agencies and places to work.
 
 From that insight we developed a set of core values that inform how we do things, our approach to new business, recruitment and selection and helping with self-development. 
 
@@ -50,7 +50,7 @@ Learning new techniques, tools and ways of doing things.
 Embracing big goals and not being afraid to go for them.
 
 ## Be curious
-Developers exploring new tools and techniques in Coder Lounge.
+Developers exploring new tools and techniques in [Coder Lounge](http://handbook.deeson.co.uk/development/coder-lounge/).
 
 Learning a new coding language to prototype something.
 
