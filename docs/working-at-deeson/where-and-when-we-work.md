@@ -1,8 +1,8 @@
 #Where do I work?
 
-Pretty much anywhere, but there are a few things to think about.
+You choose, the aim is to be wherever you're most effective.
 
-Our approach - and our success - is based on tight collaboration between people who know each other well. This is vital. But flexibility in working location also be beneficial.
+Our approach - and our success - is based on tight collaboration between people who know each other well. This is vital.
 
 Everyone has a working location defined in their contract - London office, Canterbury office or home office. However where you choose to work from day to day is up to you.
 
@@ -14,15 +14,15 @@ Experience says that an effective working location is going to:
 
 An easy test is - could you hold a video conference call with a client from where you working?
 
-Remember if you’re going to working with confidential information on your screen then make sure you’re working somewhere that reflects that.
+Remember if you’re working with confidential information on your screen then make sure you’re working somewhere that is appropriate for that.
 
 ##How will people know where I am?
 
 It’s really important that Bamboo (our holiday booking system) and your own Forecast and Google Calendar are up to date - the onus is on you.
 
-It’s annoying for other people trying to book meetings or work out where you are otherwise. 
+It’s annoying for other people trying to book meetings or plan their collaboration with you otherwise. 
 
-Otherwise the emphasis is on frictionless communication not tracking - it shouldn’t matter where you are, as long as it’s easy to get in touch.
+Otherwise the emphasis is on frictionless communication, not tracking - it shouldn’t matter where you are, as long as it’s easy to get in touch.
 
 #When do I work?
 
@@ -36,7 +36,7 @@ Core working hours are Monday to Friday 10am to 3pm UK time.
 
 During these core hours everyone should be available to collaborate with colleagues, regardless of whether they’re in the same physical location or time zone.
 
-It’s not about being at a screen 100% of that time, going for a coffee or taking a lunch break is assumed. It’s to make booking meetings or knowing people are around easier.
+It’s not about being at a screen 100% of that time, going for a coffee or taking a lunch break is assumed. It’s to make booking meetings or knowing when most people are available easier.
 
 ##Personal billable hours targets
 
@@ -84,11 +84,11 @@ Check against your targets using this [Harvest report](https://deesonemedia.harv
 
 ##If I work 60 hours one week, then can I reduce the hours that I work the following week?
 
-There are a lot of variables but there should be an easy to find an answer that everyone’s happy with for that situation.
+There are a lot of variables but there should be an easy to find an answer that everyone’s happy with.
 
 In general if you’re consistently doing a high number of hours then something is going wrong somewhere, but it can happen.
 
-For example, If you had to dig yourself out of an avoidable hole one week then it doesn’t really make sense that there’s then a vicious circle of knock on problems for other projects the following week.
+For example, if you had to dig yourself out of an unavoidable hole one week then it doesn’t really make sense that there’s then a vicious circle of consequential problems for other projects the following week.
 
 However if you saved a client from a certain embarrassment of their own making and need to take it a bit easy to recover; if you can hit your own key commitments then it’s hard to imagine why there’d be a problem - the bottom line is that it’s the results that count, not hours.
 
@@ -98,9 +98,7 @@ The key thing here is communicating effectively with your fellow team members so
 
 We’re an agency and the industry model is based on billable days. 
 
-Come the revolution we’ll change this but right now our time is what we sell. 
-
-We’re starting to move to a price-by-value model but we’ve got a long way to go.
+We're working on evolving from this but right now our time is what we sell. 
 
 ##Does travel time count against billable hours?
 
@@ -112,11 +110,11 @@ If you’re travelling by train or plane, you could choose to work (and it count
 
 #Time planning works for team members in their first year
 
-All new team members get a personal billable target  that increases during their first year to reflect on-boarding and training time.
+All new team members get a personal billable target that increases during their first year to reflect on-boarding and training time.
 
 New staff members time on projects is scheduled based on their billability. So if you are due to work a 35 hour week and you are 40% billable then only 14 hours is scheduled on projects and 21 hours is scheduled for training in that week.
 
-Everyone records their time in Harvest.  As a new starter, you will be given a task to do and be told how long the task has been quoted to take in hours.  You should book the time spent on a task as billable and against the relevant project, until you reach the quoted time, at which point you should switch your timer to your training project.
+Everyone records their time in Harvest. As a new starter, you will be given a task to do and be told how long the task has been quoted to take in hours. You should book the time spent on a task as billable and against the relevant project, until you reach the quoted time, at which point you should switch your timer to your training project.
 
 This approach only applies to new starters. Once your training plan has you working at your full billable hours target then you should no longer book overspend on tasks to training.
 
@@ -125,7 +123,7 @@ This means:
 - We have defined in advance what level we expect new team members to be working to
 - We only bill the client and project the amount of time originally quoted
 - We plan new starters’ time using Forecast so that predicted project end and budget burn can be accurately reviewed
-- Overrun on tasks by new production team members is tracked as training time
+- Over-run on tasks by new production team members is tracked as training time
 - Amount of billable hours versus training hours can be reviewed monthly and compared against the original plan
 - Variance between our original expectation and reality can be seen early and acted upon
 
@@ -146,8 +144,4 @@ Charlie is ahead this week so the pod helps them pick up additional tasks from t
 
 **The flexible working small print**
 
-We do have to reserve the right to opt individuals out of flexible working (locations and times) or modify their working pattern to ensure that things run smoothly for everyone.
-
-That means that as a last resort a director can stop you working flexibly if your approach isn’t compatible with the principles but hopefully you’d spot the problem first and adjust approach. 
-
-If that happens you would revert back to the standard working arrangement as set out in your contract of employment.
+We do have to reserve the right to direct an individuals working times or places to ensure that things run smoothly for everyone. This hasn't happened yet.
