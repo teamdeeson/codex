@@ -1,10 +1,10 @@
 #Roles at Deeson
 
-We're not big on job titles at Deeson, but we do think it's important that everyone understands their accountabilities.
+We're not big on endless job titles at Deeson. We do think it's important that everyone understands their accountabilities.
 
-When thinking about roles there are two subtly different things that are important:
+When thinking about roles there are two subtly different things:
 
-1. The **job role** that we hire people into the agency to do and they need to fulfil when they’re here
+1. The **job role** that we hire people into the agency to do and they need to fulfil when they’re here e.g. Solution Architect
 2. The **project roles** that team members play on specific projects when they’re working within a pod
 
 The first is important to set expectations for the company and the new team member. It will inevitably change over time as the agency and the team member develops professionally.
