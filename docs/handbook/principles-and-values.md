@@ -20,7 +20,7 @@ And we’re always thinking about ways that the company can be better centred on
 
 The more we can concentrate on facilitating on achieving our goals together and not directing how then the better for everyone.
 
-In summary, at Deeson it’s about ownership results, not being told what to do and blindly following processes. 
+In summary, at Deeson it’s about ownership of results, not being told what to do and blindly following processes. 
 
 # Core values
 
@@ -89,6 +89,3 @@ We ask ourselves six big questions about how we are working to help make sure th
 Peer to peer feedback is important in helping each other answer the quesrions. 
 
 If you feel someone is working in a way that makes your life harder then point this out to them constructively - the onus is on you to give that feedback and them to adapt to make it work.
-
-
-
