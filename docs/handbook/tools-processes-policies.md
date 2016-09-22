@@ -11,8 +11,8 @@ Here’s a quick rundown of what’s a company-wide standard:
 - [EOS methods and tools](https://www.eosworldwide.com/what-is-eos)
 - Our delivery methodology - the three stage Discovery, Production and Optimisation approach
 - The Deeson agile delivery methodology
-- [Estimating methodology](https://docs.google.com/document/d/115Pup6P7hL1tMS6K4cSX_ewzWom96Eb3dtmrOlR3alw/edit)
-- [Recruitment](https://docs.google.com/document/d/1jDHdwLlcTu6bUuAb9tUvpvAwbuPN9Z_F7rdshl5zPOU/edit?ts=5630dc9b)
+- [Estimating methodology](https://docs.google.com/document/d/115Pup6P7hL1tMS6K4cSX_ewzWom96Eb3dtmrOlR3alw/edit)  _(currently internal only)_
+- Recruitment
 - Goals and development
 - Company business policies
 - [The Deeson Handbook](http://deeson-codex.readthedocs.io/en/latest/)
@@ -21,7 +21,7 @@ Here’s a quick rundown of what’s a company-wide standard:
 ##Company-wide tools
 
 - Discipline-specific software, tools and standards- eg development environments
-- Reporting standards and tools - eg [report cards](https://docs.google.com/spreadsheets/d/1RYEHvwX79gxh23FKGeR_bg-FmYY_dCBIOxkCCypTmU4/edit#gid=0)
+- Reporting standards and tools - eg [report cards](https://docs.google.com/spreadsheets/d/1RYEHvwX79gxh23FKGeR_bg-FmYY_dCBIOxkCCypTmU4/edit#gid=0) _(currently internal only)_
 - Our reporting dashboard tool - Geckoboards
 - Our time recording tool - [Harvest](https://deesonemedia.harvestapp.com/overview)
 - Our forecasting tool - [Forecast](https://forecastapp.com/89482/schedule/team)
