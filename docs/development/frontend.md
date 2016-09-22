@@ -11,7 +11,7 @@ Front end standards
 - To keep the codebase clean; where possible do any legacy compatibility stuff as part of the build, vendor prefixes and CSS hacks can usually be added using tools such as postCSS, ES6 can be turned into ES5 via tools such as Babel. 
 - When using tools such as Gulp, Webpack etc. install using a package manager and run binaries locally. An example of running local Gulp installed with NPM (rather than installing using the global flag `-g`): `./node_modules/.bin/gulp` or adding a `script` entry in package.json that runs `gulp`
 - Keep the build process simple. Suggest writing to single list folder/bundle file.
-- Use scripts to run build (if necessary), suggest nam scripts in package.json - document these in a readme.MD. Assume use of a CI server for production build even if this ends up being a manual step.
+- Use scripts to run build (if necessary), suggest npm scripts in package.json - document these in a readme.MD. Assume use of a CI server for production build even if this ends up being a manual step.
 
 Tools
 -----
