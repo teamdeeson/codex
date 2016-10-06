@@ -46,5 +46,3 @@ And there are a few things we expect our employees to be aware of:
 - Client slack channels are always private channels
 - We only invite the necessary client-facing team members to the channel
 - We always brief the client on how we use Slack for client service when we set them up
-
-
