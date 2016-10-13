@@ -39,6 +39,7 @@ pages:
     - Front end: development/frontend.md
     - Drupal 7: development/drupal7.md
     - Drupal 8: development/drupal8.md
+    - Security: development/security.md
     - git: development/git.md
     - Makefiles: development/makefiles.md
     - Coder lounge: development/coder-lounge.md
