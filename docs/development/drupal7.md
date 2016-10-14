@@ -52,3 +52,4 @@ Metatags should be handeled using the [metatags module](https://drupal.org/proje
 5. You can then specify the opengraph image metatag to be that image style e.g. [node:field_teaser_image:opengraph_image_1200x600] 
 6. You can add per content type metatag settings by clicking on the "Add default meta tags" option from the Metatags admin screen
 7. You can export all your metatag information to Features using a command like `drush @vdd fe mysite_metatag "metatag:%" -y`
+8. If your frontpage is a node you can just disable the `Global: Front page` option on the metatags admin form and export this to features.
