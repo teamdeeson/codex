@@ -47,6 +47,8 @@ Metatags should be handeled using the [metatags module](https://drupal.org/proje
 
 1. Ideally you will have a teaser field and teaser image field on all content types to be used with metatag data.
 2. Metatags module config is done at /admin/config/search/metatags on your site - make sure you set the default description text for content to your teaser field (e.g. [node:field-teaser-text]) and the opengraph teaser text to the same value.
-3. Include the imagecahe_token module in your site (this will be used for setting the opengraph image later)
+3. Include the [imagecache_token](https://www.drupal.org/project/imagecache_token) module in your site (this will be used for setting the opengraph image later)
 4. Create an image style for use with og:image tags (call it opengraph-image-1200x630 and set to scale and crop 1200x630 as these are the prefered dimensions for opengraph teasers).
 5. You can then specify the opengraph image metatag to be that image style e.g. [node:field_teaser_image:opengraph_image_1200x600] 
+6. You can add per content type metatag settings by clicking on the "Add default meta tags" option from the Metatags admin screen
+7. You can export all your metatag information to Features using a command like `drush @vdd fe mysite_metatag "metatag:%" -y`
