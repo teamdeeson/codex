@@ -1,10 +1,10 @@
 #Roles at Deeson
 
-We're not big on endless job titles at Deeson. We do think it's important that everyone understands their accountabilities.
+We're not big on job titles at Deeson, but we do think it's important that everyone understands their accountabilities.
 
-When thinking about roles there are two subtly different things:
+When thinking about roles there are two subtly different things that are important:
 
-1. The **job role** that we hire people into the agency to do and they need to fulfil when they’re here e.g. Solution Architect
+1. The **job role** that we hire people into the agency to do and they need to fulfil when they’re here
 2. The **project roles** that team members play on specific projects when they’re working within a pod
 
 The first is important to set expectations for the company and the new team member. It will inevitably change over time as the agency and the team member develops professionally.
@@ -24,7 +24,7 @@ Here are the specific accountabilities we all share regardless of our role:
 5. Supporting your colleagues
 6. Following company processes
 
-#The job roles
+#Job roles at Deeson
 
 We have five specific job roles:
 
@@ -75,6 +75,7 @@ The specific accountabilities of each job role are shown below:
 - Learning new skills, tools and approaches at a rate expected of a fast changing industry
 - Actively contributing improvements back to open source community projects
 
+Our developer role encompasses all development activities, including "front-end". Read on for more about how we handle technical specialisms.
 
 ##UX
 
@@ -116,29 +117,45 @@ The specific accountabilities of each job role are shown below:
 - Client development
 - Pre-client release quality control and testing.
 
-
 #Additional accountabilities
 
 In addition to their primary role, some team members hold additional accountabilities as well:
 
+##Project Lead
+
+Project leads have overall accountability to the business and the client for on-time, on-budget, high quality delivery of projects. They provide leadership to the client and to the team on overall approach and delivery.
+
+The accountabilities of the project lead role are:
+
+1. Ensuring the team delivers agreed products on-time
+2. Encourage full participation of team members within their defined roles, responsibilities and empowerment
+3. Ensuring that the development process is properly focused and controlled
+4. Ensuring that all testing and review activity is properly scheduled and carried out
+5. Managing risks and issues at the Timebox level, escalating to the Project Manager, Business Visionary or Technical Coordinator as required 
+6. Monitoring progress on a day-to-day basis for all team activities
+7. Decisions on project resourcing
+8. Facilitating communication of team progress with the Project Manager
+9. Facilitating the daily stand-ups, ensuring they are timely, focussed and brief
+10. Facilitating reviews and retrospectives with the team
+
+
 ##Pod Lead
 
-1. Client satisfaction
-2. Delivering projects (on time, on budget, on spec)
-3. Pod capacity
-4. Pod capability
-5. New team member successful on-boarding into the pod
-6. Company processes followed by all
-7. Team member engagement and happiness
+1. Facilitation of pod capacity 
+2. New team member successful on-boarding into the pod
+3. Team member engagement and happiness
+
 
 ##Chapter Lead
 
-1. Establishing, sharing and maintaining professional best practice within the chapter 
-2. Thought leadership outside the agency
-3. New team member successful first year
-4. Professional learning and coaching for chapter members
-5. Acting as the senior expert for complex and tricky problems 
-6. Innovation, R&D and creativity within the chapter
+1. Quality of chapter output on client and internal projects
+2. Establishing, sharing and maintaining professional best practice within the chapter 
+3. Thought leadership outside the agency
+4. New team member successful first year
+5. Professional learning and coaching for chapter members
+6. Acting as the senior expert for complex and tricky problems 
+7. Innovation, R&D and creativity within the chapter
+
 
 #Technical specialisms
 
@@ -162,14 +179,4 @@ Deep specialisms in one or more area are a good thing and are encouraged through
 
 Solutions Architects need to be able to know enough about all of these areas to be able to do their role effectively, but they’re likely to have deeper specialisms in one or more of these areas too.
 
-Pod 2 have been trialling a simple form of [skills mapping](https://docs.google.com/spreadsheets/d/1GrD3DmFcYpNec_DsmBF3GP3x-SI55LdGLac3L_1MdrU/edit#gid=0) to help show this in more detail.
-
-This self-assessment mapping shows how the developer role is broad enough to accommodate different strengths in different technologies - and how this looks across a pod as a whole. 
-
 There’s not a single desired profile of skills for the developer roles, but we need to make sure that the mix is right across a pod as a whole. 
-
-#Project roles
-
-The blend of technologies, schedules and project requirements means that for each project, a developer may undertake different kinds of work on different projects - within the overall scope of the developer job role as outlined above.
-
-It’s up to the pod to determine how this will work on each project, as the pod team is best informed about the needs of the project and the strengths of each pod member (as mapped using the pod 2 technique above).
