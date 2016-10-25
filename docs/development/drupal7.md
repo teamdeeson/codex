@@ -66,7 +66,6 @@ This is for a number of reasons:
 
 Image styles can be exported using features and should generally be exported to the site structure module (mysite_structure)
 
-
 ### File and image upload paths
 
 Whenever you create an image or file field you must set the upload directory to something sensible. This is the place the user uploaded files will be saved to. Leaving this field blank means all files end up in the root of the file directory (i.e. sites/default/files). On a well used site thousands of files can be uploaded here which makes the file directory a mess and can even cause performance problems. It is even possible to hit an upper limit of files in a directory and crash the server (several thousand but we’ve seen it happen).
@@ -89,3 +88,9 @@ Make sure your code is not generating notices and errors. You can check the outp
 Notices and errors get logged so even if there is no outward signs of issues resources are being used to log the problem and the log is full of useless messages which makes diagnosing future issues a problem
 
 Notices are often caused by variables used in template files not being set. Check for them before printing them using something like `if (!empty($var))`
+
+### WYSIWYG Editor
+
+The WYSIWYG editor of choice is CKEditor installed using the [CKEditor module](https://drupal.org/project/ckeditor). Be selective as to which buttons to enable, typically content editors need only a few. Configuration for CKEditor should be exported using Features to your sites structure module (mysite_structure)
+
+![CKEditor](../images/development-ckeditor.png "CKEditor")
