@@ -1,6 +1,6 @@
 ## Configuration management
 
-#### Features
+### Features
 
 We use the [Features module](https://drupal.org/project/features) to export configuration to code so it can be stored
 in version control.  On deployment, our deployment processes revert all features to their code based state so any changes
@@ -19,7 +19,7 @@ news, etc. Common components of our top tier of features are moved into the lowe
 series of Drupal Feature modules which group together common components from the top tiers.  This has the advantage of
 smaller feature modules which are easy to manage and is good for larger more complex sites.
 
-#### Variables
+### Variables
 
 All variables should be stored using Features (via strongarm) unless:
 
@@ -66,3 +66,26 @@ This is for a number of reasons:
 
 Image styles can be exported using features and should generally be exported to the site structure module (mysite_structure)
 
+
+### File and image upload paths
+
+Whenever you create an image or file field you must set the upload directory to something sensible. This is the place the user uploaded files will be saved to. Leaving this field blank means all files end up in the root of the file directory (i.e. sites/default/files). On a well used site thousands of files can be uploaded here which makes the file directory a mess and can even cause performance problems. It is even possible to hit an upper limit of files in a directory and crash the server (several thousand but we’ve seen it happen).
+
+1. Include the [filefield_paths](https://drupal.org/project/filefield_paths) module in your Drupal build
+2. You must set the field upload path per field. Choose a good strategy for setting the file upload path. E.g. a pattern of the form: `images/text-image/[current-date:custom:Y]/[current-date:custom:m]` puts the file into a subdirectory including the year and month uploaded.
+
+![Filefield paths](../images/development-filefield-paths.png "File Field Paths")
+
+### Alt and image tags for images
+
+We need to allow the web authors the ability to set the alt and title attributes of images they upload. Alt attributes are required for accessibility and it is something that is often checked for by our clients and is expected by people using websites using screen readers and other accessibility devices.
+
+The Drupal [Media module](https://drupal.org/project/media) provides alt and title fields on image entities when enabled, the administration of these fields can be seen at the admin page /admin/structure/file-types/manage/image/fields
+
+### Notices and errors
+
+Make sure your code is not generating notices and errors. You can check the output of the logging in the watchdog log or syslog on VDD http://logs.dev/
+
+Notices and errors get logged so even if there is no outward signs of issues resources are being used to log the problem and the log is full of useless messages which makes diagnosing future issues a problem
+
+Notices are often caused by variables used in template files not being set. Check for them before printing them using something like `if (!empty($var))`
