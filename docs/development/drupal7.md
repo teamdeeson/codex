@@ -54,6 +54,9 @@ Metatags should be handeled using the [metatags module](https://drupal.org/proje
 7. You can export all your metatag information to Features using a command like `drush @vdd fe mysite_metatag "metatag:%" -y`
 8. If your frontpage is a node you can just disable the `Global: Front page` option on the metatags admin form and export this to features.
 
+A good way to test metatags is to use [Facebooks scraping tool](https://developers.facebook.com/tools/debug/). After passing a page on your site you'd expect to see the right title, description and lead image.
+
+![Facebook example](../images/development-facebook.png "Facebook example")
 
 ### Image styles
 
