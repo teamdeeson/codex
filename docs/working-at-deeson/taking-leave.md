@@ -22,7 +22,7 @@ Here are the steps you need to take to book holiday:
 
 Remember all leave needs to be taken by the end of the calendar year. Leave can only be rolled over in exceptional circumstances with MD approval. 
 
-You can check your balance using Bamboo. Remember to use the date calculator and set the date to 31/12/2016 to view your balance for the whole year, including days booked but not yet taken.
+You can check your balance using Bamboo. Remember to use the date calculator and set the date to 31st December to view your balance for the whole year, including days booked but not yet taken.
 
 You can use holiday in half days or whole days. On a half day you either start or finish at 12.30pm.
 
