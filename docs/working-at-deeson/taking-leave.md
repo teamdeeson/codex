@@ -20,7 +20,7 @@ Here are the steps you need to take to book holiday:
 4. Submit your request and add any notes about projects affected/what you’ve agreed with the project leads via Bamboo
 5. Your pod lead will review and then approve/decline the request. If it isn’t approved you then need to remove the holiday from Forecast. 
 
-Remember all leave needs to be taken by the end of the calendar year. Leave can only be rolled over in exceptional circumstances with MD approval. 
+Remember all leave needs to be taken by the end of the calendar year. Leave can only be rolled over in exceptional circumstances with MD approval in advance.
 
 You can check your balance using Bamboo. Remember to use the date calculator and set the date to 31st December to view your balance for the whole year, including days booked but not yet taken.
 
