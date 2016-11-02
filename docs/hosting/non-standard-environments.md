@@ -1,4 +1,4 @@
-# How we handle clients who prefer to host their sites on non-standard environments
+# Hosting clients' sites on non-standard environments
 
 ## The problem
 We specialise in building software applications and are not keen to build / manage the infrastructure which the applications run on. Also our support arrangements do not allow us to respond swiftly to infrastructure issues should they arise outside of our business hours. 

@@ -33,6 +33,8 @@ pages:
     - Computer usage and security policy: company-policies/computer-usage-and-security-policy.md
 - Projects:
     - Project Healthcheck: handbook/project-healthcheck.md
+- Hosting:
+    - Non-standard environments: hosting/non-standard-environments.md    
 - Development:
     - Our Approach: development/approach.md
     - Local development: development/vdd.md
