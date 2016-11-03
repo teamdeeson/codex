@@ -40,9 +40,7 @@ It’s not about being at a screen 100% of that time, going for a coffee or taki
 
 ##Personal billable hours targets
 
-For Deeson to be successful commercially, our model is based on team members achieving their personal billable target for client chargeable work each week (roughly 30-31.5 hours of your time worked for a typical 35 hour week).
-
-You will have your own personal billable target for the number of billable hours you need to work. This is set out week by week. If you don't know where this is shown and tracked, ask your pod lead and they'll share the link.
+For Deeson to be successful commercially, our model is based on team members achieving their target for client chargeable work each week (a minimum of 31 hours of your time worked for a typical 35 hour week).
 
 There are lots of good reasons why this number goes down as well as up, but this gives us a baseline to forecast on. 
 
