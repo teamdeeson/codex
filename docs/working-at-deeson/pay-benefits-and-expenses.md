@@ -1,10 +1,19 @@
-#Pay, expenses and recruitment bonus
+#Pay, benefits, expenses and recruitment bonus
 
 #Pay
 
 Salaries are paid by BACS directly into your nominated bank account on or close to the first of every month.
 
 If you change your bank details, please let Hannah S know at least three weeks before the next pay day so that she can make sure your pay ends up in the right place.
+
+#Benefits
+
+All permanent employees get an annual £250 Wellness Fund which they can spend on improving their health and wellbeing.
+
+Our guidelines on this are
+
+- it should be used on something which you're not already doing
+- it should be used on activities you spend doing, rather than the equipment you'll be doing it with
 
 #Expenses
 
