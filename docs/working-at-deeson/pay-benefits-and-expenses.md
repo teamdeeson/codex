@@ -13,7 +13,7 @@ All permanent employees get an annual £250 Wellness Fund which they can spend o
 Our guidelines on this are
 
 - it should be used on something which you're not already doing
-- it should be used on activities you spend doing, rather than the equipment you'll be doing it with
+- it should be used on activities you time spend doing, rather than the equipment you'll be doing it with
 
 #Expenses
 
