@@ -183,7 +183,44 @@ As a minimum you should have two files for:
   $settings['hash_salt'] = 'some-sufficiently-random-string';
 ```
 
+You will notice that within the above settings file there is reference the development
+services. The files `services.yml` and `development.services.yml` are provided by Drupal
+core. There are however a few additional lines which are always good to add to the 
+`development.services.yml` file. 
+
+```
+parameters:
+  twig.config:
+    debug: true
+    auto-reload: true
+    cache: false
+```
+
+These additional parameters enable twig debugging and disable the twig caching, 
+so that you don't have to clear cache whenever you make a template change. 
+
+Here is an example of how the file `development.services.yml` would look.
+
+```
+# Local development services.
+#
+# To activate this feature, follow the instructions at the top of the
+# 'example.settings.local.php' file, which sits next to this file.
+services:
+  cache.backend.null:
+    class: Drupal\Core\Cache\NullBackendFactory
+parameters:
+  twig.config:
+    debug: true
+    auto-reload: true
+    cache: false
+```
+
 ### Performance Settings
+
+These performance settings are taken from the example.settings.local.php which is
+shipped with Drupal. This enables these settings to be set for the local 
+environment using our standard settings files structure. 
 
 `02-performance.settings.inc` needs to contain the following:
 
