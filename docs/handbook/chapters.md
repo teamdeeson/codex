@@ -17,7 +17,5 @@ The chapter lead is responsible for:
 
 *John Ennew* is the chapter lead for the technical chapter.
 
-*Joe Campion* is the chapter lead for the front-end chapter.
-
-*Andrew Larking* is the chapter lead for the creative chapter (design and user experience).
+*Andrew Larking* is the chapter lead for the creative chapter (design, user experience and front-end).
 
