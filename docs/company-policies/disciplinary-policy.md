@@ -38,17 +38,17 @@ This will explain the nature of the poor performance or misconduct and will stre
 
 **Stage 1: Written Statement**
 
-The Agency Director will write to the employee with details of the alleged misconduct or performance failures that may result in dismissal or disciplinary action. The written statement will include a time and location for a formal hearing to investigate the allegations. 
+The Managing Director will write to the employee with details of the alleged misconduct or performance failures that may result in dismissal or disciplinary action. The written statement will include a time and location for a formal hearing to investigate the allegations. 
 
 **Stage 2: The Hearing**
 
-The employee has the right to be accompanied by a work colleague. Reasonable arrangements will be made by the Company to ensure that the employee and his or her colleague (if any) can attend the hearing without too much difficulty and the employee should take all reasonable steps to attend. Reasonable time will be also given to the employee to allow any preparation that may be required. Following completion of the hearing the Agency Director will issue a written statement advising the employee of the actions that will be taken by the Company as well as the employee’s right to appeal the decision. 
+The employee has the right to be accompanied by a work colleague. Reasonable arrangements will be made by the Company to ensure that the employee and his or her colleague (if any) can attend the hearing without too much difficulty and the employee should take all reasonable steps to attend. Reasonable time will be also given to the employee to allow any preparation that may be required. Following completion of the hearing the Managing Director will issue a written statement advising the employee of the actions that will be taken by the Company as well as the employee’s right to appeal the decision. 
 
 If the employee is unable to attend the hearing another reasonable date will be scheduled no later than five working days after the original date. If the employee does not attend on the second date fixed the law considers the dismissal or disciplinary procedure to have been fully exercised and the Company may take action to implement dismissal or disciplinary measures. 
 
 **Stage 3: Appeal**
 
-If the employee wishes to appeal the decision made at the hearing then he or she must inform the Managing Director within five working days, who will then arrange a meeting to hear the appeal within a reasonable time (usually seven working days). At this appeal the Managing Director will be accompanied by another director of the Company and, if appropriate, the manager directly responsible for the employee. The employee may be accompanied by a colleague. Following the meeting the employee will be advised in writing of the outcome of the appeal and the Company will make it clear that the decision is final.
+If the employee wishes to appeal the decision made at the hearing then he or she must inform the Director within five working days, who will then arrange a meeting to hear the appeal within a reasonable time (usually seven working days). At this appeal the Director will be accompanied by another director of the Company and, if appropriate, the manager directly responsible for the employee. The employee may be accompanied by a colleague. Following the meeting the employee will be advised in writing of the outcome of the appeal and the Company will make it clear that the decision is final.
 
 ## Appendix 2 – General Misconduct
 
