@@ -6,7 +6,7 @@ The following procedures will be used when an employee fails to meet the Company
 
 ## Informal procedure – verbal warning
 
-The informal procedure will be used in minor cases of misconduct or unsatisfactory performance. In such an event the employee’s manager or a director of the Company will discuss the matter with the employee with the intention of making clear in what way the employee failed to meet required standards of performance or conduct and provide the employee with an opportunity to improve. There will be no written comments recorded on the employee’s file at this stage.
+The informal procedure will be used in minor cases of misconduct or unsatisfactory performance. In such an event the employee’s manager or a director of the Company will discuss the matter with the employee with the intention of making clear in what way the employee failed to meet required standards of performance or conduct and provide the employee with an opportunity to improve. 
 
 ## Formal procedure
 
