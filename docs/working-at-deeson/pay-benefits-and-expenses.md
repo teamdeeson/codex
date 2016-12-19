@@ -15,6 +15,10 @@ Our guidelines on this are
 - it should be used on something which you're not already doing
 - it should be used on activities you spend time doing, rather than the equipment you'll be doing it with
 
+They’ll also get an unlimited training budget, and a budget of up to £500 to spend each year on anything that helps to do their job at Deeson better.
+
+If a permanent team member has been with Deeson for five years, they’ll get a five week paid sabbatical. This is mandatory, so they’ll need to focus on the challenge of making it happen, rather than postponing it.
+
 #Expenses
 
 Reasonable expenses incurred whilst visiting clients, attending meetings, attending events & carrying out training will be reimbursed by Deeson.
