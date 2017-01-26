@@ -138,14 +138,6 @@ The accountabilities of the project lead role are:
 9. Facilitating the daily stand-ups, ensuring they are timely, focussed and brief
 10. Facilitating reviews and retrospectives with the team
 
-
-##Pod Lead
-
-1. Facilitation of pod capacity 
-2. New team member successful on-boarding into the pod
-3. Team member engagement and happiness
-
-
 ##Chapter Lead
 
 1. Quality of chapter output on client and internal projects
@@ -156,6 +148,9 @@ The accountabilities of the project lead role are:
 6. Acting as the senior expert for complex and tricky problems 
 7. Innovation, R&D and creativity within the chapter
 
+_John Ennew_ is the chapter lead for the technical chapter, supported by _James Wilson_ for front-end.
+
+_Andrew Larking_ is the chapter lead for the creative chapter (design and user experience).
 
 #Technical specialisms
 

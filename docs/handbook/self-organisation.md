@@ -8,17 +8,13 @@ We believe that our team members are best placed to decide how they work to deli
 
 We have worked hard to set up our agency around this belief.
 
-# How does a self-organising team work?
+# How does a self-organising project team work?
 
-Our self-organising teams are called pods.
+Our project teams self-organising. A project team contains specialists in all the core disciplines we need to be able to deliver projects.
 
-A pod contains specialists in all the core disciplines we need to be able to deliver projects.
+Project team members pull work to themselves and don't wait for their project lead to assign work. This helps ensure a greater sense of ownership and commitment.
 
-A pod takes on responsibility for a number of build projects as well as ongoing support of their previous projects.
-
-Pods members pull work to themselves and don't wait for their pod lead to assign work. This helps ensure a greater sense of ownership and commitment.
-
-Pods manage their work (allocation, reallocation, estimation, re-estimation, delivery, and rework) as a group.
+Project teams manage their work (allocation, reallocation, estimation, re-estimation, delivery, and rework) as a group.
 
 They still need leadership, mentoring and coaching, but they don't require "command and control".
 

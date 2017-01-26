@@ -12,7 +12,7 @@ Like all our processes, onboarding is something we review regularly to make sure
 
 As a new team member you are accountable for your own onboarding. 
 
-You’ll find that everyone in the agency will be able to help you out and point you in the right direction. In particular your pod lead is accountable for ensuring your successful transition and will be there to work with you where needed.
+You’ll find that everyone in the agency will be able to help you out and point you in the right direction. In particular your chapter lead is accountable for ensuring your successful transition and will be there to work with you where needed.
 
 This part of the our handbook sets out the expectations that we have for the successful onboarding of new team members joining the agency. 
 
@@ -20,7 +20,7 @@ Everyone is different so everyone’s induction will happen differently but our 
 
 #A successful first year
 
-Over time we expect all our team members to be self-led and be able to work effectively as part of our self-organising teams (known as “pods”). 
+Over time we expect all our team members to be self-led and be able to work effectively as part of our self-organising project teams. 
 
 But we know that the way we do things might be different to what you’ve experienced elsewhere. 
 
@@ -30,7 +30,7 @@ It’s a focussed period when you’ll be doing a lot of learning - about Deeson
 
 Successfully completing your first year is a milestone in your work with Deeson and is a great achievement. 
 
-Your pod lead, chapter lead and fellow team members are there to support you to complete your first year.
+Your project leads, chapter lead and fellow team members are there to support you to complete your first year.
 
 #Before you start
 
@@ -73,8 +73,8 @@ The outcomes for your first week at Deeson are shown below:
 3. You’ll have met with your chapter lead (where we have a chapter lead for your specialism).
 4. You’ll have read and understood our company policies
 5. You’ll have your photo added to the Deeson team page on the agency website. You can do this yourself using the CMS.
-6. You’ll have agreed month one goals with your pod lead to help inform your learning during your first month. We have a self-led development approach. This is your first step towards self-led development.
-7. You’ll have a first week review meeting with your pod lead. This is an opportunity to share feedback from your first week and answer those burning questions.
+6. You’ll have agreed month one goals with your chapter lead to help inform your learning during your first month. We have a self-led development approach. This is your first step towards self-led development.
+7. You’ll have a first week review meeting with your chapter lead. This is an opportunity to share feedback from your first week and answer those burning questions.
 
 #In months one to six
 
@@ -86,13 +86,13 @@ The table below shows the onboarding outcomes for months one to six after joinin
 2. You’ll know and understand the Deeson handbook
 3. You’ll understand how Deeson projects are delivered 
 4. You’ll have met or spoken with a Deeson client
-5. You’ll have asked for feedback from your buddy and pod lead about your first month - giving and receiving feedback is an important part of our culture so we value feedback from early on in your time at the agency.
-6. You’ll have reviewed your learning goals for month one and set new goals for month two with your pod and chapter leads.
+5. You’ll have asked for feedback from your buddy and chapter lead about your first month - giving and receiving feedback is an important part of our culture so we value feedback from early on in your time at the agency.
+6. You’ll have reviewed your learning goals for month one and set new goals for month two with your chapter lead.
 
 ##Month 2
 
 1. You’ll have asked for feedback from three of your pod members about your second month
-2. You’ll have reviewed your learning goals for month two and set new goals for month three with your pod and chapter leads.
+2. You’ll have reviewed your learning goals for month two and set new goals for month three with your chapter lead.
 3. You’ll have reviewed your progress with the Managing Director
 4. You’ll have spent a day co-working with founder Tim Deeson in London
 5. You'll set your first OKRs.
@@ -114,7 +114,7 @@ The table below shows the onboarding outcomes for months one to six after joinin
 
 1. You’ll have a formal meeting with a director to review your six month probation period and mark the end of your probation.
 
-After six months you’ll continue having monthly reviews with your pod and chapter leads for up to a further six months. 
+After six months you’ll continue having monthly reviews with your chapter lead for up to a further six months. 
 
 Once they have signed off your progress, you’ll have successfully completed your first year in the agency and will move onto our personal development approach for experienced team members. For some team members this may happen in less than 12 months, while for others it may take slightly longer.
 
