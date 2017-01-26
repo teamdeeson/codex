@@ -10,7 +10,7 @@ We have worked hard to set up our agency around this belief.
 
 # How does a self-organising project team work?
 
-Our project teams self-organising. A project team contains specialists in all the core disciplines we need to be able to deliver projects.
+Our project teams are self-organising. A project team contains specialists in all the core disciplines we need to be able to deliver projects.
 
 Project team members pull work to themselves and don't wait for their project lead to assign work. This helps ensure a greater sense of ownership and commitment.
 
