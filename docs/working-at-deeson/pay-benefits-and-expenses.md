@@ -155,7 +155,7 @@ Amounts claimed should be reasonable and appropriate.
 
 Expenses incurred when entertaining other Deeson members of staff are not normally reimbursable. 
 
-The exception to this is where a Director, pod lead or chapter lead decides it is appropriate for the company to pay for entertaining staff. The cost of this can be claimed - for example to pay for a pod lunch or team building activity. If you want to spend more than £100 on this please discuss with the MD beforehand.
+The exception to this is where a Director or chapter lead decides it is appropriate for the company to pay for entertaining staff. The cost of this can be claimed - for example to pay for a pod lunch or team building activity. If you want to spend more than £100 on this please discuss with the MD beforehand.
 
 Any other expenses entertaining staff members would be classed as a personal expense and could not be reclaimed.
 

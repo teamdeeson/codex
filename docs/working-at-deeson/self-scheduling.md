@@ -50,6 +50,6 @@ If this happens, the onus is on you to change this.
 
 The first priority should be to look how you can move forward other billable work, as we expect everyone to be meeting their billable work hours each week (usually a minimum of 31 hours per week). It’s also worth asking colleagues on other projects if there’s any assistance they need on their projects.
 
-Also speak to Phil - the “revenue wrangler” - as he’s got an overview of the agency’s work and may know where you could help too.
+Also speak to Paula - the “revenue wrangler” - as she’s got an overview of the agency’s work and may know where you could help too.
 
 If you’ve not managed to find billable work, then speak with your chapter lead. They’ll help you identify what personal development work or internal project work is right for you and the time you have available. 

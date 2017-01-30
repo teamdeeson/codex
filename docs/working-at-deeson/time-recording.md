@@ -37,7 +37,7 @@ If you need access to a project or think a new project needs setting up, please 
 You’ll need to log all your working time against the appropriate task and project in Harvest. For full-time team members that means:
 
 - minimum 35 hours working time logged per week 
-- minimum 30 hours logged to billable tasks per week, unless agreed with your chapter or pod lead
+- minimum 30 hours logged to billable tasks per week, unless agreed with your chapter 
 
 ##Managing Harvest projects / tasks
 

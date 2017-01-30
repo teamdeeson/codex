@@ -6,13 +6,13 @@ As an agency we have a longstanding strong commitment to helping team members pu
 
 This section of the handbook explains how we set goals and ensure that everyone gets the right feedback to help them achieve those goals. The OKR process applies to everyone in the company, including team members in their first year.
 
-This is a new approach that we’re introducing for a trial from April 2016 to November 2016.
+This is a new approach that we’re introducing for a trial period.
 
 # The basics of goal setting
 
 Everyone will be setting themselves clear goals each quarter. 
 
-These are called your objectives and key results (OKRs) - what you will achieve in this quarter to help your pod - both to help the company achieve its quarterly business goals and to help you achieve your personal and professional goals.
+These are called your objectives and key results (OKRs) - what you will achieve in this quarter to help the company achieve its quarterly business goals and to help you achieve your personal and professional goals.
 
 ##How are goals set?
 
@@ -36,7 +36,7 @@ Often they are numerical, but they can also show if something is done or not don
 
 During the trial period we’re expecting everyone to have three or four OKRs for each quarter. 
 
-Each team member is responsible for setting their own OKRs, with advice from other members of the agency as they feel necessary. In practice, this probably means you need to get advice and guidance from a pod lead, chapter lead and/or director, but who you involve is up to you depending on the nature of your goals. 
+Each team member is responsible for setting their own OKRs, with advice from other members of the agency as they feel necessary. In practice, this probably means you need to get advice and guidance from a chapter lead and/or director, but who you involve is up to you depending on the nature of your goals. 
 
 All OKRs are shared and reported on [publicly here](https://docs.google.com/a/deeson.co.uk/spreadsheets/d/1PtX_sRt82f5j_gSzV7I3T1YKmS62AKwvxUz2mfuCquc/edit?usp=drive_web) so everyone knows what everyone else is aiming to do.
 
@@ -55,7 +55,7 @@ To be able to set OKRs effectively there are four things you need to do:
 1. You need to make sure you understand the agency’s goals for the next quarter 
 2. You need to have got feedback from three other people in the agency - it’s up to you who you get feedback from, but typically it’s useful to ask two questions to people you work with closely (“what do I do well?” and “what could I do differently?”)
 3. You need to have thought about your personal goals and career direction
-4. You need to review your OKRs with your pod lead and chapter lead and ensure they agree with them and understand the support you’re asking for
+4. You need to review your OKRs with your chapter lead and ensure they agree with them and understand the support you’re asking for
 
 ##What should I put into my OKRs?
 
@@ -151,9 +151,9 @@ This support might include a specific training course or qualification, an oppor
 
 ##I never get any time for personal development. Help!
 
-You are responsible for your own schedule and for working with your pod colleagues to fulfil your project responsibilities and achieving your development goals. 
+You are responsible for your own schedule and for working with your colleagues to fulfil your project responsibilities and achieving your development goals. 
 
-If your chapter lead and pod lead has agreed support for your development goal that includes some company time, then make sure you put that time into your schedule. This will also be taken account of in your personal billability target.
+If your chapter lead has agreed support for your development goal that includes some company time, then make sure you put that time into your schedule. This will also be taken account of in your personal billability target.
 
 In practice only you can effectively balance project and personal development time so make sure you’re regularly managing your schedule and commitments to ensure you achieve both.
 

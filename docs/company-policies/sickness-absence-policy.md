@@ -22,9 +22,9 @@ The aim of this policy is to:
 
 You must notify a director by phone personally or through a relative or friend, as soon as possible on your first day of absence. If a relative or friend makes contact because you are unable to do so, you should personally make contact as soon as you are able.
 
-It is your responsibility to also keep your pod lead informed of the reason for absence, possible length of absence and likely return date. 
+It is your responsibility to also keep your chapter lead informed of the reason for absence, possible length of absence and likely return date. 
 
-If you are unsure of the possible length of absence, then it is your responsibility to contact your pod lead at agreed intervals and submit the relevant medical certificates as soon as possible.
+If you are unsure of the possible length of absence, then it is your responsibility to contact your chapter lead at agreed intervals and submit the relevant medical certificates as soon as possible.
 
 Failure to notify may result in the absence being recorded as unauthorised, and may result in disciplinary action and pay being withheld for the period of illness.
 
