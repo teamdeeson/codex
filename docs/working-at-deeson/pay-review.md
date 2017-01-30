@@ -4,10 +4,11 @@
 
 There are two principles behind how we manage pay at Deeson:
 
-Every Deeson team member should be paid fairly for their work as part of the overall package we offer. 
-We manage salaries carefully to ensure the company remains sustainable, competitive and does not discriminate in the way team members are paid. 
+1. Every Deeson team member should be paid fairly for their work as part of the overall package we offer. 
 
-We undertake periodic internal audits to ensure we aren’t inadvertently discriminating in the setting of salaries.
+2. We manage salaries carefully to ensure the company remains sustainable, competitive and does not discriminate in the way team members are paid. 
+
+We also undertake periodic internal audits to ensure we aren’t inadvertently discriminating in the setting of salaries.
 
 If you feel that we’re not achieving those principles, any team member can request a review of their pay at any time.
 
