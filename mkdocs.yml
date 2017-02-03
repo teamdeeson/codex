@@ -41,6 +41,7 @@ pages:
     - Computer usage and security policy: company-policies/computer-usage-and-security-policy.md
     - Health & safety policy: docs/company-policies/health-and-safety-policy.md
     - Environmental policy: docs/company-policies/environmental-policy.md
+    - Anti-bribery policy: docs/company-policies/anti-bribery-policy.md
 - Hosting:
     - Non-standard environments: hosting/non-standard-environments.md    
 - Development:
