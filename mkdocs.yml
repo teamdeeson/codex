@@ -39,7 +39,8 @@ pages:
     - Sickness absence policy: company-policies/sickness-absence-policy.md
     - Disciplinary policy: company-policies/disciplinary-policy.md
     - Computer usage and security policy: company-policies/computer-usage-and-security-policy.md
-    - Health & Safety Policy: docs/company-policies/health-and-safety-policy.md
+    - Health & safety policy: docs/company-policies/health-and-safety-policy.md
+    - Environmental policy: docs/company-policies/environmental-policy.md
 - Hosting:
     - Non-standard environments: hosting/non-standard-environments.md    
 - Development:
