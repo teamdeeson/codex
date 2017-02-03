@@ -19,7 +19,7 @@ pages:
     - Self-scheduling: working-at-deeson/self-scheduling.md
     - Personal goals and development: working-at-deeson/personal-goals-and-development.md
     - Tools, purchasing and equipment: working-at-deeson/tools-purchasing-and-equipment.md
-    - Subscriptions: docs/working-at-deeson/subscriptions.md
+    - Subscriptions: working-at-deeson/subscriptions.md
     - Time recording: working-at-deeson/time-recording.md
     - Pay, benefits, expenses and recruitment bonus: working-at-deeson/pay-benefits-and-expenses.md
     - Pay review: working-at-deeson/pay-review.md
@@ -39,9 +39,9 @@ pages:
     - Sickness absence policy: company-policies/sickness-absence-policy.md
     - Disciplinary policy: company-policies/disciplinary-policy.md
     - Computer usage and security policy: company-policies/computer-usage-and-security-policy.md
-    - Health & safety policy: docs/company-policies/health-and-safety-policy.md
-    - Environmental policy: docs/company-policies/environmental-policy.md
-    - Anti-bribery policy: docs/company-policies/anti-bribery-policy.md
+    - Health & safety policy: company-policies/health-and-safety-policy.md
+    - Environmental policy: company-policies/environmental-policy.md
+    - Anti-bribery policy: company-policies/anti-bribery-policy.md
 - Hosting:
     - Non-standard environments: hosting/non-standard-environments.md    
 - Development:
