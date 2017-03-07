@@ -32,6 +32,3 @@ The other parent /adopter has to have worked for 26 weeks in the 66 weeks leadin
 **Step 2 - Individual eligibility for pay:** To qualify for shared parental pay the parent / main adopter must, as well as passing the Continuity test, also have earned an average salary of the National Insurance lower earnings limit or more for the 8 weeks prior to the 15th week before the expected birth / adoption.
 
 Although the situation around pregnancy and adoption appears complex, it is normally quite straightforward to work out your entitlement. Therefore as soon as you know you are pregnant or have been matched with a child for adoption, please let us know as soon as is practical. We will calculate your entitlement and the relevant dates for you.
-
-
-
