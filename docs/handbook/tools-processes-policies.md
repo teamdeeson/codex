@@ -25,7 +25,7 @@ Here’s a quick rundown of what’s a company-wide standard:
 - Our reporting dashboard tool - Geckoboards
 - Our time recording tool - [Harvest](https://deesonemedia.harvestapp.com/overview)
 - Our forecasting tool - [Forecast](https://forecastapp.com/89482/schedule/team)
-- Our intant communication tool - Slack
+- Our instant communication tool - Slack
 - Business systems - Macs, Google Drive, email etc
 
 If the company-wide standard tool or process isn’t working as well as you think it could or you think there’s a better way, get a guild together and recommend a better way for consideration.
