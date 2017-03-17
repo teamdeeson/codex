@@ -1,5 +1,6 @@
-Passionate about ~~people, design, technology and sharing knowledge~~ standards documentation
+# Development
 
-### Contact
+We discuss our recent development adventures over at [Deeson Labs](https://www.deeson.co.uk/labs).
 
-[Simon is lonely, send him a message or ask for a job](https://www.deeson.co.uk/contact)
+Our in-house technical documentation has been moved over to the [Development
+Chapter on Confluence](https://deeson.atlassian.net/wiki/spaces/DC).
