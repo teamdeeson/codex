@@ -2,7 +2,7 @@
 
 - [Pod team lists](https://docs.google.com/document/d/1g6r1k6JgFNe_4NvvZfSa4ROONzUNWWGMedb-gBHQkkk/edit#heading=h.bwbcgo8uj5ew)
 - [Team contact details](https://deeson-agency.slack.com/team)
-- Company and pod dashboards - link is pinned in the #general channel on Slack
+- Company and pod dashboards - link is pinned in the #things-to-know channel on Slack
 
 #Processes and templates
 
@@ -12,6 +12,10 @@
 - [Payment models for projects](https://docs.google.com/document/d/1Bti69GzVe_mk0MCRn5w_lLpzhks_HyLZvarxIT1fqbo/edit)
 - [Standard terms and conditions](https://docs.google.com/document/d/1AqcHf5br2mpxLUTZ9GqucezAgr3oCto8drbpARhmOGY/edit)
 - [New business process](https://docs.google.com/presentation/d/12YKQqMV48oZx2KfD0qqJaE9ZIVrtw3yRx1hz7jwRmj0/edit#slide=id.p)
+- [Sales invoicing](https://docs.google.com/a/deeson.co.uk/document/d/1QKJJlfy5BblQubMPqO5rzXKMu-2fOUhTV7SxkujYZT4/edit?usp=sharing)
+- [VAT on sales](https://docs.google.com/a/deeson.co.uk/document/d/1MKHBouEOuleBEbsEQ1OcPvFd7Cxt8PSCjoIq87Eh-tY/edit?usp=sharing)
+- [Credit control](https://docs.google.com/a/deeson.co.uk/document/d/1ZWoGo36sHdvDMckzwpH-sMzH-Flh8JbqMo7mE1YnG_o/edit?usp=sharing)
+- [Receipt Bank processing & approvals](https://docs.google.com/a/deeson.co.uk/document/d/1rcH04NgsdDK5ZS4bwNm8WpXStKlsZXeRzRpuJknuf4E/edit?usp=sharing)
 
 #Company tools
 
