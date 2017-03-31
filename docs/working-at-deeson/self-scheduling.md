@@ -1,4 +1,4 @@
-#Self-scheduling
+## Self-scheduling
 
 In line with our ethos of enabling our team members to manage their own working life, we expect everyone working at Deeson to take responsibility for their own work schedule (aka “self-scheduling”).
 
@@ -6,7 +6,7 @@ This means that no-one determines at a detailed level what you do and when - you
 
 The tool we use for managing schedules is called Forecast. 
 
-#Why is this important?
+## Why is this important?
 
 The information that’s kept in Forecast about who’s planning on spending how many hours doing what is really important. 
 
@@ -14,7 +14,7 @@ It means project teams can see easily who’s working on what when and it feeds 
 
 As a business time is all we sell, so having a pretty watertight way of recording time (Harvest) and planning time (Forecast) is vital 
 
-#So what do I have to do?
+## So what do I have to do?
 
 Know your own schedule. Keep it up to date when things change on projects and how you want to organise your work. 
 
@@ -22,7 +22,7 @@ You have to choose the best working location to be able to get your work done. T
 
 If you have gaps emerging, it’s your responsibility to see how you can move things around to maximise your billability. That might include changes like starting a task earlier, spending some time working on a different project or working on an R&D project.
 
-#Who changes my schedule?
+## Who changes my schedule?
 
 One of the challenges that some team members have experienced with self-scheduling is that other people have moved their schedules around or added/removed things. 
 
@@ -42,7 +42,7 @@ If you think you can see a way of resolving the problem, it’s worth discussing
 
 If you can’t see a way of reconciling your commitments with the time available, speak with your pod lead. It’s part of their role to facilitate a solution being found and so they can help you with this.
 
-#What if I don’t have enough work in my schedule?
+## What if I don’t have enough work in my schedule?
 
 Sometimes you’ll have gaps in your schedule where you’ve not got any planned client or internal work.
 

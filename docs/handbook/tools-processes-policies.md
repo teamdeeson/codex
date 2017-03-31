@@ -1,4 +1,4 @@
-#Tools, policies and processes
+# Tools, policies and processes
 
 Pods should be free to do what they need to do to get the job done. 
 
@@ -6,7 +6,7 @@ That’s our primary aim, but in an agency we need to have some standard practic
 
 Here’s a quick rundown of what’s a company-wide standard:
 
-##Company-wide processes and policies
+## Company-wide processes and policies
 
 - [EOS methods and tools](https://www.eosworldwide.com/what-is-eos)
 - Our delivery methodology - the three stage Discovery, Production and Optimisation approach
@@ -18,7 +18,7 @@ Here’s a quick rundown of what’s a company-wide standard:
 - [The Deeson Handbook](http://deeson-codex.readthedocs.io/en/latest/)
 - [Job roles and accountabilities](http://deeson-codex.readthedocs.io/en/latest/handbook/roles-at-deeson/)
 
-##Company-wide tools
+## Company-wide tools
 
 - Discipline-specific software, tools and standards- eg development environments
 - Reporting standards and tools - eg [report cards](https://docs.google.com/spreadsheets/d/1RYEHvwX79gxh23FKGeR_bg-FmYY_dCBIOxkCCypTmU4/edit#gid=0) _(currently internal only)_
@@ -30,7 +30,7 @@ Here’s a quick rundown of what’s a company-wide standard:
 
 If the company-wide standard tool or process isn’t working as well as you think it could or you think there’s a better way, get a guild together and recommend a better way for consideration.
 
-##Clients on Slack
+## Clients on Slack
 
 We've found Slack to be an excellent internal communication tool and also use it with clients as an additional communication method whilst we're working on their projects.
 

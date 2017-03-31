@@ -20,7 +20,7 @@ If you pick up an incoming call that is ringing to switchboard then to transfer 
 5. If they can take the call, hang up, the call will be transferred.
 6. If they cannot take the call, press ? to return to the caller.
 
-#Conference calls
+## Conference calls
 
 If everyone is online then Google Hangouts is a good choice for a conference call. This can be started from a slack channel using the command /hangout or from [phttps://plus.google.com/hangouts](https://plus.google.com/hangouts). An alternative is [appear.in](http://appear.in) which is a good fallback option.
 

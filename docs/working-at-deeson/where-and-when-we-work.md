@@ -106,7 +106,7 @@ If you can’t work when you’re travelling - for example you’re driving and 
 
 If you’re travelling by train or plane, you could choose to work (and it counts towards your billable) or you could choose not to (and it doesn’t). The reality of most of the travel we do is that you can work if you prepare or choose to.
 
-#Time planning works for team members in their first year
+## Time planning works for team members in their first year
 
 All new team members get a personal billable target that increases during their first year to reflect on-boarding and training time.
 

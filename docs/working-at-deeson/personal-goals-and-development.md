@@ -8,7 +8,7 @@ This section of the handbook explains how we set goals and ensure that everyone 
 
 This is a new approach that we’re introducing for a trial period.
 
-# The basics of goal setting
+## The basics of goal setting
 
 Everyone will be setting themselves clear goals each quarter. 
 

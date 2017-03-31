@@ -118,7 +118,7 @@ After six months you’ll continue having monthly reviews with your chapter lead
 
 Once they have signed off your progress, you’ll have successfully completed your first year in the agency and will move onto our personal development approach for experienced team members. For some team members this may happen in less than 12 months, while for others it may take slightly longer.
 
-#Buddy system
+##Buddy system
 
 You’ll have a buddy who you can ask anything - from where are the toilets to debating the working principles. They are there to make sure you get settled in and comfortable as quickly as possible.
 

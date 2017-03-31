@@ -22,7 +22,7 @@ The more we can concentrate on facilitating on achieving our goals together and 
 
 In summary, at Deeson it’s about ownership of results, not being told what to do and blindly following processes. 
 
-# Core values
+## Core values
 
 Back in 2015 [we spoke at length](https://www.deeson.co.uk/blog/evolving-our-culture-deeson-facilitation-over-management "Blog post on evolving culture") with our team members and clients about what made Deeson different to other agencies and places to work.
 
@@ -73,7 +73,7 @@ Team members always being willing to help others solve problems.
 
 Consistently delivering for our clients, even when they are hard to please.
 
-# Putting principles and values into action
+## Putting principles and values into action
 
 We know that sometimes it can be tricky to know how to put principles and values to use during our day-to-day work. 
 
