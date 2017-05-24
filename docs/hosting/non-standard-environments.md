@@ -19,7 +19,7 @@ absence of a solid deployment process
 
 We often ended up spending time helping with troubleshooting / fixing their infrastructure issues. However, the hours we spent on the troubleshooting efforts can’t be quoted upfront and so are hard for us to charge to a client. Us spending time on unscheduled non-development tasks also affected the delivery schedule, and as a result, both us and the client were put under pressure to deliver the project overall.
 
-## Proposed solutions
+## Our solutions
 
 **For all clients who prefer to run their application on a custom infrastructure**, we notify them up-front that a Statement of Work needs to be signed that outlines the risks, costs and responsibilities of this route, as well as pre-paid hosting support pack of at least 50 hours must be put in place in advance before we agree to work with custom infrastructure. This pack is for Deeson team members resolving hosting related issues OR extra work required as a result of the use of custom infrastructure. We must also ensure the client is aware that this approach can affect delivery timelines if unforeseen issues arise that we have to troubleshoot. We work on a “best efforts” basis for custom infrastructure troubleshooting and so we can’t provide any guarantees of timescales for resolving the issues.  
 

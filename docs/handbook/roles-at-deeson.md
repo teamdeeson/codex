@@ -5,13 +5,13 @@ We're not big on job titles at Deeson, but we do think it's important that every
 When thinking about roles there are two subtly different things that are important:
 
 1. The **job role** that we hire people into the agency to do and they need to fulfil when they’re here
-2. The **project roles** that team members play on specific projects when they’re working within a pod
+2. The **project roles** that team members play on specific projects 
 
 The first is important to set expectations for the company and the new team member. It will inevitably change over time as the agency and the team member develops professionally.
 
-The second reflects the pod being a unique team of individuals and recognises that on different projects, pod team members with different skills will be able to play different roles - and that’s ok.
+The second reflects a project team being a unique mix team of individuals and recognises that on different projects, team members with different skills will be able to play different roles - and that’s ok.
 
-The first is broader in remit and more fixed than the second, which may flex according to pod and projects. The second is always a sub-set of the first.
+The first is broader in remit and more fixed than the second, which may flex according to the needs of a project. The second is always a sub-set of the first.
 
 ## Shared accountabilities
 
@@ -51,26 +51,26 @@ The specific accountabilities of each job role are shown below:
 - Identifying and mitigating technical risk during projects
 - Daily review of development progress against estimates and resolution of issues arising for allocated projects
 - Where applicable, ensure features have sufficient test coverage (testing tools and methods as needed)
-- Technical work produced by pod meets Deeson standards
+- Technical work meets Deeson standards
 - Understand requirements for accessibility and how this will impact the technical aspects of the project
 
 ## Team and community
 
 - Facilitation for developers on a project to resolve problems and ensure rapid project progression
-- On-project coaching for technical pod team members to support professional development as agreed with the chapter lead
+- On-project coaching for technical team members to support professional development as agreed with the chapter lead
 - Actively sharing knowledge with / contributing improvements back to open source community and projects
 
 
 ## Developer
 
 ## Delivery
-- Developing well engineered technical solutions to properly defined problems in collaboration with the pod using using one or more open source platforms 
-- Technical work produced by pod meets Deeson standards
+- Developing well engineered technical solutions to properly defined problems using using one or more open source platforms 
+- Technical work produced meets Deeson standards
 - Definition and estimation for development tasks
 - Testing and quality assurance for own solutions developed as defined by the definition of done
 
 ## Team and community
-- Collaborating and pairing with others in the pod and actively reviewing each others code
+- Collaborating and pairing with others and actively reviewing each others code
 - Sharing best practice and new found learning internally and externally
 - Learning new skills, tools and approaches at a rate expected of a fast changing industry
 - Actively contributing improvements back to open source community projects
@@ -144,13 +144,18 @@ The accountabilities of the project lead role are:
 2. Establishing, sharing and maintaining professional best practice within the chapter 
 3. Thought leadership outside the agency
 4. New team member successful first year
+5. Billability of the chapter
 5. Professional learning and coaching for chapter members
 6. Acting as the senior expert for complex and tricky problems 
 7. Innovation, R&D and creativity within the chapter
 
 _John Ennew_ is the chapter lead for the technical chapter, supported by _James Wilson_ for front-end.
 
-_Andrew Larking_ is the chapter lead for the creative chapter (design and user experience).
+_Andrew Larking_ is the chapter lead for the design chapter.
+
+_Mike Jongbloet_ is the chapter lead for the user experience chapter.
+
+_Holly Davis_ is the chapter lead for the delivery chapter (agile project management).
 
 ## Technical specialisms
 
@@ -174,4 +179,4 @@ Deep specialisms in one or more area are a good thing and are encouraged through
 
 Solutions Architects need to be able to know enough about all of these areas to be able to do their role effectively, but they’re likely to have deeper specialisms in one or more of these areas too.
 
-There’s not a single desired profile of skills for the developer roles, but we need to make sure that the mix is right across a pod as a whole. 
+

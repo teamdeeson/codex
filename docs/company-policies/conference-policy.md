@@ -1,10 +1,12 @@
 # Conference attendance
 
-Deeson encourages team members to attend relevant conferences for personal development and to promote us around the industry.
+We encourage our team members to attend relevant conferences for personal development and to promote our agnecy around the industry.
 
-If you wish to attend a conference, please put a case forward to your Chapter Lead. This should consider the following:
+If you'd like to attend a conference/event, you need to talk this through with your chapter lead. 
 
-1. Relevance to your role
+The things you'll need to talk about include: 
+
+1. Relevance of the conference/event to your role
 2. Significance of the conference in the industry (looking at numbers usually attending and quality of the speakers or past speakers)
 3. Distance from you
 4. Are you assisting with the running of the conference?

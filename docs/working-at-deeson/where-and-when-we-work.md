@@ -74,7 +74,7 @@ Some of our most useful time is un-billable, for example investing in people and
 
 Before the start of each week you are responsible for reviewing your Forecast schedule and checking you’re on track for your personal billable target.
 
-If you’re not then speak to your pod colleagues to see how you can make best use of your time this week
+If you’re not then speak to your team colleagues to see how you can make best use of your time this week
 
 Before the end of each week you must make sure your Harvest is up-to-date and you’ve logged all your billable and non-billable hours - remember that’s at least your personal billable target and 35hrs in total each week.
 
@@ -132,12 +132,12 @@ Charlie works a 35 hour week and so is expected to do 14 billable hours on proje
 
 > Charlie is assigned a 6 hour task and a 8 hour task.
 
-> It only takes him four hours to complete the 6 hour task. He logs four hours to the project. He high fives his pod team members who congratulate Charlie at their innovative approach to solving this problem.
+> It only takes him four hours to complete the 6 hour task. He logs four hours to the project. He high fives his team members who congratulate Charlie at their innovative approach to solving this problem.
 
 > He then moves onto the eight hour task. After reading the requirements of the task and talking through the approach with the other members of the team it was clear that Charlie was going to need some time to read about an unfamiliar area of work. In total, the task takes 22 hours to read about and complete. He logs eight hours to the project and 14 hours to training.
-Charlie is ahead this week so the pod helps them pick up additional tasks from the project backlog.
+Charlie is ahead this week so the team helps them pick up additional tasks from the project backlog.
 
-> At the end of the month he has logged 56 hours to projects and 84 hours to training and so is 40% billable. His Chapter Lead reviews his work with a senior member of the pod and together with Charlie discuss what aspects of the projects he is currently finding challenging. This is an opportunity for Charlie to raise any training issues and concerns. His development plan is updated and Charlie is ready to approach the next month expecting to deliver 60% billability. 
+> At the end of the month he has logged 56 hours to projects and 84 hours to training and so is 40% billable. His Chapter Lead reviews his work with a senior member of the team and together with Charlie discuss what aspects of the projects he is currently finding challenging. This is an opportunity for Charlie to raise any training issues and concerns. His development plan is updated and Charlie is ready to approach the next month expecting to deliver 60% billability. 
 
 
 **The flexible working small print**

@@ -1,6 +1,6 @@
 ## Tools, policies and processes
 
-Pods should be free to do what they need to do to get the job done. 
+Project teams should be free to do what they need to do to get the job done. 
 
 That’s our primary aim, but in an agency we need to have some standard practices that hold us together, as well as the freedoms to work how we need to so that we can deliver great work for our clients.
 
@@ -42,6 +42,7 @@ There are a few things we make clear to our clients:
 - Likewise, we're not asking clients to be any more available to us than you already are.
 
 And there are a few things we expect our employees to be aware of:
+
 - We always record decisions / outcomes of conversations in Basecamp so there’s a single place of record.
 - Client slack channels use the naming protocol “people-[clientname]” or “people-[clientname]-[personname]”
 - Client slack channels are always private channels

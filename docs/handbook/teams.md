@@ -1,6 +1,4 @@
-There are three dimensions of team at Deeson. 
-
-Everyone at is part of each of these three types of team:
+There are two kinds of team at Deeson and everyone in a client-facing delivery role is part of each of these teams:
 
 ## Project team
 
@@ -18,15 +16,6 @@ The chapter is where professional learning, challenge and R&D happens. It’s al
 
 Each chapter has a team member who acts as chapter lead - an experienced professional whose job it is to bring the chapter together and help it thrive.
 
-## Pod team
-
-The pod is a looser group who provide mutual support, advice and guidance to each other. 
-
-We think this is really important to help maintain a small agency feel to working at Deeson as the agency evolves. 
-
-The pod team is also responsible for providing maintenance and support for a set group of long-term clients.
-
-
 #Questions and answers about team working
 
 ## Who’s in charge of what I do?
@@ -39,18 +28,10 @@ We don’t have a management hierarchy because we believe that the best way for 
 
 ## Who’s my line manager?
 
-Ultimately your line manager is a director (Simon or Andrew). Your chapter lead approves holiday requests as they are accountable for the delivery capacity of a pod.
+Ultimately your line manager is a director (Simon, Tim or Andrew). Your chapter lead approves holiday requests as they are accountable for the delivery capacity of their chapter.
 
 You are accountable for delivering your professional development through our self-development process (also known as OKRs). 
 
 Your chapter lead and the directors are responsible for supporting your professional development. 
 
 Directors look after all other line management functions (such as pay, performance improvement, career progression, sickness, welfare and long-term absence, disciplinary, grievance, and appraisals).
-
-## Who's in which pod?
-
-You can see details of who does what in each pod [here](https://docs.google.com/document/d/1g6r1k6JgFNe_4NvvZfSa4ROONzUNWWGMedb-gBHQkkk/edit#heading=h.bwbcgo8uj5ew). 
-
-## Which clients / projects are in each pod?
-
-You can see this in the [project overview list](https://docs.google.com/spreadsheets/d/1RYEHvwX79gxh23FKGeR_bg-FmYY_dCBIOxkCCypTmU4/edit#gid=0).

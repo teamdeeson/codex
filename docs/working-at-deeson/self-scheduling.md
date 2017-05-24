@@ -40,7 +40,7 @@ If this happens, don’t suffer in silence. Speak up!
 
 If you think you can see a way of resolving the problem, it’s worth discussing your solution with the relevant project leads or project managers.
 
-If you can’t see a way of reconciling your commitments with the time available, speak with your pod lead. It’s part of their role to facilitate a solution being found and so they can help you with this.
+If you can’t see a way of reconciling your commitments with the time available, speak with your chapter and project leads. It’s part of their role to facilitate a solution being found and so they can help you with this.
 
 ## What if I don’t have enough work in my schedule?
 

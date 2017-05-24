@@ -23,8 +23,8 @@ The five weeks must be taken together in one block and you must not have contact
 ##How it works
 
 - You are responsible for planning your handover and cover, with the company's support as required. This handover should cover your project and non-project commitments.
-- For advance planning of sabbaticals you should get in principle approval from your pod colleagues, chapter lead and the MD before you make any commitments/arrangements (eg travel bookings).
-- You need to get detailed plans for this agreed within your pod and approved by your pod and chapter leads at least two months ahead of the start of your sabbatical. The plans then must be signed off by Simon before the sabbatical is formally approved.
+- For advance planning of sabbaticals you should get in principle approval from your project team colleagues, chapter lead and the MD before you make any commitments/arrangements (eg travel bookings).
+- You need to get detailed plans for this agreed within your project team/s and approved by your chapter lead at least two months ahead of the start of your sabbatical. The plans then must be signed off by Simon before the sabbatical is formally approved.
 - Plan in advance to make sure you allow enough time to ensure your role is properly covered in your absence.
 - If you’re already eligible for a sabbatical because you’ve been with the company more than five years, there’s a longer two year transitional period for you to take your sabbatical in - you need to take it between the scheme launch (1 June 2016) and 30 June 2018. For those becoming eligible in 2017, there is an extended 18 month period in which you should take your sabbatical (1 January 2017 to 30 June 2018).
 - For future years the sabbatical needs to be taken during the calendar year in which your work anniversary takes place. This period can be extended at the MD’s discretion.

@@ -37,7 +37,7 @@ If you need access to a project or think a new project needs setting up, please 
 You’ll need to log all your working time against the appropriate task and project in Harvest. For full-time team members that means:
 
 - minimum 35 hours working time logged per week 
-- minimum 30 hours logged to billable tasks per week, unless agreed with your chapter 
+- minimum 31 hours logged to billable tasks per week, unless agreed with your chapter 
 
 ##Managing Harvest projects / tasks
 
@@ -45,12 +45,8 @@ Please don’t create new Harvest tasks to break project activities apart, eithe
 
 Unless there’s a reason we want to track a specific set of time you probably don’t need to create a new project, especially for internal work or if there’s an umbrella project already.
 
-As a rule the account manager in a pod creates new projects / changes project settings. They are responsible for accurate report cards and should also therefore manage Harvest.
-
 ##Budgets in Harvest
 
 Every project that we set up in Harvest should have an hours budget associated with it. This should be the same as set out in the statement of work, unless a variation has been agreed by a director (for example if we have chosen to spend more hours on a project than we are able to bill to the client). 
 
 These budgets should always be at a task level - so each team member knows their own budget allocation (in hours).
-
-Where a project runs over-budget, time should continue to be logged against the relevant task. Where the cost of this over-run cannot be charged to the client, the Account Manager will manually note this on the pod and company scorecard each week to ensure we have an accurate idea of how the business is doing.
