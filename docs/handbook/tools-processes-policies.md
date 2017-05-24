@@ -9,8 +9,7 @@ Here’s a quick rundown of what’s a company-wide standard:
 ## Company-wide processes and policies
 
 - [EOS methods and tools](https://www.eosworldwide.com/what-is-eos)
-- Our delivery methodology - the three stage Discovery, Production and Optimisation approach
-- The Deeson agile delivery methodology
+- [The Deeson agile delivery methodology](https://docs.google.com/document/d/17aO5PCU5aKBxPIXeRnuvK76trgVbn10qjIuuZzB9zhA/edit)
 - [Estimating methodology](https://docs.google.com/document/d/115Pup6P7hL1tMS6K4cSX_ewzWom96Eb3dtmrOlR3alw/edit)  _(currently internal only)_
 - Recruitment
 - Goals and development
