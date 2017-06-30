@@ -21,4 +21,4 @@ serve:
 	mkdocs serve
 
 deploy:
-	@echo 'Just commit into master and push, the code is built and deployed to http://handbook.deeon.co.uk'
+	@echo 'Just commit into master and push, the code is built and deployed to http://handbook.deeson.co.uk'
