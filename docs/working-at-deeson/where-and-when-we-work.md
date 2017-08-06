@@ -12,7 +12,7 @@ Experience says that an effective working location is going to:
 - a comfortable chair and desk or table
 - be quiet and free from distractions and allow your work to be your sole focus
 
-An easy test is - could you hold a video conference call with a client from where you working?
+An easy test is - could you hold a video conference call with a client from where you are working?
 
 Remember if you’re working with confidential information on your screen then make sure you’re working somewhere that is appropriate for that.
 
