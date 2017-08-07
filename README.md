@@ -2,7 +2,7 @@
 
 Deeson is a Digital Agency in Europe https://www.deeson.co.uk
 
-This is our internal processes and best practices, open to the world and accessible at https://handbook.deeson.co.uk
+This is our internal processes and best practices, open to the world and accessible at http://handbook.deeson.co.uk
 
 ## Editing the handbook
 
@@ -31,6 +31,6 @@ Once you have mkdocs installed, you just need to run the following
 from the root of the checked out project directory:
 
     mkdocs serve
-    
+
 You should now see the project running on your local machine here
 http://127.0.0.1:8000/
