@@ -1,10 +1,12 @@
 # Conference attendance
 
-Deeson encourages team members to attend relevant conferences for personal development and to promote us around the industry.
+We encourage our team members to attend relevant conferences for personal development and to promote our agnecy around the industry.
 
-If you wish to attend a conference, please put a case forward to your Chapter Lead. This should consider the following:
+If you'd like to attend a conference/event, you need to talk this through with your chapter lead. 
 
-1. Relevance to your role
+The things you'll need to talk about include: 
+
+1. Relevance of the conference/event to your role
 2. Significance of the conference in the industry (looking at numbers usually attending and quality of the speakers or past speakers)
 3. Distance from you
 4. Are you assisting with the running of the conference?
@@ -14,6 +16,7 @@ If you wish to attend a conference, please put a case forward to your Chapter Le
 8. Can your pod and projects spare you for the days of the conference (this is easier to answer the more notice you give, conferences are usually scheduled 6 months ahead of time)
 9. Do you think that Deeson should be sponsoring the conference?
 10. Have you missed out on conference attendance previously because too many people wanted to go?
+11. What is the cost of the conference to Deeson? Please provide a breakdown including: Cost of transport (approx), cost of accomodation (approx), cost of subsistence (approx), cost of the tickets and the lost revenue if working days will be missed to attend (this should be worked out at the current hourly rate)
 
 The Chapter Lead will consider the merits of conference attendance based on your case. If many people want to attend we may have to limit the total numbers and will take into account if this has happened to you previously. The decision will be made by the Chapter Lead and Tim Deeson, keeper of the Deeson purse.
 

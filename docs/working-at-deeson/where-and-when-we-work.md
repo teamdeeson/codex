@@ -12,7 +12,7 @@ Experience says that an effective working location is going to:
 - a comfortable chair and desk or table
 - be quiet and free from distractions and allow your work to be your sole focus
 
-An easy test is - could you hold a video conference call with a client from where you working?
+An easy test is - could you hold a video conference call with a client from where you are working?
 
 Remember if you’re working with confidential information on your screen then make sure you’re working somewhere that is appropriate for that.
 
@@ -74,7 +74,7 @@ Some of our most useful time is un-billable, for example investing in people and
 
 Before the start of each week you are responsible for reviewing your Forecast schedule and checking you’re on track for your personal billable target.
 
-If you’re not then speak to your pod colleagues to see how you can make best use of your time this week
+If you’re not then speak to your team colleagues to see how you can make best use of your time this week
 
 Before the end of each week you must make sure your Harvest is up-to-date and you’ve logged all your billable and non-billable hours - remember that’s at least your personal billable target and 35hrs in total each week.
 
@@ -106,7 +106,7 @@ If you can’t work when you’re travelling - for example you’re driving and 
 
 If you’re travelling by train or plane, you could choose to work (and it counts towards your billable) or you could choose not to (and it doesn’t). The reality of most of the travel we do is that you can work if you prepare or choose to.
 
-#Time planning works for team members in their first year
+## Time planning works for team members in their first year
 
 All new team members get a personal billable target that increases during their first year to reflect on-boarding and training time.
 
@@ -132,12 +132,12 @@ Charlie works a 35 hour week and so is expected to do 14 billable hours on proje
 
 > Charlie is assigned a 6 hour task and a 8 hour task.
 
-> It only takes him four hours to complete the 6 hour task. He logs four hours to the project. He high fives his pod team members who congratulate Charlie at their innovative approach to solving this problem.
+> It only takes him four hours to complete the 6 hour task. He logs four hours to the project. He high fives his team members who congratulate Charlie at their innovative approach to solving this problem.
 
 > He then moves onto the eight hour task. After reading the requirements of the task and talking through the approach with the other members of the team it was clear that Charlie was going to need some time to read about an unfamiliar area of work. In total, the task takes 22 hours to read about and complete. He logs eight hours to the project and 14 hours to training.
-Charlie is ahead this week so the pod helps them pick up additional tasks from the project backlog.
+Charlie is ahead this week so the team helps them pick up additional tasks from the project backlog.
 
-> At the end of the month he has logged 56 hours to projects and 84 hours to training and so is 40% billable. His Chapter Lead reviews his work with a senior member of the pod and together with Charlie discuss what aspects of the projects he is currently finding challenging. This is an opportunity for Charlie to raise any training issues and concerns. His development plan is updated and Charlie is ready to approach the next month expecting to deliver 60% billability. 
+> At the end of the month he has logged 56 hours to projects and 84 hours to training and so is 40% billable. His Chapter Lead reviews his work with a senior member of the team and together with Charlie discuss what aspects of the projects he is currently finding challenging. This is an opportunity for Charlie to raise any training issues and concerns. His development plan is updated and Charlie is ready to approach the next month expecting to deliver 60% billability. 
 
 
 **The flexible working small print**

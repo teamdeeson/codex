@@ -24,7 +24,7 @@ Remember all leave needs to be taken by the end of the calendar year. Leave can 
 
 You can check your balance using Bamboo. Remember to use the date calculator and set the date to 31st December to view your balance for the whole year, including days booked but not yet taken.
 
-You can use holiday in half days or whole days. On a half day you either start or finish at 12.30pm.
+You can book time off in half days or whole days. On a half day you either start or finish at 12.30pm.
 
 ##Sickness and medical appointments
 
