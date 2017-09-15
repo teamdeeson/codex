@@ -17,8 +17,9 @@ build: build-frontend
 	@echo
 	@echo "Build finished. The HTML pages are in the site directory"
 
+run: serve
 serve:
-	mkdocs serve
+	(sleep 1 && open http://127.0.0.1:8000) & mkdocs serve
 
 deploy:
-	@echo 'Just commit into master and push, the code is built and deployed to http://handbook.deeon.co.uk'
+	@echo 'Just commit into master and push, the code is built and deployed to http://handbook.deeson.co.uk'
