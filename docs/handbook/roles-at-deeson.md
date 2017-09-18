@@ -1,6 +1,6 @@
-# Project roles and Responsibilities
+# Roles at Deeson
 
-At Deeson, we follow a modified version of the [DSDM Agile Project Framework](https://www.agilebusiness.org/content/introduction-0). This defines out project roles and responsibilities.
+This page describes the roles individuals take on at Deeson.
 
 First up, some definitions before reading this page:
 
@@ -26,11 +26,13 @@ Here are the specific accountabilities we all share regardless of our job title 
 
 ## Project roles at Deeson
 
+Our project management process is based on the Agile methodology called [DSDM Agile project framework](https://www.agilebusiness.org/content/introduction-0) developed by the Agile Business Consortium. Project roles are distinct sets of responsibilities on a project. An individual on a project may hold one or more of these roles.
+
+The diagram below shows the DSDM 'alien baby' diagram that shows the various project roles.
+
 ![Deeson project roles diagram](../images/deeson-project-structure.jpg)
 
-Our project management process is based on the Agile methodology called DSDM developed by the Agile Business Consortium. Project roles are distinct sets of responsibilities on a project. An individual on a project may hold one or more of these roles.
-
-We recognise the following project roles.
+The roles in the head are project governance roles, those in the body are the team that build and deliver the solution for the project. The roles in the shaded area are supporting the project and are not part of the project team. White roles are Deeson roles and orange roles are client or other external roles.
 
 ### Project Lead
 
@@ -155,7 +157,7 @@ Developing skills and demonstrating ability as both Agile Coach and Delivery Lea
 
 ## Internal roles
 
-These roles support the improvement of the Chapter and agency as a whole and give individuals new routes for professional development.
+These roles support the improvement of the Chapters and agency as a whole and give individuals new routes for professional development.
 
 ### Chapter Lead
 
