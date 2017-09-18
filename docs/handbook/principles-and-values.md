@@ -50,7 +50,7 @@ Learning new techniques, tools and ways of doing things.
 Embracing big goals and not being afraid to go for them.
 
 ## Be curious
-Developers exploring new tools and techniques in [Coder Lounge](http://handbook.deeson.co.uk/development/coder-lounge/).
+Developers exploring new tools and techniques in Coder Lounge.
 
 Learning a new coding language to prototype something.
 
