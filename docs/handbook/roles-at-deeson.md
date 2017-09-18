@@ -1,6 +1,6 @@
 # Project roles and Responsibilities
 
-At Deeson, we follow a modified version of the [DSDM Agile Project Framework](https://www.agilebusiness.org/content/introduction-0).
+At Deeson, we follow a modified version of the [DSDM Agile Project Framework](https://www.agilebusiness.org/content/introduction-0). This defines out project roles and responsibilities.
 
 First up, some definitions before reading this page:
 
@@ -25,6 +25,8 @@ Here are the specific accountabilities we all share regardless of our job title 
 * Following company processes
 
 ## Project roles at Deeson
+
+![Deeson project roles diagram](../images/deeson-project-structure.jpg)
 
 Our project management process is based on the Agile methodology called DSDM developed by the Agile Business Consortium. Project roles are distinct sets of responsibilities on a project. An individual on a project may hold one or more of these roles.
 
