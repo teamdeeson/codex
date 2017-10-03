@@ -14,7 +14,7 @@ Here’s a quick rundown of what’s a company-wide standard:
 - Recruitment
 - Goals and development
 - Company business policies
-- [The Deeson Handbook](http://deeson-codex.readthedocs.io/en/latest/)
+- [The Deeson Handbook](http://handbook.deeson.co.uk)
 - [Job roles and accountabilities](http://deeson-codex.readthedocs.io/en/latest/handbook/roles-at-deeson/)
 
 ## Company-wide tools
