@@ -120,7 +120,7 @@ This role is generally taken on by a developer with the Lead Developer job title
 * Deliver component design to budget and deadline within the Evolutionary Development phase
 * Identify and address any risks regarding the delivery of design
 * Collaborate with front-end developers to ensure interaction design works within technological constraints
-* Present your designs to clients, face to face or using video link
+* Present designs to clients, face to face or using video link
 
 ### Developer
 
