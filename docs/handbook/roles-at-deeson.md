@@ -118,7 +118,7 @@ This role is generally taken on by a developer with the Lead Developer job title
 * Participate in workshops and research activities
 * Deliver brand-led design concepts that meet the needs of the users, as well as the strategic and tactical goals of the client
 * Deliver component design to budget and deadline within the Evolutionary Development phase
-* Identify and address any risks regarding to the delivery of design
+* Identify and address any risks regarding the delivery of design
 * Collaboration with front-end developers to ensure interaction design works within technological constraints
 * Present your designs to clients, face to face or using video link
 
