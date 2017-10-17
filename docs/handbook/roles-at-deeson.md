@@ -132,11 +132,11 @@ The developer owns the delivery of part of the technical solution to a project a
 * Testing the output of their own work prior to client acceptance
 * Agreeing and adhering to technical constraints
 * Adhering to Deeson’s technical implementation standards and best practice
-* Participating in any quality assurance work required to ensure the delivered products are truly fit for purpose
+* Participating in any quality assurance work required to ensure the delivered products are truly fit for purpose:
     * Reviewing pull requests
     * Manual testing
     * Writing suitable automated test coverage
-* Identifying, recording and interpreting the detail of any of
+* Identifying, recording and interpreting the detail of any of:
     * Changes to the detailed requirements
     * Changes to the interpretation of requirements which result in re-work within the solution
     * Information likely to impact on the ongoing evolution of the solution
@@ -189,11 +189,11 @@ This role allows for an individual to challenge themselves and take on additiona
 * Identifying weaknesses in our approach and developing a plan to improve them in the form of quarterly goals
 * Defining quarterly goals that are SMART
 * Accountable for the delivery of quarterly goals within the sphere of your initiative including planning of the delivery so that it releases incrementally over the quarter
-* Taking responsibility for supporting any new processes or tools developed by the initiative
+* Taking responsibility for supporting any new processes or tools developed by the initiative:
     * Producing any useful training materials
     * Brown bags
     * Supporting the tools and processes you create (making time to answer Slack messages and provide ScreenHero debugging for example)
-* Producing outward facing marketing material to announce how your initiative is making a difference at Deeson
+* Producing outward facing marketing material to announce how your initiative is making a difference at Deeson:
     * Writing blog posts
     * Speaking at events
     * Maintaining open source tools
