@@ -42,12 +42,12 @@ They ask the hard questions to keep the project team honest and the project on t
 
 The project lead provides continuity of leadership and direction throughout the project, starting with Feasibility and staying with the project through Foundations, Development and Launch.
 
-* Positively encouraging the sense of shared ownership in the project and its goals with the whole team.
-* Holding project team members to account for project slippage.
-* Identifying weaknesses in project team approach and identifying the root causes of the issues.
-* Having the difficult client conversations if other routes have failed.
-* Supporting and coaching the project team, in particular the Delivery Lead and Delivery Manager.
-* Escalating performance issues to the Chapter Leads.
+* Positively encouraging the sense of shared ownership in the project and its goals with the whole team
+* Holding project team members to account for project slippage
+* Identifying weaknesses in project team approach and identifying the root causes of the issues
+* Having the difficult client conversations if other routes have failed
+* Supporting and coaching the project team, in particular the Delivery Lead and Delivery Manager
+* Escalating performance issues to the Chapter Leads
 
 ### Delivery Manager
 
@@ -120,7 +120,7 @@ This role is generally taken on by a developer with the Lead Developer job title
 * Deliver component design to budget and deadline within the Evolutionary Development phase
 * Identify and address any risks regarding to the delivery of design
 * Collaboration with front-end developers to ensure interaction design works within technological constraints
-* Present your designs to clients, face to face or using video link.
+* Present your designs to clients, face to face or using video link
 
 ### Developer
 
@@ -149,11 +149,11 @@ Formal recognition in this role can be achieved through [certification from DSDM
 
 Developing skills and demonstrating ability as both Agile Coach and Delivery Lead will grow the experience required for those wanting to work towards taking on the responsibilities of a Project Lead.
 
-* Providing detailed knowledge and experience of our Agile process, identifying where process is not being followed and supporting and encouraging its use.
-* Assisting the team to tailor our Agile process to suit the individual needs of the project and its unique environment.
+* Providing detailed knowledge and experience of our Agile process, identifying where process is not being followed and supporting and encouraging its use
+* Assisting the team to tailor our Agile process to suit the individual needs of the project and its unique environment
 * Helping the team use Agile practices and helping those outside the team appreciate the Agile philosophy and values
-* Helping the team work in the collaborative and cooperative way typical of DSDM and all Agile approaches.
-* Building DSDM capability within the teams at all levels.
+* Helping the team work in the collaborative and cooperative way typical of DSDM and all Agile approaches
+* Building DSDM capability within the teams at all levels
 
 ## Internal roles
 
@@ -203,9 +203,9 @@ This role allows for an individual to challenge themselves and take on additiona
 In order to win new business we need technical input into the pitch process. This involves writing tender response documents and working on and delivering presentations to potential client teams.
 
 * Providing technical advice in response to new business requests
-* Responding to requests to pitch for new work with written proposals.
-* Presenting at pitches.
-* Supporting the work of marketing and new business with case studies or the development of prototypes or thought leadership articles or presentations.
+* Responding to requests to pitch for new work with written proposals
+* Presenting at pitches
+* Supporting the work of marketing and new business with case studies or the development of prototypes or thought leadership articles or presentations
 * Attending networking events and building lists of contacts (e.g. our client drinks)
 
 ### Recruitment Support
@@ -230,25 +230,25 @@ Job titles reflect broad interaction in the agency and the individual's breadth 
 
 ### Developer
 
-* Work is reviewed with the occasional need for material direction or implementation changes.
-* Follows established patterns and approaches within existing code bases with ease.
-* Works mostly on clearly defined and scoped individual features or problems.
-* Usually at least 2-5 years of experience being a professional programmer in web development.
+* Work is reviewed with the occasional need for material direction or implementation changes
+* Follows established patterns and approaches within existing code bases with ease
+* Works mostly on clearly defined and scoped individual features or problems
+* Usually at least 2-5 years of experience being a professional programmer in web development
 * 100% of their time is spent on development
 
 ### Senior Developer
 
 * Focused on writing code and defining the architecture
-* Fully capable of taking substantial features from concept to shipping as the sole programmer (alongside a designer).
-* Supporting less experienced team members with implementation.
-* Professional development focused on new areas of technology.
-* Solid understanding of the Deeson workflow, best practices and tools.
-* Responsible for delivery of their own commitments.
-* Not required to manage people issues or process issues.
-* Often has the highest technical expertise in a given area.
+* Fully capable of taking substantial features from concept to shipping as the sole programmer (alongside a designer)
+* Supporting less experienced team members with implementation
+* Professional development focused on new areas of technology
+* Solid understanding of the Deeson workflow, best practices and tools
+* Responsible for delivery of their own commitments
+* Not required to manage people issues or process issues
+* Often has the highest technical expertise in a given area
 * Cares about developing patterns and techniques over specific platform implementation details and has domain knowledge over multiple programming environments (e.g. PHP and JavaScript)
-* A minimum of 5 years of experience being a professional programmer in web development.
-* A senior developer can still expect to be doing close to 100% of their time working on developing code.
+* A minimum of 5 years of experience being a professional programmer in web development
+* A senior developer can still expect to be doing close to 100% of their time working on developing code
 
 ### Lead Developer
 
@@ -258,9 +258,9 @@ The Lead Developer has strong people and project management skills. They lead th
 * Proven technical capability as a Senior Developer
 * Capable of fulfilling the Delivery Lead and Technical Co-ordinator roles on a project
 * Capable of running and directing small teams
-* Capable of executing projects across multiple domains (say, native app that needs API backend).
-* At least 8 years of experience being a professional programmer in web development.
-* A Lead Developer can be expected to be spending between 50% and 70% of their time writing code.
+* Capable of executing projects across multiple domains (say, native app that needs API backend)
+* At least 8 years of experience being a professional programmer in web development
+* A Lead Developer can be expected to be spending between 50% and 70% of their time writing code
 
 ### Development Manager
 
@@ -273,5 +273,5 @@ The Development Manager has significant experience of project delivery, people m
 * Capable of fulfilling the Recruitment role
 * Manages own professional development and coaches others with theirs
 * Helps to set direction and oversight of delivery of the Chapter’s quarterly goals
-* Over 10 years of experience being a professional programmer in web development.
-* A Development Manager can still be expected to be spending between 10% and 20% of their time writing code.
+* Over 10 years of experience being a professional programmer in web development
+* A Development Manager can still be expected to be spending between 10% and 20% of their time writing code
