@@ -136,7 +136,7 @@ The developer owns the delivery of part of the technical solution to a project a
     * Reviewing pull requests
     * Manual testing
     * Writing suitable automated test coverage
-* Identifying, recording and interpreting the detail of any of:
+* Identifying, recording and interpreting the detail of:
     * Changes to the detailed requirements
     * Changes to the interpretation of requirements which result in re-work within the solution
     * Information likely to impact on the ongoing evolution of the solution
