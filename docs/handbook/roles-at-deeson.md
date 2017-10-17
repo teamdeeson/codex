@@ -172,7 +172,7 @@ At Deeson, everyone is a member of a chapter that supports their specialism. The
 * Acting as the senior expert for complex and tricky problems
 * Innovation, R&D and creativity within the chapter
 
-*John Ennew* is the Chapter Lead for the Technical Chapter
+*John Ennew* is the Chapter Lead for the Technical Chapter.
 
 *Mike Jongbloet* is the Chapter Lead for the User Experience and Design Chapter.
 
