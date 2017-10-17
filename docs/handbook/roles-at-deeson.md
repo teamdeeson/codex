@@ -143,7 +143,7 @@ The developer owns the delivery of part of the technical solution to a project a
 
 ### Agile Coach
 
-An agile coach supports projects with detailed knowledge and experience of agile and DSDM. They act as external consultants to review project teams behaviours and practices and helps to identify weakness in process or approach on a project.
+An agile coach supports projects with detailed knowledge and experience of agile and DSDM. They act as external consultants to review project team's behaviours and practices and helps to identify weakness in process or approach on a project.
 
 Formal recognition in this role can be achieved through [certification from DSDM](https://www.agilebusiness.org/learning-and-exams/personal-certification).
 
@@ -180,11 +180,11 @@ At Deeson, everyone is a member of a chapter that supports their specialism. The
 
 ### Chapter Initiative Lead
 
-The Chapter’s at Deeson works to better themselves and learn from past projects successes and challenges.
+The Chapters at Deeson work to better themselves and learn from past project successes and challenges.
 
-Each quarter the Chapters define their top priorities in the form of initiatives.  Individuals willing to take on the job of improving in those areas are made Chapter Initiative Lead for the quarter and commit to completing the objectives of the initiative by the end of the quarter.
+Each quarter, Chapters define their top priorities in the form of initiatives.  Individuals willing to take on the job of improving in those areas are made Chapter Initiative Lead for the quarter and commit to completing the objectives of the initiative by the end of the quarter.
 
-This role allows for an individual to challenge themselves and take on additional responsibilities. An initiative might make us completely revolutionise our approach to some aspect of development, for example, using a new front-end framework, revolutionising our approach to local development etc.
+This role allows for an individual to challenge themselves and take on additional responsibilities. An initiative might make us completely revolutionise our approach to some aspect of development, for example, using a new front-end framework, revolutionising our approach to local development, etc.
 
 * Identifying weaknesses in our approach and developing a plan to improve them in the form of quarterly goals
 * Defining quarterly goals that are SMART
@@ -205,7 +205,7 @@ In order to win new business we need technical input into the pitch process. Thi
 * Providing technical advice in response to new business requests
 * Responding to requests to pitch for new work with written proposals
 * Presenting at pitches
-* Supporting the work of marketing and new business with case studies or the development of prototypes or thought leadership articles or presentations
+* Supporting the work of marketing and new business with case studies or the development of prototypes, thought leadership articles or presentations
 * Attending networking events and building lists of contacts (e.g. our client drinks)
 
 ### Recruitment Support
