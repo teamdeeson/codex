@@ -5,7 +5,7 @@ This page describes the roles individuals take on at Deeson.
 First up, some definitions before reading this page:
 
 1. *Job roles* are the variety of functions an individual will play in either a project or company situation.
-2. *Job titles* define a person’s position in the company and the one or more job roles for which they are expected to be expert in
+2. *Job titles* define a person’s position in the company and the one or more job roles for which they are expected to be expert in.
 
 *Job roles* set expectations for the project, client and company and ensure someone is covering all the different aspects of what we do.
 
