@@ -25,7 +25,7 @@ Here’s a quick rundown of what’s a company-wide standard:
 - Our reporting dashboard tool - Geckoboards
 - Our time recording tool - [Harvest](https://deesonemedia.harvestapp.com/overview)
 - Our forecasting tool - [Forecast](https://forecastapp.com/89482/schedule/team)
-- Our project management tool - [JIRA] (https://www.atlassian.com/software/jira)
+- Our project management tool - [JIRA](https://www.atlassian.com/software/jira)
 - Our instant communication tool - Slack
 - Business systems - Macs, Google Drive, email etc
 
