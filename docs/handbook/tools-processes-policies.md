@@ -11,11 +11,13 @@ Here’s a quick rundown of what’s a company-wide standard:
 - [EOS methods and tools](https://www.eosworldwide.com/what-is-eos)
 - [The Deeson agile delivery methodology](https://docs.google.com/document/d/17aO5PCU5aKBxPIXeRnuvK76trgVbn10qjIuuZzB9zhA/edit)
 - [Estimating methodology](https://docs.google.com/document/d/115Pup6P7hL1tMS6K4cSX_ewzWom96Eb3dtmrOlR3alw/edit)  _(currently internal only)_
+- [JIRA ticket configuration](https://docs.google.com/document/d/1_nUPb3wfpJewQyOxWj-IHdTiR9NRXbB576Hk0-G5zJw/edit#)
+- [JIRA workflow](https://www.deeson.co.uk/labs/well-defined-stories-key-eliminating-work-flow-delays)
 - Recruitment
 - Goals and development
 - Company business policies
 - [The Deeson Handbook](http://handbook.deeson.co.uk)
-- [Job roles](http://handbook.deeson.co.uk/handbook/roles-at-deeson) 
+- [Job roles](http://handbook.deeson.co.uk/handbook/roles-at-deeson)
 - [Accountabilities](http://handbook.deeson.co.uk/handbook/accountabilities-and-teams)
 
 ## Our delivery framework
