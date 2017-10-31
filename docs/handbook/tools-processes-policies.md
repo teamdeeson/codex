@@ -18,7 +18,7 @@ Here’s a quick rundown of what’s a company-wide standard:
 - [Job roles](http://handbook.deeson.co.uk/handbook/roles-at-deeson) 
 - [Accountabilities](http://handbook.deeson.co.uk/handbook/accountabilities-and-teams)
 
-# Our delivery framework
+## Our delivery framework
 
 Our project process is defined by the specific needs of each client and each project, however with the help of the agile business consortium we have adapted the [DSDM framework](https://www.agilebusiness.org/what-is-dsdm) to help us to keep consistency across projects. 
 
