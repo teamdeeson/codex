@@ -18,6 +18,21 @@ Here’s a quick rundown of what’s a company-wide standard:
 - [Job roles](http://handbook.deeson.co.uk/handbook/roles-at-deeson) 
 - [Accountabilities](http://handbook.deeson.co.uk/handbook/accountabilities-and-teams)
 
+## Feasibility and Foundations 
+
+All new projects consist of a feasibility and foundations phase before we commence development. 
+
+Feasibility consists of a meeting with the most senior person we can get access to, so we can start to understand their project goals and how this fits in with the organisation’s strategy. 
+
+Based on their requirements and the available budget we assess as a team if the project is feasible and if we want to progress.
+
+We then move into the Foundations phase of the project, the length of this varies depending on the project but on average is between 6-8 weeks. During this phase we undertake research, technical spikes, prototypes, user testing and agree the design direction. The activities are flexible but the outcomes are fixed. We have a check-list of must have deliverables which are assigned to specific roles within our project teams who are accountable for their completion. 
+
+Once the [checklist](https://docs.google.com/document/d/1GLer6Uml5cwS4Z9EpJtC1oLqAA7dJB8-g5Ni3CuY-Gc/edit) is complete, teams can progress into the evolutionary development phase of the project. 
+
+During Foundations we will use the checklist to track progress against the budget. If for whatever reason, the team feel one of these deliverables is not required or will be met by another deliverable not listed, it’s the project lead's responsibility to explain why this is case and what will be delivered instead.
+
+
 ## Company-wide tools
 
 - Discipline-specific software, tools and standards- eg development environments
