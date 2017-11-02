@@ -41,7 +41,7 @@ Based on their requirements and the available budget we assess as a team if the 
 
 We then move into the Foundations phase, a period of intense research. To explore the brief in more detail, find out what users need, get under the skin of the organisation, project architecture and plan for evolutionary development.
 
-*The purpose of Foundations is to ensure we build the right thing and move fast when we start development.*
+**The purpose of Foundations is to ensure we build the right thing and move fast when we start development.**
 
 The length of this varies depending on the project but on average is between 6-8 weeks. During this phase we undertake research, technical spikes, prototypes, user testing and agree the design direction. The activities are flexible but the outcomes are fixed. We have a check-list of must have deliverables which are assigned to specific roles within our project teams who are accountable for their completion. 
 
