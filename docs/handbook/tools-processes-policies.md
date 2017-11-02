@@ -39,9 +39,13 @@ Feasibility consists of a meeting with the most senior person we can get access 
 
 Based on their requirements and the available budget we assess as a team if the project is feasible and if we want to progress.
 
-We then move into the Foundations phase of the project, the length of this varies depending on the project but on average is between 6-8 weeks. During this phase we undertake research, technical spikes, prototypes, user testing and agree the design direction. The activities are flexible but the outcomes are fixed. We have a check-list of must have deliverables which are assigned to specific roles within our project teams who are accountable for their completion. 
+We then move into the Foundations phase, a period of intense research. To explore the brief in more detail, find out what users need, get under the skin of the organisation, project architecture and plan for evolutionary development.
 
-Once the [checklist](https://docs.google.com/document/d/1GLer6Uml5cwS4Z9EpJtC1oLqAA7dJB8-g5Ni3CuY-Gc/edit) is complete, teams can progress into the evolutionary development phase of the project. 
+*The purpose of Foundations is to ensure we build the right thing and move fast when we start development.*
+
+The length of this varies depending on the project but on average is between 6-8 weeks. During this phase we undertake research, technical spikes, prototypes, user testing and agree the design direction. The activities are flexible but the outcomes are fixed. We have a check-list of must have deliverables which are assigned to specific roles within our project teams who are accountable for their completion. 
+
+Once the [checklist](https://docs.google.com/document/d/1GLer6Uml5cwS4Z9EpJtC1oLqAA7dJB8-g5Ni3CuY-Gc/edit) is complete, teams can progress into the evolutionary development phase of the project where we start building the solution. 
 
 During Foundations we will use the checklist to track progress against the budget. If for whatever reason, the team feel one of these deliverables is not required or will be met by another deliverable not listed, it’s the project lead's responsibility to explain why this is case and what will be delivered instead.
 
