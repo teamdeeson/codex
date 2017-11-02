@@ -70,14 +70,12 @@ We've found Slack to be an excellent internal communication tool and also use it
 There are a few things we make clear to our clients:
 
 - It’s a great way for both of us at getting quick answers to each other's questions, we'll be able to post updates and when applicable hold short, effective conversations.
-- It's not a replacement for Basecamp (but it can be for email). We'll still send all important communication via Basecamp, and we'll still use all of our existing tools for recording tasks.
 - We've achieved a great balance of being responsive whilst still allowing our team to focus on their work. Slack doesn’t promise any faster response times than we're already able to deliver via other communication means.
 - Likewise, we're not asking clients to be any more available to us than you already are.
 
 And there are a few things we expect our employees to be aware of:
 
-- We always record decisions / outcomes of conversations in Basecamp so there’s a single place of record.
-- Client slack channels use the naming protocol “people-[clientname]” or “people-[clientname]-[personname]”
+- Client slack channels use the naming protocol “ext-[clientname]” or “ext-[clientname]-[personname]”
 - Client slack channels are always private channels
 - We only invite the necessary client-facing team members to the channel
 - We always brief the client on how we use Slack for client service when we set them up
