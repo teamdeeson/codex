@@ -3,24 +3,40 @@
 ### Who is covered by this policy?
 1. For maternity / adoption leave and pay: any employee who has become pregnant or who has been matched with a child for adoption.
 2. For shared parental leave: the partner of any such employee whether or not they work for this organisation (subject to certain qualifying and earnings criteria); or an employee whose partner has become pregnant or been matched with a child for adoption.
-3. For paternity leave and pay: any employee of the organisation whose partner has become pregnant or been matched with a child for adoption.
-For unpaid parental leave: any employee with at least one years service who has a child under 18 years old.
+3. For paternity leave and pay: any employee of the organisation whose partner has become pregnant or been matched with a child for adoption. For unpaid parental leave: any employee with at least one years service who has a child under 18 years old.
 
 ### What am I entitled to?
 If you are an employee who is pregnant or adopting:
 
 - You will be entitled to take up to 52 weeks maternity / adoption leave if you want to, irrespective of your length of service or earnings with the organisation.
-- If 15 weeks before the expected birth or adoption you have been employed by us continuously for at least 26 weeks, and your average weekly earnings are at least equal to the lower earnings limit for National Insurance contributions (see rates here: [https://www.gov.uk/government/publications/rates-and-allowances-national-insurance-contributions/rates-and-allowances-national-insurance-contributions](https://www.gov.uk/government/publications/rates-and-allowances-national-insurance-contributions/rates-and-allowances-national-insurance-contributions)) Statutory maternity / adoption pay is payable for 39 weeks; for the first six weeks it is paid at 90% of your average weekly earnings. The following 33 weeks will be paid at the statutory rate set by the Government each tax year or 90 per cent of your average weekly earnings - whichever is the lower. 
+- If 15 weeks before the expected birth or adoption you have been employed by us continuously for at least 26 weeks but less than 104 weeks, and your average weekly earnings are at least equal to the lower earnings limit for National Insurance contributions (see rates here: [https://www.gov.uk/government/publications/rates-and-allowances-national-insurance-contributions/rates-and-allowances-national-insurance-contributions](https://www.gov.uk/government/publications/rates-and-allowances-national-insurance-contributions/rates-and-allowances-national-insurance-contributions)), your entitlement (including statutory maternity / adoption pay) will be:
+  - First two weeks: 100 per cent of average weekly earnings
+  - Weeks 3-6: 90 per cent of average weekly earnings
+  - Weeks 7-39: Statutory rate set by the government each tax year or 90 per cent of your average weekly earnings - whichever is the lower.
+  - Weeks 40-52: Unpaid
+- If 15 weeks before the expected birth or adoption you have been employed by us continuously for at least 104 weeks, and your average weekly earnings are at least equal to the lower earnings limit for National Insurance contributions (see rates here: [https://www.gov.uk/government/publications/rates-and-allowances-national-insurance-contributions/rates-and-allowances-national-insurance-contributions](https://www.gov.uk/government/publications/rates-and-allowances-national-insurance-contributions/rates-and-allowances-national-insurance-contributions)) your entitlement (including statutory maternity / adoption pay) will be:
+  - First 13 weeks: 100 per cent of average weekly earnings
+  - Weeks 14-26: Statutory rate set by the government each tax year or 50 per cent of your average weekly earnings - whichever is the higher.  
+  - Weeks 27-52: Unpaid
+
 
 If you are a father to be, adopter or will share the responsibility with a partner for bringing up a child:
 
-- If 15 weeks before the expected birth or adoption you have been employed by us continuously for at least 26 weeks you will be entitled to 2 weeks paternity leave.
-- If your average weekly earnings are at least equal to the lower earnings limit for National Insurance contributions we will pay you statutory paternity pay during your leave.
+- If 15 weeks before the expected birth or adoption you have been employed by us continuously for at least 26 weeks but less than 52 weeks you will be entitled to 2 weeks paternity leave. If your average weekly earnings are at least equal to the lower earnings limit for National Insurance contributions we will pay you statutory paternity pay during your leave.
+- If 15 weeks before the expected birth or adoption you have been employed by us continuously for at least 52 weeks you will be entitled to 2 weeks paternity leave. This leave will be paid at your average weekly earnings.
 
 If you are a parent with a child who is under 18 years old then:
 
 - After one years service you can take up to 18 weeks unpaid parental leave for that child.
 - This allowance applies to each of your children but can only be taken in blocks of up to 4 weeks per year.
+
+Given our commitment to building a long-term, stable, diverse and high performing team, Deeson has chosen to put in place a policy that pays well above the statutory minimum during maternity, adoption and paternity. This means we do require team members to return to work following maternity, adoption and paternity for a set period to remain eligible for the enhanced pay they have received.
+
+If you leave Deeson within 12 months following your return to work from a period of maternity, adoption or paternity leave and have received pay above the statutory minimum, you will have to repay the enhanced pay as set out below:
+
+- If your final day of employment with Deeson is within six months of your return to work date after a period of maternity, adoption or paternity leave, the full enhanced maternity / adoption / paternity benefits above the statutory minimum would be repayable in full.
+- If your final day of employment with Deeson is between six and twelve months of your return to work date after a period of maternity, adoption or paternity leave, 50% of the enhanced maternity / adoption / paternity benefits above the statutory minimum would be repayable in full.
+- If your final day of employment with Deeson is more than twelve months after your return to work date after a period of maternity, adoption or paternity leave, there will be no repayment due.
 
 ### Am I entitled to share maternity / adoption leave and pay with my partner?
 Shared parental leave is designed to give parents / adopters more flexibility in how to share the care of their child in the first year following birth or adoption. 
