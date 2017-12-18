@@ -6,19 +6,21 @@
 3. For paternity leave and pay: any employee of the organisation whose partner has become pregnant or been matched with a child for adoption. For unpaid parental leave: any employee with at least one years service who has a child under 18 years old.
 
 ### What am I entitled to?
-If you are an employee who is pregnant or adopting:
 
-- You will be entitled to take up to 52 weeks maternity / adoption leave if you want to, irrespective of your length of service or earnings with the organisation.
-- If 15 weeks before the expected birth or adoption you have been employed by us continuously for at least 26 weeks but less than 104 weeks, and your average weekly earnings are at least equal to the lower earnings limit for National Insurance contributions (see rates here: [https://www.gov.uk/government/publications/rates-and-allowances-national-insurance-contributions/rates-and-allowances-national-insurance-contributions](https://www.gov.uk/government/publications/rates-and-allowances-national-insurance-contributions/rates-and-allowances-national-insurance-contributions)), your entitlement (including statutory maternity / adoption pay) will be:
-  - First two weeks: 100 per cent of average weekly earnings
-  - Weeks 3-6: 90 per cent of average weekly earnings
-  - Weeks 7-39: Statutory rate set by the government each tax year or 90 per cent of your average weekly earnings - whichever is the lower.
-  - Weeks 40-52: Unpaid
-- If 15 weeks before the expected birth or adoption you have been employed by us continuously for at least 104 weeks, and your average weekly earnings are at least equal to the lower earnings limit for National Insurance contributions (see rates here: [https://www.gov.uk/government/publications/rates-and-allowances-national-insurance-contributions/rates-and-allowances-national-insurance-contributions](https://www.gov.uk/government/publications/rates-and-allowances-national-insurance-contributions/rates-and-allowances-national-insurance-contributions)) your entitlement (including statutory maternity / adoption pay) will be:
-  - First 13 weeks: 100 per cent of average weekly earnings
-  - Weeks 14-26: Statutory rate set by the government each tax year or 50 per cent of your average weekly earnings - whichever is the higher.  
-  - Weeks 27-52: Unpaid
+If you are an employee who is pregnant or adopting you will be entitled to take up to 52 weeks maternity / adoption leave if you want to, irrespective of your length of service or earnings with the organisation.
 
+Your pay during this period of leave depends on how long you've worked for the company. 
+
+If 15 weeks before the expected birth or adoption you have been employed by us continuously for at least 26 weeks but less than 104 weeks, and your average weekly earnings are at least equal to the lower earnings limit for National Insurance contributions (see rates here: [https://www.gov.uk/government/publications/rates-and-allowances-national-insurance-contributions/rates-and-allowances-national-insurance-contributions](https://www.gov.uk/government/publications/rates-and-allowances-national-insurance-contributions/rates-and-allowances-national-insurance-contributions)), your entitlement (including statutory maternity / adoption pay) will be:
+  - **First two weeks:** 100 per cent of average weekly earnings
+  - **Weeks 3-6:** 90 per cent of average weekly earnings
+  - **Weeks 7-39:** Statutory rate set by the government each tax year or 90 per cent of your average weekly earnings - whichever is the lower.
+  - **Weeks 40-52:** Unpaid
+
+If 15 weeks before the expected birth or adoption you have been employed by us continuously for at least 104 weeks, and your average weekly earnings are at least equal to the lower earnings limit for National Insurance contributions (see rates here: [https://www.gov.uk/government/publications/rates-and-allowances-national-insurance-contributions/rates-and-allowances-national-insurance-contributions](https://www.gov.uk/government/publications/rates-and-allowances-national-insurance-contributions/rates-and-allowances-national-insurance-contributions)) your entitlement (including statutory maternity / adoption pay) will be:
+  - **First 13 weeks:** 100 per cent of average weekly earnings
+  - **Weeks 14-26:** Statutory rate set by the government each tax year or 50 per cent of your average weekly earnings - whichever is the higher.  
+  - **Weeks 27-52:** Unpaid
 
 If you are a father to be, adopter or will share the responsibility with a partner for bringing up a child:
 
