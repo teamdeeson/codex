@@ -16,6 +16,7 @@ This phase allows us to dive deeper into technical, design, budget and team agil
 There are a variety of tasks in Foundations to make sure we are building the right thing in Evolutionary Development. During this phase we commonly undertake research, technical spikes, prototypes, user testing and agree the design direction. 
 
 Key outcomes include:
+
 * Agreeing a high level Delivery Plan which outlines delivery dates and objectives 
 * At least the first [Timebox](https://www.agilebusiness.org/content/timeboxing-0) of user stories refined and estimated 
 * Definitions of [Ready](https://docs.google.com/document/d/1q2tjhJud2hZkUcBa6JYTbraI7HMCmR8D8K0QagF4ZGw/edit#heading=h.gjdgxs) and [Done](https://docs.google.com/document/d/1lSZv_LRJJrkT_uK7gYxLB2sits7gsD1i-unqDiDBfVM/edit#heading=h.gjdgxs) agreed
@@ -32,15 +33,17 @@ This is part of the Foundations phase with the end goal of having the overall de
 Evolutionary Development is an iterative process. We use Jira as the project management tool with a defined workflow. We’re planning development in Timeboxes (generally 2 weeks long) and make use of agile ceremonies to keep us on track.
 
 **Agile ceremonies**
-* **Daily stand-ups** - standups are held with the client and each member of the team gives an update on what he/she did yesterday, what he/she are going to do today and if there are any blockers
-* **Retrospective** - Held at the end of each timebox to recognise the good, identify issues and take actions to improve future Timeboxes
-* **Sizing** - The development team estimate refined stories either in story points or hours 
-* **Demo meetings** - Is part of the acceptance meeting with the client at the end of every timebox and includes a demo of what has been completed.
-* **Timebox planning** - The Development team, Business Ambassador and Delivery Manager decide on the next timebox goal and what stories will be worked on taking into account team capacity.
+
+* __Daily stand-ups__ - standups are held with the client and each member of the team gives an update on what he/she did yesterday, what he/she are going to do today and if there are any blockers
+* __Retrospective__ - Held at the end of each timebox to recognise the good, identify issues and take actions to improve future Timeboxes
+* __Sizing__ - The development team estimate refined stories either in story points or hours 
+* __Demo meetings__ - Is part of the acceptance meeting with the client at the end of every timebox and includes a demo of what has been completed.
+* __Timebox planning__ - The Development team, Business Ambassador and Delivery Manager decide on the next timebox goal and what stories will be worked on taking into account team capacity.
 
 To prioritise stories we use [MoSCoW prioritisation](https://www.agilebusiness.org/content/moscow-prioritisation) - a technique for helping to understand and manage priorities following Must have, Should have, Could have, Won’t have this time categorisation - which helps us agree on a Timebox commitment and overall delivery plan.
 
-**Additional ceremonies**
+__Additional ceremonies__
+
 * For internal [project oversight](https://docs.google.com/document/d/131K6oPB94dtb9WA-SYAfjVAdRqrK4b4DdMGctHqUivI/edit), the Project Lead and Delivery Manager run weekly project review meetings.
 * [Fortnightly client and Delivery Manager check-ins](https://docs.google.com/spreadsheets/d/11VQQvq7WoLPnD-JJ1wmFRH6xVQRINU74LbW8QtFA31k/edit#gid=0) to celebrate achievements and/or discuss issues and concerns.
 * We send out a monthly satisfaction survey to our clients. The Project Lead will review any feedback and inform the team of any actions to be taken.
@@ -52,18 +55,21 @@ As we grow and processes change, we keep iterating on roles and responsibilities
 
 Specifically, there are two key client side project roles:
 
-**Business Visionary**
+__Business Visionary__
+
 * Budget holder
 * Resolves business issues
 * Makes financial decisions
 * Enables and ensures fast progress throughout project
 
-**Business Ambassador**
+__Business Ambassador__
+
 * Responsible for managing the prioritised requirement list in JIRA
 * Responsible for signing off on a Timebox before it starts including acceptance criteria on a feature level
 * Responsible for attending Timebox planning sessions, demo’s and retrospectives
 * Responsible for undertaking UAT and signing off features completed during the Timebox
 
 ## Useful resources
+
 * [Fun Retro](http://funretro.github.io/distributed/) - A tool that allows distributed teams to have effective retrospectives
 * [Retromat](https://plans-for-retrospectives.com/en/?id=90-128-91-21-34) - A great source of inspiration for running successful retrospectives
