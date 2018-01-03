@@ -32,29 +32,21 @@
 
 3. The Employee Social Media Policy must be adhered to.
 
-4. The Internet is to be used in a manner that is consistent with the Company’s standards of business conduct.
+4. You must not use the Internet or company network for any illegal activity, including unauthorised access to other computer systems, or attempts at such unauthorised access. Attempts to cause failure of a machine are regarded as unauthorised access.
 
-5. You must not use the Internet or company network for any illegal activity, including unauthorised access to other computer systems, or attempts at such unauthorised access. Attempts to cause failure of a machine are regarded as unauthorised access.
+5. If you have been given an email or other access account, you must take reasonable steps to keep your password or other access token secure. There will be a presumption that actions carried out with your account were authorised by you.
 
-6. If you have been given an email or other access account, you must take reasonable steps to keep your password or other access token secure. There will be a presumption that actions carried out with your account were authorised by you.
+6. The use of our network for the sending of unsolicited commercial email is strictly prohibited.
 
-7. The use of our network for the sending of unsolicited commercial email is strictly prohibited.
+7. Company-provided resources, such as internet and network connections, email privileges, laptops and mobile devices are intended to be used for business purposes and reasonable personal usage only. Employees should be aware that usage is monitored for unusual activity.
 
-8. Company-provided resources, such as internet and network connections, email privileges, laptops and mobile devices are intended to be used for business purposes and reasonable personal usage only. Employees should be aware that usage is monitored for unusual activity.
+8. No attempt is made to monitor individual communications; however correspondence via email is not guaranteed to be private. Use of the Internet/Intranet and email may be subject to monitoring for security and/or network management reasons.
 
-9. No attempt is made to monitor individual communications; however correspondence via email is not guaranteed to be private. Use of the Internet/Intranet and email may be subject to monitoring for security and/or network management reasons.
+9. Communications of a sensitive or confidential nature should not be sent unless they are encrypted. It should be made clear to recipients that opinions expressed by individuals are not necessarily those of the Company. The Company reserves the right to determine the suitability of this information.
 
-10. Communications of a sensitive or confidential nature should not be sent unless they are encrypted. It should be made clear to recipients that opinions expressed by individuals are not necessarily those of the Company. The Company reserves the right to determine the suitability of this information.
+11. The company may be required to access your laptop from time to time. We’ll tell you when we do this. Examples of reasons why we may need to do this include maintenance and support, data retrieval for business needs or if required by law enforcement.
 
-11. The company may be required to access your laptop from time to time. We’ll tell you when we do this. Examples of reasons why we may need to do this are:
-
-- Maintenance and support
-
-- Data retrieval for business needs 
-
-- If required by law enforcement
-
-12. We roll out major OS upgrades under a controlled schedule. You should not upgrade your Mac from one major version of MacOS to the next until instructed to do so.
+13. We roll out major OS upgrades under a controlled schedule. You should not upgrade your Mac from one major version of MacOS to the next until instructed to do so.
 
 ## Conditions of Use
 
