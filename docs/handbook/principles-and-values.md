@@ -1,8 +1,6 @@
 # Our purpose
 
-We’re very clear on our core purpose as a company:
-
-> “To be a sustainable and thriving company that successfully balances the needs of our clients, team members and shareholders.”
+We want to be a sustainable and thriving company that successfully balances the needs of our clients, team members and shareholders.
 
 And we need to do what it takes to make that happen. 
 
@@ -37,41 +35,27 @@ Our core values are:
 * Be ambitious
 * Be curious
 * Be generous
-* Be brave
-* Be loyal
 
 Here are some examples of how Deeson team members bring the values to life in what they do:
 
-## Be ambitious
+### Be ambitious
 Always looking for a better way of doing things.
 
 Learning new techniques, tools and ways of doing things.
 
 Embracing big goals and not being afraid to go for them.
 
-## Be curious
+### Be curious
 Developers exploring new tools and techniques in Coder Lounge.
 
 Learning a new coding language to prototype something.
 
 Producing bespoke giant artworks in your spare time.
 
-## Be generous
+### Be generous
 Spending time mentoring inexperienced team members.
 
 Going above and beyond to help a charity or cause.
-
-## Be brave
-Pitching for bigger or higher profile projects than we have done before.
-
-Telling clients things they don’t want to hear but need to know.
-
-Having the courage to change your career path.
-
-## Be loyal
-Team members always being willing to help others solve problems.
-
-Consistently delivering for our clients, even when they are hard to please.
 
 ## Putting principles and values into action
 

@@ -1,14 +1,14 @@
 # A core belief
 
-Self-organisation is a fundamental concept in agile project management. 
+Self-organisation is a fundamental concept in agile project management and the way we work at Deeson.
 
 The Agile Manifesto includes the principle “The best architectures, requirements, and designs emerge from self-organising teams”.
 
 We believe that our team members are best placed to decide how they work to deliver the projects we do for our clients.
 
-We have worked hard to set up our agency around this belief.
+We have worked hard to set up our agency around this belief and are always looking for new ways to push this principle further.
 
-# How does a self-organising project team work?
+## How does a self-organising project team work?
 
 Our project teams are self-organising. A project team contains specialists in all the core disciplines we need to be able to deliver projects.
 

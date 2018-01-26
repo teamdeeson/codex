@@ -8,28 +8,44 @@ pages:
 - Home: index.md
 - Basics:
     - Principles and values: handbook/principles-and-values.md
-    - Self-organisation: handbook/self-organisation.md
-    - Accountabilities and teams: handbook/accountabilities-and-teams.md
-    - Roles at Deeson: handbook/roles-at-deeson.md
     - Teams: handbook/teams.md
-    - Company-wide tools, processes and policies: handbook/tools-processes-policies.md
+    - Self-organisation: handbook/self-organisation.md
+    - Personal accountability: handbook/accountabilities-and-teams.md
+    - Job roles: handbook/roles-at-deeson.md
+    - Tools, processes and policies: handbook/tools-processes-policies.md 
+- Project delivery:
     - Our delivery process: handbook/our-delivery-process.md
-- Guides:
+    - Project roles: handbook/project-roles.md
+- Recruitment:
     - Joining Deeson: working-at-deeson/joining-deeson.md
+- Personal development:
+    - Personal goals and development: working-at-deeson/personal-goals-and-development.md
+- Team member benefits:
+    - Pay: working-at-deeson/pay-scales.md
+    - Fair pay guarantee: working-at-deeson/fair-pay.md
+    - Holidays and time off: working-at-deeson/taking-leave.md
+    - Wellness fund: working-at-deeson/wellness.md
+    - Equipment budget: working-at-deeson/equipment.md
+    - Recruitment bonus: working-at-deeson/recruitment-bonus.md
+    - Company pension: working-at-deeson/pension.md
+    - Unlimited training budget: working-at-deeson/training.md
+    - Peer recognition scheme: working-at-deeson/peer-recognition.md
+    - Tax-free cycles and e-cycles: working-at-deeson/cycles.md
+    - Charity work and volunteering: working-at-deeson/charity-volunteering.md
+    - Paid sabbaticals: working-at-deeson/sabbaticals.md
+    - Maternity, paternity and shared parental leave: working-at-deeson/maternity-paternity-and-shared-leave-guide.md
+- Working at Deeson:
     - Where and when we work: working-at-deeson/where-and-when-we-work.md
     - Self-scheduling: working-at-deeson/self-scheduling.md
-    - Personal goals and development: working-at-deeson/personal-goals-and-development.md
     - Tools, purchasing and equipment: working-at-deeson/tools-purchasing-and-equipment.md
     - Subscriptions: working-at-deeson/subscriptions.md
     - Time recording: working-at-deeson/time-recording.md
-    - Pay, benefits, expenses and recruitment bonus: working-at-deeson/pay-benefits-and-expenses.md
-    - Pay review: working-at-deeson/pay-review.md
-    - Time off: working-at-deeson/taking-leave.md
-    - Sabbaticals: working-at-deeson/sabbaticals.md
     - Attending conferences: company-policies/conference-policy.md
-    - Deeson offices: working-at-deeson/deeson-offices.md
-    - Useful links: working-at-deeson/useful-links.md
-    - Maternity, paternity and shared parental leave guide: working-at-deeson/maternity-paternity-and-shared-leave-guide.md
+    - Pay review: working-at-deeson/pay-review.md
+    - London office: working-at-deeson/deeson-office-london.md
+    - Canterbury office: working-at-deeson/deeson-office-london.md
+    - TOG co-working spaces: working-at-deeson/coworking.md
+    - Useful links: working-at-deeson/useful-links.md    
 - Company policies:
     - Equality policy: company-policies/equality-policy.md
     - Social media policy: company-policies/social-media-policy.md

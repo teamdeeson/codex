@@ -8,35 +8,6 @@ If you change your bank details, please let Hannah S know at least three weeks b
 
 ## Benefits
 
-### Wellness Fund
-
-All permanent employees are entitled to an annual personal £250 [Wellness Fund](https://www.deeson.co.uk/blog/healthy-mind-healthy-body-new-deeson-wellness-fund), which they can spend on improving their health and wellbeing.
-
-We have two simple guidelines for spending it:
-
--   it should be used on something which you're not already doing
--   it should be used on activities you spend time doing, rather than the equipment you'll be doing it with
-
-Here are some ideas for inspiration:
-
--   Gym, golf club or swimming/walking/running/yoga club membership
--   Personal training
--   Wellness coach assessment/program
--   Smoking cessation
--   Weight loss group
--   Massage, chiropractor or physiotherapy
--   Counselling or therapy (e.g. CBT)
--   Mental wellness courses (e.g. stress management, meditation or spiritual)
--   Retreats
--   Learning new skills (e.g. healthy cooking classes, creative writing, photography, pottery, knitting, learning to play an instrument)
-
-How to spend your Wellness Fund:
-
--   Consult the inspiration list above and choose how you'd like to spend your budget. If you're unsure if it's an eligible activity, please check with your manager.
--   Pay using your company credit card and upload the receipt to Receipt Bank, or pay from your personal account and claim as a normal expense.
--   We are keeping a record of how the team makes use of the Wellness Fund, so please let Mel R know what you plan to do and when.
--   It would be great to share what you did and what benefits you felt, so please share a short write up with the team on Slack afterwards.
-
 ### Training and equipment
 
 Team members also receive an unlimited training budget, and up to £500 to spend each year on anything that helps to do their job at Deeson better -- this can include hardware, software or accessories.
@@ -189,26 +160,3 @@ The exception to this is where a Director or chapter lead decides it is appropri
 
 Any other expenses entertaining staff members would be classed as a personal expense and could not be reclaimed.
 
-## Recruitment bonus
-
-We’re always looking for more great people to join our team. You can see more about our recruitment [here](https://www.deeson.co.uk/careers).
-
-And we know that our existing team members often know people who would be a great fit for what we do. 
-
-That’s why we have our recruitment bonus. 
-
-We pay a bonus of £2,000 to say thank you to current team members who do something beyond the scope of their everyday job that leads to a new team member accepting a permanent position with us. 
-
-A referral is defined as:
-
->When you do something beyond the scope of your everyday job that leads to the candidate applying for a relevant role and subsequently being successful in their application, e.g. contacting a member of your existing network or meeting someone at a conference and inviting them to apply.
-
-All you need to do to claim the bonus is let the recruitment lead know who you’re introducing. The candidate will go through our normal recruitment process and if they’re successful, we’ll pay the £2,000 when they start with the company. 
-
-Remember the bonus is paid along with your normal salary and is subject to tax and National Insurance deductions.
-
-For referrals where more than one team member claims the bonus, you’ll need to agree how to split the bonus among yourselves. 
-
-The £2,000 bonus is effective for candidates first introduced after Monday 13 June 2016. For candidates first introduced before this date the bonus payable is £750.
-
-Remember the bonus isn’t payable when a candidate contacts us directly as a result of any of our existing recruitment marketing - it’s about helping us meet people we wouldn’t have otherwise met. 

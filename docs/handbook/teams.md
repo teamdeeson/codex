@@ -10,7 +10,7 @@ We keep the number of projects that a team member is involved with to a minimum.
 
 ## Chapter team
 
-The chapter is the professional group within the agency - for example development, creative or user experience. 
+The chapter is the professional group within the agency - for example development, creative or delivery. 
 
 The chapter is where professional learning, challenge and R&D happens. It’s also where professional line management takes place, including performance coaching and feedback. 
 

@@ -2,7 +2,7 @@
 
 ### What should I do once I know I am pregnant or have been matched with a child for adoption?  
   
-  Congratulations on your big event! There are a few things you now need to do so we can ensure you get all you are entitled to and that the process goes smoothly for you and the organisation. Here is what you need to do:  
+Congratulations on your big event! There are a few things you now need to do so we can ensure you get all you are entitled to and that the process goes smoothly for you and the organisation. Here is what you need to do:  
 
 1. **Let us know..**
 Please let us know as soon as possible. You should have a chat with your manager about your situation especially if you are pregnant as there are health and safety issues which we must consider. Your manager will arrange a risk assessment to ensure your work doesn’t put you or your baby at any risk. 
@@ -19,7 +19,7 @@ You will also be entitled to take reasonable paid time off work to attend antena
 6. If you miscarry after 24 weeks pregnancy you will retain your full maternity leave and pay entitlement.
 
 
-### Your maternity or adoption leave..
+### Your maternity or adoption leave.
 
 - Regardless of the number of hours you work or your length of service, you are entitled to 26 weeks “ordinary” maternity / adoption leave.  During this period all your contractual entitlements are maintained with the exception of your pay, any benefits in kind will continue and contractual annual leave entitlement will continue to accrue. You are entitled to return to the same job that you left if you return after the ordinary leave period. 
 
@@ -43,7 +43,7 @@ You will also be entitled to take reasonable paid time off work to attend antena
 
 - If you decide not to return to work after maternity / adoption leave, you must give us notice of your resignation as soon as possible and in accordance with the terms of your contract of employment. If your notice period would expire after maternity / adoption leave has ended, we may require you to return to work for the remainder of the notice period.
 
-- If you are fully entitled to receive statutory maternity / adoption pay, then you will receive you full 39 week entitlement even if you resign.
+- If you are fully entitled to receive statutory maternity / adoption pay, then you will receive your full 39 week entitlement even if you resign.
 
 ### How can I share parental leave with my partner?
 

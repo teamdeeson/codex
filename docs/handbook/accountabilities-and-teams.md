@@ -19,3 +19,5 @@ There are three things that need to be in place to have long-term accountability
 It’s important that every role has clear accountabilities and the handbook is designed to help with this. 
 
 But ultimately it's every team member's responsibility to know, understand and be confident doing what it takes to fulfil their own accountabilities.
+
+There will always be people around who are happy to help. But it's every team member's responsibility to ask for that help when they feel they need it.
