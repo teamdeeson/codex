@@ -2,7 +2,7 @@
 
 ## Introduction
 
-‘Sickness Absence’ is defined as an incapacity to carry out the duties and responsibilities which a member of staff is contractually obliged to do because of his or her own illness or injury. This policy does not apply to the need to take time off work because of the illness or injury of others, for example, dependants or agreed compassionate leave.
+‘Sickness Absence’ is defined as an incapacity to carry out the duties and responsibilities which a member of staff is contractually obliged to do because of his or her own illness or injury. This policy does not apply to the need to take time off work because of the illness or injury of others, for example, dependents or agreed compassionate leave.
 
 ## Aim
 
