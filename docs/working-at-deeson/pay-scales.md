@@ -35,4 +35,4 @@ The basics of our scheme are explained below:
 
 The pay scales for roles at Deeson are below:
 
-- Pay scales - 1/2/2018 to 39/9/2018
+- [Pay scales - 1/2/2018 to 30/9/2018](https://drive.google.com/file/d/19dbyHOX29yLpNrK3KsywY9CKYXsCSKYm/view?usp=sharing)
