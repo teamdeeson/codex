@@ -20,7 +20,7 @@ The aim of this policy is to:
 
 ## Notification of absence
 
-You must notify a director by phone personally or through a relative or friend, as soon as possible on your first day of absence. If a relative or friend makes contact because you are unable to do so, you should personally make contact as soon as you are able.
+You must notify your line manager by phone personally or through a relative or friend, as soon as possible on your first day of absence. If a relative or friend makes contact because you are unable to do so, you should personally make contact as soon as you are able.
 
 It is your responsibility to also keep your chapter lead informed of the reason for absence, possible length of absence and likely return date. 
 
@@ -34,11 +34,11 @@ If you are absent due to illness for four to seven days, you should submit a sel
 
 If you are absent for eight or more calendar days then you must obtain a medical certificate from your GP (Fit Note), covering the eighth day of absence onwards and send it to a director. Subsequent medical certificates are required as soon as the current certificate has expired.
 
-You must keep a director informed of your progress, with an indication if possible, of a return to work date. You are responsible for ensuring that medical certificates are submitted on time and cover all periods of absence.
+You must keep your line manager informed of your progress, with an indication if possible, of a return to work date. You are responsible for ensuring that medical certificates are submitted on time and cover all periods of absence.
 
 ## Taking holidays whilst off sick
 
-In some cases it may be appropriate for you to take a holiday/period of leave away from home during a period of sickness absence, eg for convalescence purposes. Before taking such leave you must inform a director of the proposed dates and reason for the request. The period of leave will still be counted as sickness for the purpose of recording sickness absence and calculating pay for this period.
+In some cases it may be appropriate for you to take a holiday/period of leave away from home during a period of sickness absence, eg for convalescence purposes. Before taking such leave you must inform your line manager of the proposed dates and reason for the request. The period of leave will still be counted as sickness for the purpose of recording sickness absence and calculating pay for this period.
 
 ## Conduct during sickness absence  
 
@@ -50,7 +50,7 @@ In all cases of sickness absence it is expected that you’ll act in a way that 
 
 ## Return to work interviews
 
-A director will meet with you following every period of sickness absence of more than one working day to discuss the reason for absence and any relevant issues arising from it. The return to work interview gives the opportunity to:
+Your line manager will meet with you following every period of sickness absence of more than one working day to discuss the reason for absence and any relevant issues arising from it. The return to work interview gives the opportunity to:
 
 * check that you are fit to return to work and agree any actions, such as short-term changes to working arrangements;
 
