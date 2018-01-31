@@ -1,6 +1,6 @@
 # Deeson handbook
 
-Deeson is a Digital Agency in Europe https://www.deeson.co.uk
+Deeson is a digital agency that specialises in designing and building transformative websites. You can read more about us at  https://www.deeson.co.uk.
 
 This is our internal processes and best practices, open to the world and accessible at http://handbook.deeson.co.uk
 
