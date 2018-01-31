@@ -18,17 +18,17 @@ This part of the our handbook sets out the expectations that we have for the suc
 
 Everyone is different so everyone’s induction will happen differently but our expectations about the outcomes are the same. 
 
-#A successful first year
+#A successful first six months
 
 Over time we expect all our team members to be self-led and be able to work effectively as part of our self-organising project teams. 
 
 But we know that the way we do things might be different to what you’ve experienced elsewhere. 
 
-That’s why we have a specific approach to ensuring you have a successful first year at Deeson. 
+That’s why we have a specific approach to ensuring you have a successful first six months at Deeson. 
 
 It’s a focussed period when you’ll be doing a lot of learning - about Deeson, our team members, how we do things and about your role.
 
-Successfully completing your first year is a milestone in your work with Deeson and is a great achievement. 
+Successfully completing your first six months is a milestone in your work with Deeson and is a great achievement. 
 
 Your project leads, chapter lead and fellow team members are there to support you to complete your first year.
 
@@ -40,6 +40,8 @@ The things you'll need to understand then are:
 
 1. The arrangements for your first day (where to be, when, how to get there)
 2. Travel and accommodation arrangements in place for your first few on-site days (applies to distributed team members only)
+
+You'll receive a digital new starter pack from us which explains more about what you need to do before you start and what you need to bring in on your first day.
 
 Melanie Richards can help with bookings and advice for travel and accommodation.
 
