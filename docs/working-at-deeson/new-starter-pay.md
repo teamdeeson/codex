@@ -18,4 +18,4 @@ This will not be negotiable as we want to base a starting salary offer on an ind
 
 The company has a standard six month probation period for all new joiners.
 
-Once this period has been completed, team members will be eligible for changes to pay and roles as set out in the handbook (see [pay review]() and [promotions]())
+Once this period has been completed, team members will be eligible for changes to pay and roles as set out in the handbook (see [pay review](https://handbook.deeson.co.uk/working-at-deeson/pay-review/) and [promotions](https://handbook.deeson.co.uk/working-at-deeson/promotion/))

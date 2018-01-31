@@ -51,27 +51,6 @@ The basics of our scheme are explained below:
 
 ##Getting a pay review
 
-In this section we explain how the impact score links to changes in pay for a team member within their current role (ie not being promoted to a different role).
-
-Our secondary research has shown that “single point in time” performance assessments that are directly linked to changes in pay can be counter-productive. We want to ensure that sustained improvements in impact score are recognised in pay progression.
-
-Pay progression up the pay scale will based on the **average of the last three impact scores**. The first impact score will be recorded in April in 2018 and then every quarter thereafter.
-
-To qualify for a pay review your average impact score over the past three assessments should relate to a salary on the scale that is greater than your current salary. You must also not have any impact outcomes marked as X (not enough evidence) during the past three assessments.
-
-During this review we would consider the average impact score, overall billability achieved during the past nine months and any other relevant factors (for example if significant time has been spent on R&D activities during the period which has meant billability targets have not been met). 
-
-This review is undertaken by a director and chapter lead. It happens within 21 days of the request being made. Subsequent changes to pay in line with the pay scale and average impact score are back-dated to the date of the review request being made.
-
-If a team member is paid more than their average impact score then they will not be entitled to ask for a pay review. 
-
-If a team member is subject to a company disciplinary process, has received any form of disciplinary warning/sanction in the past six months or is subject to formal performance management procedures, they will not be entitled to ask for a pay review.
-
-This will be a rolling process, so there will be four opportunities per year where a team member could ask for a pay review based on their average impact outcome score over the past nine months. 
-
-There will be a limit of one pay increase per financial year per team member. This limit does not apply to team members in the junior roles within the team. 
-
-We believe this approach is better than a traditional annual pay review process where performance related pay progression can only happen at the traditional annual appraisal that we don’t have at Deeson.
-
+For more information about how pay reviews are undertaken please visit the [pay review page](https://handbook.deeson.co.uk/working-at-deeson/pay-review/).
 
 

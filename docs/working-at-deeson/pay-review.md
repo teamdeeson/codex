@@ -8,11 +8,13 @@ We take this approach to ensure that sustained improvements in impact score are 
 
 Pay progression up the pay scale for a team member's current role will based on the average of the last three impact scores. 
 
-To qualify for the pay review your average impact score over the past three assessments should relate to a salary on the scale that is greater than your current salary. You must also not have any impact outcomes marked as X (not enough evidence) during the past three assessments.
+To qualify for the pay review your average impact score over the past three assessments should relate to a salary on the scale that is greater than your current salary. 
+
+You must also not have any impact outcomes marked as X (not enough evidence) during the past three assessments.
 
 ##The review
 
-During this review we would consider the average impact score, overall billability achieved during the past nine months and any other relevant factors (for example if significant time has been spent on R&D activities during the period which has meant billability targets have not been met). 
+During this review we consider the average impact score, overall billability achieved during the past nine months and any other relevant factors (for example if significant time has been spent on R&D activities during the period which has meant billability targets have not been met). 
 
 This review is undertaken by a director and chapter lead. It happens within 21 days of the request being made. 
 
