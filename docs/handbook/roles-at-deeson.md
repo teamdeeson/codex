@@ -2,11 +2,11 @@
 
 This page describes the job roles that we have at Deeson. 
 
-First up, some definitions before reading this page:
+First up, a definition before reading this page:
 
-*Job roles* set expectations for the project, client and company and ensure someone is covering all the different aspects of what we do.
+*Job roles* set expectations for the project, client and company and ensure someone is covering all the different aspects of what we do. Job roles are defined in terms of "impacts" in a job scorecard - things that a team member does that make a difference to the business. 
 
-In some cases, individuals will perform more than one of the roles on a project. As an individual's responsibilities increase, they are likely to take on more roles. This allows individuals to grow and develop professionally by moving into new areas and working on new skills.
+In some cases, individuals will perform more than one of the roles on a project. As an individual's career progresses, they are likely to take on more roles. This allows individuals to grow and develop professionally by moving into new areas and working on new skills.
 
 ## Shared accountabilities
 
@@ -28,31 +28,33 @@ The roles and job scorecards are shown below:
 
 ### Technical chapter
 
-- Development Manager
-- Lead Developer
-- Senior Developer
-- Developer
-- Project Manager
-- Technical Project Director
+- [Development Manager](https://drive.google.com/open?id=1FA5Qp3lf_yRTh0SD-Z5jnklpkbHoh_JC)
+- [Lead Developer](https://drive.google.com/open?id=1_9JVuWaxQeaKpr7nDNPd40eeipaNBKDJ)
+- [Senior Developer](https://drive.google.com/open?id=1WWLcRiY3D_uUGjiGfh58rBIUePvdMDMc)
+- [Developer](https://drive.google.com/open?id=1bFCxFqd3xtiSxYMSVutx0wtuYSkHaS16)
+- [Project Manager](https://drive.google.com/open?id=1agycbU5R3KUm4UjlQFOtGX87c3GJXhLR)
+- [Technical Project Director](https://drive.google.com/open?id=1wiTbJdWTcqSEt0YCDhPN-3TYwG0j-b2w)
 
 ### Design chapter
 
-- UX Designer
-- Digital Designer
-- Creative Lead
-- Head of Design and UX
+- [UX Designer](https://drive.google.com/open?id=1lm7OI7AUgeVCW8CcBplvH-xbYWihqSqG)
+- [Designer](https://drive.google.com/open?id=1viTULCItM48kAm5rp7tIlv-vyHqBEAGX)
+- [Creative Lead](https://drive.google.com/open?id=1seLz20KXghRhoRLh_MqhPrYWMz7YVz9J)
+- [Head of Design and UX](https://drive.google.com/open?id=1aPtdoVLrkHiEwRXh9zkkqrGvikbGKlMD)
 
 ### Delivery chapter
 
-- Delivery Manager
-- Head of Delivery
+- [Delivery Manager](https://drive.google.com/open?id=10nOdP6LsQO6OPvdKphRqGDXinpV_mwK_)
+- [Head of Delivery](https://drive.google.com/open?id=1ysdlHHThKqgjBjL0uU4PC7etddVVtlLq)
 
 ### Other roles
 
-- Marketing Manager
-- Finance and Operations Manager
-- Creative Director (R&D)
-- Sales Co-ordinator
+- [Marketing Manager](https://drive.google.com/open?id=1tSyMeV6mex3bV_WolwWQXf8XkgO_Obkv)
+- [Finance and Operations Manager](https://drive.google.com/open?id=1lCo8iK4EMpsBJ8r4dr5wekmvC5Rq2V4x)
+- [Finance Director](https://drive.google.com/open?id=1OJm4nF_ypRpf8lR9AahOf2aT5hV1HZN6)
+- [Creative Director (R&D)](https://drive.google.com/open?id=1bB4e7VNjTZa55z1GF0HBDUFqk3PXFXrn)
+- [Managing Director](https://drive.google.com/open?id=1jTnjJD2st6YHRqLWj8PRMd9uzkKUlJHT)
+- [Sales Co-ordinator]()
 
 ## Additional roles
 
@@ -79,9 +81,9 @@ At Deeson, everyone is a member of a chapter that supports their specialism. The
 
 ### Chapter initiative lead
 
-The Chapter’s at Deeson works to better themselves and learn from past projects successes and challenges.
+The chapters at Deeson works to better themselves and learn from past project successes and challenges.
 
-Each quarter the Chapters define their top priorities in the form of initiatives.  Individuals willing to take on the job of improving in those areas are made Chapter Initiative Lead for the quarter and commit to completing the objectives of the initiative by the end of the quarter.
+Each quarter the chapters define their top priorities in the form of initiatives.  Individuals willing to take on the job of improving in those areas are made Chapter Initiative Lead for the quarter and commit to completing the objectives of the initiative by the end of the quarter.
 
 This role allows for an individual to challenge themselves and take on additional responsibilities. An initiative might make us completely revolutionise our approach to some aspect of development, for example, using a new front-end framework, revolutionising our approach to local development etc.
 
@@ -120,5 +122,5 @@ In the technical chapter, this role is taken on by individuals with a significan
 * Writing regular thought pieces on the blog
 * Planning regular milestones and budgeting for their delivery
 * Presenting plans to the Chapter to encourage participation and buy in
-* Encouraging the Chapter to get involved and mentoring those taking their first steps with contribution
+* Encouraging the chapter to get involved and mentoring those taking their first steps with contribution
 * Becoming a recognised leader in the community
