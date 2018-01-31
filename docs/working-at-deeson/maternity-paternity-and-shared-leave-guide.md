@@ -1,6 +1,8 @@
-## Maternity, paternity and shared parental leave guide  
+# Maternity, paternity and shared parental leave guide 
 
-### What should I do once I know I am pregnant or have been matched with a child for adoption?  
+Our official Maternity, Paternity & Shared Leave Policy is [here](https://handbook.deeson.co.uk/company-policies/maternity-and-paternity-policy/). This guide is provided to help give more details about how the complexities of maternity, paternity and shared leave work in practice. 
+
+## What should I do once I know I am pregnant or have been matched with a child for adoption?  
   
 Congratulations on your big event! There are a few things you now need to do so we can ensure you get all you are entitled to and that the process goes smoothly for you and the organisation. Here is what you need to do:  
 
@@ -19,11 +21,9 @@ You will also be entitled to take reasonable paid time off work to attend antena
 6. If you miscarry after 24 weeks pregnancy you will retain your full maternity leave and pay entitlement.
 
 
-### Your maternity or adoption leave.
+## Your maternity or adoption leave.
 
-- Regardless of the number of hours you work or your length of service, you are entitled to 26 weeks “ordinary” maternity / adoption leave.  During this period all your contractual entitlements are maintained with the exception of your pay, any benefits in kind will continue and contractual annual leave entitlement will continue to accrue. You are entitled to return to the same job that you left if you return after the ordinary leave period. 
-
-- You are also entitled to take up to 26 weeks “additional” maternity / adoption leave immediately following your ordinary leave. During this leave your contractual terms and conditions such as holidays continue to accrue. You also have the right to return to a job on no less favourable terms and conditions than the job you had at the commencement of the leave period. If it is not practicable for you to return to your original job then you will be offered a suitable alternative on terms and conditions no less favourable.  Your continuity of service will be preserved.
+- During the leave period all your contractual entitlements are maintained with the exception of your pay, any benefits in kind will continue and contractual annual leave entitlement will continue to accrue. 
 
 - Except during the first two weeks after childbirth, you can agree to work or to attend training for up to 10 days during either ordinary maternity leave or additional maternity leave, without that work bringing your period of maternity / adoption leave to an end and without a loss of a week’s SMP.  These are known as “keeping-in-touch” days.  
 
@@ -31,7 +31,7 @@ You will also be entitled to take reasonable paid time off work to attend antena
 
 - We will let you know before starting your ordinary maternity / adoption leave whether you have any outstanding holiday entitlement. We might ask you to take all or some of your outstanding holiday before commencing your leave, or agree that you can carry the leave over and take it on your return to work.
 
-### Returning to work
+## Returning to work
 
 - Once we know the start date of your maternity / adoption leave, we will inform you in writing of the date on which you are expected back at work if you take your full 52 week entitlement to maternity / adoption leave. You are expected to return on this date unless you notify us otherwise.
 
@@ -43,9 +43,7 @@ You will also be entitled to take reasonable paid time off work to attend antena
 
 - If you decide not to return to work after maternity / adoption leave, you must give us notice of your resignation as soon as possible and in accordance with the terms of your contract of employment. If your notice period would expire after maternity / adoption leave has ended, we may require you to return to work for the remainder of the notice period.
 
-- If you are fully entitled to receive statutory maternity / adoption pay, then you will receive your full 39 week entitlement even if you resign.
-
-### How can I share parental leave with my partner?
+## How can I share parental leave with my partner?
 
 Firstly you and your partner must meet the eligibility criteria described earlier. If you do:
 
@@ -62,11 +60,11 @@ Firstly you and your partner must meet the eligibility criteria described earlie
 ### Here is how you and your partner should go about opting in to shared parental leave:
 
 1. The mother / main adopter must bring their period of maternity / adoption leave to an end by letting their employer know at least 8 weeks before the date she intends to curtail the leave.
-**NB**  Maternity leave cannot be brought to an end before the end of the two week (four if you work in a factory) compulsory maternity leave period. The balance of maternity leave at that point becomes available for the partner to share as shared parental leave. While this notice of curtailment of maternity / adoption leave can be given before or after the birth / placement, if it is given afterwards, the notice is binding. However, if notice is given before, there is a six-week window after the child's birth / adoption, during which a mother / primary adopter who has previously stated she intends to share her leave can change her mind and decide to remain on leave.
+**NB**  Maternity leave cannot be brought to an end before the end of the two week compulsory maternity leave period. The balance of maternity leave at that point becomes available for the partner to share as shared parental leave. While this notice of curtailment of maternity / adoption leave can be given before or after the birth / placement, if it is given afterwards, the notice is binding. However, if notice is given before, there is a six-week window after the child's birth / adoption, during which a mother / primary adopter who has previously stated she intends to share her leave can change her mind and decide to remain on leave.
 
 2. Both you and your partner should let your respective employers know in writing that you are eligible for and intend to take shared parental leave. You should also give an indication of how much shared parental leave and pay each parent intends to take and when. As you are one of our employees, please complete the [Notice of Entitlement and Intention to Take Shared Parental Leave](https://docs.google.com/a/deeson.co.uk/document/d/1o-pphrv88G3JfLrmUE7vaTdR6piqnNAG7z4Tvxl84r0/edit?usp=sharing) form. 
 
-3. If requested within 14 days of  letting us know about your intention to take shared parental leave, you should provide us with a copy of the child’s birth certificate, or if this is not yet available, confirmation from your midwife or GP of the date of the child’s birth. In the case of adoption you should provide details of the adoption agency, the date you (or your partner) were informed of the adoption match, and the expected date that the child will be placed with you. You must provide the information requested within 14 days.
+3. If requested within 14 days of letting us know about your intention to take shared parental leave, you should provide us with a copy of the child’s birth certificate, or if this is not yet available, confirmation from your midwife or GP of the date of the child’s birth. In the case of adoption you should provide details of the adoption agency, the date you (or your partner) were informed of the adoption match, and the expected date that the child will be placed with you. You must provide the information requested within 14 days.
 
 3. The information about how and when you and your partner are intending to take shared parental leave is non-binding – you are free to change your minds about how leave and pay are to be allocated between you by letting your employers know of the variation in writing. To do this, please complete the [Notice to Take or Vary a Period of Shared Parental Leave](https://docs.google.com/a/deeson.co.uk/document/d/1zr6Ur9zraKRTPRLxjh8qn6VanBIR-TavE1zDQKMpnjQ/edit?usp=sharing). We will need at least 8 weeks notice of each period of leave, and you can submit a total of three requests. That is you can take up to three periods of shared parental leave.
 
@@ -99,7 +97,7 @@ If you wish to alter your return date from shared parental leave, please ensure 
 
 - If you return to work from a period of shared parental leave (including any maternity / adoption leave) which was greater than 26 weeks we will try to allow you to return to the same job you left. If it is not practicable for you to return to your original job then you will be offered a suitable alternative on terms and conditions no less favourable than would have applied had you not been on leave.
 
-### Do I have any further statutory rights to parental leave?
+## Do I have any further statutory rights to parental leave?
 
 - **Yes.** If you have completed one year's service with us, you are entitled to 18 weeks unpaid parental leave for each of your children born or adopted. The leave can start once the child is born or placed for adoption, or as soon as you have completed a year's service, whichever is later. You can take it at any time up to the child’s 18th birthday. 
 
@@ -107,7 +105,7 @@ If you wish to alter your return date from shared parental leave, please ensure 
 
 - Please ensure you give us at least 21 days notice in writing if you intend to take unpaid parental leave. As unpaid parental leave is transferable between employers, please also confirm whether you have already taken some of your entitlement with another employer and how much.
 
-### What are my Paternity Leave and Pay Entitlements?
+## What are my Paternity Leave and Pay Entitlements?
 
 In order to be eligible for paternity leave you must satisfy the following criteria:
 
@@ -120,12 +118,7 @@ In order to be eligible for paternity leave you must satisfy the following crite
 
 Paternity leave is granted in addition to your normal holiday entitlement.  Paternity leave must be taken in a single block of one or two weeks within eight weeks of the birth or adoption of the child.  If the child is born early, it must be taken from the time of birth but within eight weeks of the expected date of childbirth.  
   
-  Ordinary paternity leave can start either from the date the child is born or placed for adoption or from a chosen number of days or weeks after that date. In addition, employees who are the father or partner have the right to take unpaid time off work to accompany expectant mothers on up to 2 antenatal appointments.  
+Ordinary paternity leave can start either from the date the child is born or placed for adoption or from a chosen number of days or weeks after that date. In addition, employees who are the father or partner have the right to take unpaid time off work to accompany expectant mothers on up to 2 antenatal appointments.  
   
   
-To qualify for paternity pay you must have average earning at or above the lower earnings limit for the payment of National Insurance contributions.
-
-- Statutory Paternity Pay is paid for a maximum of 2 weeks.  It is paid at a flat rate laid down by statute or 90% of average weekly earning if this is less.
-
-- Statutory Paternity Pay will begin at the same time as your paternity leave commences and will be paid on the same date that your salary would have been paid and will be subject to deductions for tax, National Insurance and any pension contributions in the usual way.
-
+To qualify for paternity pay you must have met the statutory criteria set out by government and the requirements of the Deeson policy.
