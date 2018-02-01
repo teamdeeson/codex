@@ -24,14 +24,14 @@ You are.
 
 Our project teams are self-organising teams that include all the people with the skills needed to deliver the kind of projects our clients want. 
 
-We don’t have a management hierarchy because we believe that the best way for a team to work is for team members themselves to work out the best way to hit the team’s goals.
+We don’t have many layers of management hierarchy because we believe that the best way for a team to work is for team members themselves to work out the best way to hit the team’s goals.
 
 ## Who’s my line manager?
 
-Ultimately your line manager is a director (Simon, Tim or Andrew). Your chapter lead approves holiday requests as they are accountable for the delivery capacity of their chapter.
+You will have a specific line manager who will be a director, chapter lead or development manager. Your manager approves holiday requests as they are accountable for the delivery capacity of their chapter.
 
-You are accountable for delivering your professional development through our self-development process (also known as OKRs). 
+You are accountable for delivering your professional development through our self-development process (also known as [PDP](https://handbook.deeson.co.uk/working-at-deeson/pdp/)). 
 
-Your chapter lead and the directors are responsible for supporting your professional development. 
+Your line manager, chapter lead and the directors are responsible for supporting your professional development. 
 
 Directors look after all other line management functions (such as pay, performance improvement, career progression, sickness, welfare and long-term absence, disciplinary, grievance, and appraisals).
