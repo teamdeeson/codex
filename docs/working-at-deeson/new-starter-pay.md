@@ -10,7 +10,7 @@ You can see more about the job roles at Deeson [here](https://handbook.deeson.co
 
 During recruitment we will undertake a theoretical assessment against the outcomes in a job scorecard for a new recruit’s previous experience of performing similar work elsewhere. 
 
-This will give an initial impact rating which will determine the starting salary offer we make. We expect the minimum rating for a new hire to be 1.5.
+This will give an initial impact rating which will determine the starting salary offer we make. 
 
 Starting pay will be capped at the equivalent of pay for an impact outcome assessment of 2. 
 
