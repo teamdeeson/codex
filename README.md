@@ -34,10 +34,3 @@ from the root of the checked out project directory:
 
 You should now see the project running on your local machine here
 http://127.0.0.1:8000/
-
-# Versions
-
-For the latest version use the image `teamdeeson/mkdocs:latest` - otherwise the following are available
-
-* `teamdeeson/mkdocs:0.17.1`
-* `teamdeeson/mkdocs:0.15.3`
