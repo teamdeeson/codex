@@ -1,4 +1,4 @@
-#Holidays, sick leave and compassionate leave 
+#Holidays, emergencies, sick leave and compassionate leave 
 
 ##Holidays
 
@@ -25,6 +25,16 @@ Remember all leave needs to be taken by the end of the calendar year. Leave can 
 You can check your balance using Bamboo. Remember to use the date calculator and set the date to 31st December to view your balance for the whole year, including days booked but not yet taken.
 
 You can book time off in half days or whole days. On a half day you either start or finish at 12.30pm.
+
+##Time off for emergencies
+
+As an employer we want to be as flexible as possible for the unexpected and unpredictable things that happen in life. For emergency or short notice situations such as a family member falling ill during the day, Chapter Leads / Directors can exercise flexibility in allowing you to take up to half a day (3.5 hours) off and then making up the hours at another time that suits the needs of the project. 
+
+Anything more than half a day (3.5 hours), and for all other situations - e.g. longer term illness, medical appointments for children etc. it reasonable that this is taken as leave.
+
+As always, the accountability is the team member’s in ensuring the impact of this (e.g. on project delivery and other team members) is managed and quality standards are maintained.
+
+Every situation is different so we’ll always happy to discuss your specific situations as and when they occur.
 
 ##Sickness and medical appointments
 
