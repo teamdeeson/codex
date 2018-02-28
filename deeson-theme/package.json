@@ -1,9 +1,18 @@
 {
   "name": "deeson-frontend",
+  "homepage": "https://github.com/teamdeeson/codex",
   "projectName": "Deeson frontend",
   "description": "Deeson front end static asset build scripts (gulp, scss, twitter-bootstrap)",
+  "keywords": [
+    "mkdocs",
+    "documentation",
+    "theme"
+  ],
   "version": "2.0.0",
-  "author": "Deeson",
+  "author": {
+    "name": "Deeson",
+    "email": "hello@deeson.co.uk"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
