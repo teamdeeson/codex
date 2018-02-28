@@ -1,8 +1,5 @@
 # Makefile for makedocs documentation
 
-install:
-	@pip install mkdocs
-
 clean:
 	rm -rf site
 
@@ -17,9 +14,14 @@ build: build-frontend
 	@echo
 	@echo "Build finished. The HTML pages are in the site directory"
 
+docker-start: serve
 run: serve
 serve:
-	(sleep 1 && open http://127.0.0.1:8000) & mkdocs serve
+	docker run -it --rm -p 80:8000 -v ${PWD}:/docs --name deeson-codex teamdeeson/mkdocs:0.15.3
+
+docker-build:
+	docker run -it --rm -v ${PWD}:/app -w /app --name deeson-codex-node node:7 make build-frontend
+	docker run -it --rm -v ${PWD}:/docs --name deeson-codex-build teamdeeson/mkdocs:0.15.3 build --clean
 
 deploy:
 	@echo 'Just commit into master and push, the code is built and deployed to http://handbook.deeson.co.uk'
