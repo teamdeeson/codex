@@ -22,15 +22,13 @@ just interested in how it all works.
 This uses [MkDocs](https://mkdocs.readthedocs.io) to generate the
 documentation. Check that link for the full guide.
 
-If you have the python package manager, pip installed, then you just
-need to install mkdocs once like this
+To run a local copy of the site you can do it through Docker. If it's installed then just run:
 
-    pip install mkdocs
-
-Once you have mkdocs installed, you just need to run the following
-from the root of the checked out project directory:
-
-    mkdocs serve
+`make docker-start`
 
 You should now see the project running on your local machine here
 http://127.0.0.1:8000/
+
+If you are making changes to the theme, you can rebuild the theme locally using docker:
+
+`make docker-build`
