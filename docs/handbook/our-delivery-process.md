@@ -34,7 +34,7 @@ Evolutionary Development is an iterative process. We use Jira as the project man
 
 **Agile ceremonies**
 
-* __Daily stand-ups__ – standups are held with the client and each member of the team gives an update on what he/she did yesterday, what he/she are going to do today and if there are any blockers.
+* __Daily stand-ups__ – stand-ups are held with the client and each member of the team gives an update on what he/she did yesterday, what he/she are going to do today and if there are any blockers.
 * __Retrospective__ – held at the end of each Timebox to recognise the good, identify issues and take actions to improve future Timeboxes.
 * __Sizing__ – the development team estimate refined stories either in story points or hours. 
 * __Demo meeting__ – part of the acceptance meeting with the client at the end of every Timebox and includes a demo of what has been completed.
