@@ -28,7 +28,7 @@ We don’t have many layers of management hierarchy because we believe that the 
 
 ## Who’s my line manager?
 
-You will have a specific line manager who will be a Director, Chapter Lead or Development Manager. Your manager approves holiday requests, as they are accountable for the delivery capacity of their chapter.
+You will have a specific line manager who will be a Director, Chapter Lead or Development Manager. Your manager approves holiday requests, as they are accountable for the delivery capacity of their Chapter.
 
 You are accountable for delivering your professional development through our self-development process (also known as [PDP](https://handbook.deeson.co.uk/working-at-deeson/pdp/)). 
 
