@@ -1,8 +1,8 @@
-# Project roles at Deeson
+# Project roles at Deeson.
 
 This page describes the roles individuals take on projects at Deeson.
 
-## Shared accountabilities
+## Shared accountabilities.
 
 Here are the specific accountabilities we all share, regardless of our job title and role on any specific project:
 
@@ -13,7 +13,7 @@ Here are the specific accountabilities we all share, regardless of our job title
 * Supporting your colleagues
 * Following company processes
 
-## Project roles at Deeson
+## Project roles at Deeson.
 
 Our project management process is based on the agile methodology called [DSDM Agile project framework](https://www.agilebusiness.org/content/introduction-0) developed by the Agile Business Consortium. Project roles are distinct sets of responsibilities on a project. An individual on a project may hold one or more of these roles.
 
@@ -23,7 +23,7 @@ The diagram below shows the DSDM 'alien baby' diagram that shows the various pro
 
 The roles in the head are project governance roles and those in the body comprise the team that builds and delivers the solution for the project. The roles in the shaded area are supporting the project and are not part of the project team. White roles are Deeson roles and orange roles are client or other external roles.
 
-### Project Lead
+### Project Lead.
 
 The project lead acts as oversight on the entire project and is ultimately responsible for its successful delivery.
 
@@ -38,7 +38,7 @@ The Project Lead provides continuity of leadership and direction throughout the 
 * Supporting and coaching the project team, in particular the Delivery Lead and Delivery Manager.
 * Escalating performance issues to the Chapter Leads.
 
-### Delivery Manager
+### Delivery Manager.
 
 The Delivery Manager is responsible for the successful delivery of the solution.
 
@@ -53,7 +53,7 @@ The Delivery Manager is responsible for the successful delivery of the solution.
 * Providing help and guidance to the Delivery Team when difficult situations arise.
 * Ensuring that projects are delivered using Deeson’s agile framework.
 
-### Delivery Lead
+### Delivery Lead.
 
 The Delivery Lead runs the delivery of the solution for a project and the quality of its implementation. This role is generally taken on by a developer with the Lead Developer job title or one working towards that position.
 
@@ -67,7 +67,7 @@ The Delivery Lead runs the delivery of the solution for a project and the qualit
 * Facilitating the daily stand-ups, ensuring they are timely, focused and brief.
 * Facilitating reviews and retrospectives with the team.
 
-### Technical Co-ordinator
+### Technical Co-ordinator.
 
 As the project’s technical authority, the Technical Co-ordinator ensures that the solution/technical roles work in a consistent way, and that the project is technically coherent and meets the desired technical standards.
 
@@ -90,7 +90,7 @@ This role is generally taken on by a developer with the Lead Developer job title
 * Acting as the final arbiter of technical differences between Solution Development Team members.
 * Overseeing the implementation of both the frontend and backend solutions.
 
-### UX Analyst
+### UX Analyst.
 
 * Providing leadership of the user experience design process during Foundations and Evolutionary Development.
 * Identifying organisation goals, user needs and delivering evidence-led solutions to deadline within the Foundations phase.
@@ -101,7 +101,7 @@ This role is generally taken on by a developer with the Lead Developer job title
 * Taking ownership of ongoing analysis and optimisation of client projects.
 * Advocating for the users, client and solution during Evolutionary Development.
 
-### Designer
+### Designer.
 
 * Leading the design process during Foundations and Evolutionary Development.
 * Participating in workshops and research activities.
@@ -111,7 +111,7 @@ This role is generally taken on by a developer with the Lead Developer job title
 * Collaborating with front-end developers to ensure interaction design works within technological constraints.
 * Presenting your designs to clients, face-to-face or using a video link.
 
-### Developer
+### Developer.
 
 The developer owns the delivery of part of the technical solution to a project and the quality of its implementation.
 
@@ -130,7 +130,7 @@ The developer owns the delivery of part of the technical solution to a project a
     * changes to the interpretation of requirements which result in re-work within the solution;
     * information likely to impact on the ongoing evolution of the solution.
 
-### Agile Coach
+### Agile Coach.
 
 An Agile Coach supports projects with detailed knowledge and experience of agile and DSDM. They act as external consultants to review project teams' behaviours and practices, and help to identify weaknesses in a process or approach on a project.
 
