@@ -1,4 +1,4 @@
-# Our purpose
+# Our purpose.
 
 We want to be a sustainable and thriving company that successfully balances the needs of our clients, team members and shareholders.
 
@@ -20,7 +20,7 @@ The more we can concentrate on facilitating the achievement of our goals togethe
 
 In summary, at Deeson it’s about ownership of results, not being told what to do and blindly following processes. 
 
-## Core values
+## Core values.
 
 Back in 2015, [we spoke at length](https://www.deeson.co.uk/blog/evolving-our-culture-deeson-facilitation-over-management "Blog post on evolving culture") with our team members and clients about what made Deeson different to other agencies and places to work.
 
@@ -38,26 +38,26 @@ Our core values are:
 
 Here are some examples of how Deeson team members bring these values to life in what they do:
 
-### Be ambitious
+### Be ambitious.
 Always looking for a better way of doing things.
 
 Learning new techniques, tools and ways of doing things.
 
 Embracing big goals and not being afraid to go for them.
 
-### Be curious
+### Be curious.
 Developers exploring new tools and techniques in Coder Lounge.
 
 Learning a new coding language to prototype something.
 
 Producing bespoke giant artworks in your spare time.
 
-### Be generous
+### Be generous.
 Spending time mentoring inexperienced team members.
 
 Going above and beyond to help a charity or cause.
 
-## Putting principles and values into action
+## Putting principles and values into action.
 
 We know that sometimes it can be tricky to know how to put principles and values to use during our day-to-day work. 
 
