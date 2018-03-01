@@ -19,7 +19,7 @@ Our project management process is based on the agile methodology called [DSDM Ag
 
 The diagram below shows the DSDM 'alien baby' diagram that shows the various project roles.
 
-![Deeson project roles diagram](../images/deeson-project-structure.jpg)
+![Deeson project roles diagram](../images/deeson-project-structure2.jpg)
 
 The roles in the head are project governance roles and those in the body comprise the team that builds and delivers the solution for the project. The roles in the shaded area are supporting the project and are not part of the project team. White roles are Deeson roles and orange roles are client or other external roles.
 
