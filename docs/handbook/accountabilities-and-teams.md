@@ -1,4 +1,4 @@
-# Clear accountabilities
+# Clear accountabilities.
 
 Accountability is a key principle in how we get things done at Deeson.
 
