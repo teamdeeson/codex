@@ -1,4 +1,4 @@
-# Our delivery framework
+# Our delivery framework.
 Our project process is defined by the specific needs of each client and each project. However, with the help of the Agile Business Consortium, we have adapted the [DSDM framework](https://www.agilebusiness.org/what-is-dsdm) to help us to keep consistency across projects.
 
 Our projects consist of a number of key phases:
@@ -6,13 +6,13 @@ Pre-project → Feasibility → Foundations → Design Direction → Evolutionar
 
 All projects consist of a Feasibility and Foundations phase before we commence development.
 
-## Pre-project
+## Pre-project.
 As the name suggests, this is before the project begins and before any contracts are signed. It’s about getting to know the client, their needs and what the project will entail. 
 
-## Feasibility
+## Feasibility.
 This phase allows us to dive deeper into technical, design, budget and team agility questions and issues, to be able to assess and adjust scope and requirements for the project. It’ll include a Blueprint Workshop run by the Creative Director, Technical Director, the Project Lead and Delivery Manager.
 
-## Foundations
+## Foundations.
 There are a variety of tasks in Foundations, to make sure we are building the right thing in Evolutionary Development. During this phase we commonly undertake research, technical spikes, prototypes, user testing and agree the Design Direction. 
 
 **Key outcomes include:**
@@ -26,10 +26,10 @@ The activities are flexible but the outcomes are fixed, and are assessed against
 
 The length of this phase varies depending on the project but on average is between 6-8 weeks. 
 
-## Design Direction
+## Design Direction.
 This is part of the Foundations phase, with the end goal being the overall Design Direction signed off by the client before Evolutionary Development starts. It’s an iterative process where key pages are presented to the client for feedback. We don’t commence development until the client has signed off on the Design Direction.
 
-## Evolutionary Development
+## Evolutionary Development.
 Evolutionary Development is an iterative process. We use Jira as the project management tool with a defined workflow. We’re planning development in Timeboxes (generally two weeks long) and make use of agile ceremonies to keep us on track.
 
 **Agile ceremonies**
@@ -50,7 +50,7 @@ __Additional ceremonies__
  
 __There is a more extensive description of the process regarding our adapted agile delivery methodology [here](https://docs.google.com/document/d/17aO5PCU5aKBxPIXeRnuvK76trgVbn10qjIuuZzB9zhA/edit).__
 
-## Roles and responsibilities
+## Roles and responsibilities.
 As we grow and processes change, we keep iterating on roles and responsibilities. [Roles at Deeson](https://handbook.deeson.co.uk/handbook/roles-at-deeson/) provides a general overview; [project roles and responsibilities](https://docs.google.com/spreadsheets/d/1xBxZNZarYJdkY7UCDrbMMMTaF3io5mVMqNA85fJnoDw/edit#gid=1040411215) provides a more detailed list of accountabilities during a project's lifecycle.
 
 Specifically, there are two key client side project roles:
@@ -69,7 +69,7 @@ __Business Ambassador__
 * Responsible for attending Timebox planning sessions, demos and retrospectives.
 * Responsible for undertaking UAT and signing off features completed during the Timebox.
 
-## Useful resources
+## Useful resources.
 
 * [Fun Retro](http://funretro.github.io/distributed/) – a tool that allows distributed teams to have effective retrospectives.
 * [Retromat](https://plans-for-retrospectives.com/en/?id=90-128-91-21-34) – a great source of inspiration for running successful retrospectives.
