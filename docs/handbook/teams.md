@@ -1,3 +1,5 @@
+# Teams at Deeson.
+
 There are two kinds of team at Deeson and everyone in a client-facing delivery role is part of each of these teams:
 
 ## Project team.
@@ -32,6 +34,6 @@ You will have a specific line manager who will be a Director, Chapter Lead or De
 
 You are accountable for delivering your professional development through our self-development process (also known as [PDP](https://handbook.deeson.co.uk/working-at-deeson/pdp/)). 
 
-Your line manager, Chapter Lead and the Directors are responsible for supporting your professional development. 
+Your line manager, Chapter Lead and the Directors, are responsible for supporting your professional development. 
 
 Directors look after all other line management functions (such as pay, performance improvement, career progression, sickness, welfare and long-term absence, disciplinary, grievance, and appraisals).
