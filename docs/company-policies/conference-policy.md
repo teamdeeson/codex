@@ -13,7 +13,7 @@ The things you'll need to talk about include:
 5. Are you speaking at the conference or chairing a session?
 6. Will you be writing a blog post about your experiences within a week of attending?
 7. Will you be providing a presentation to your team about the content of the conference within two weeks of attending?
-8. Can your pod and projects spare you for the days of the conference (this is easier to answer the more notice you give; conferences are usually scheduled six months ahead of time).
+8. Can your Chapter and projects spare you for the days of the conference? This is easier to answer the more notice you give; conferences are usually scheduled six months ahead of time.
 9. Do you think that Deeson should be sponsoring the conference?
 10. Have you missed out on conference attendance previously because too many people wanted to go?
 11. What is the cost of the conference to Deeson? Please provide a breakdown, including the cost of transport (approx), cost of accomodation (approx), cost of subsistence (approx), cost of the tickets and the lost revenue, and the cost if working days will be missed to attend (this should be worked out at the current hourly rate).
