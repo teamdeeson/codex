@@ -12,7 +12,7 @@ Under UK law (UK Bribery Act 2010), bribery and corruption are punishable for in
 
 ## Policy statement.
 
-This policy applies to all permanent and fixed-term staff employed by Deeson, and any contractors, consultants or other persons acting under or on behalf of Deeson. 
+This policy applies to all permanent and fixed-term staff employed by Deeson and any contractors, consultants or other persons acting under or on behalf of Deeson. 
 
 Deeson will not: 
 
