@@ -1,6 +1,6 @@
 # Project roles at Deeson.
 
-This page describes the roles individuals take on projects at Deeson.
+This page describes the roles individuals undertake on projects at Deeson.
 
 ## Shared accountabilities.
 
