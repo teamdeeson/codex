@@ -44,4 +44,8 @@ If you're sick the company provides ten paid sick days per calendar year. You sh
 
 ##Compassionate leave
 
-In some situations compassionate leave may be granted at the discretion of a Director -  for example in the event of the death of an immediate family member or grandparent.
+We offer compassionate leave where your personal circumstances mean it isn't possible for you to work. 
+
+Due to the sensitive nature of these situations we don’t have a blanket policy about where compassionate leave is agreed. 
+
+If you feel you need to take compassionate leave please discuss with your line manager in confidence.
