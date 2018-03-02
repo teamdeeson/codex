@@ -1,6 +1,6 @@
 # Anti-bribery policy.
 
-Deeson is committed to implementing and enforcing effective systems to counter bribery. Therefore, it is Deeson’s policy to conduct all aspects of its business in an honest and ethical manner at all times. This policy applies to all individuals working for Deeson, including anyone providing services to Deeson such as consultants, or contractors.
+Deeson is committed to implementing and enforcing effective systems to counter bribery. Therefore, it is Deeson’s policy to conduct all aspects of its business in an honest and ethical manner at all times. This policy applies to all individuals working for Deeson, including anyone providing services to Deeson, such as consultants or contractors.
 
 ## Policy aim.
 
