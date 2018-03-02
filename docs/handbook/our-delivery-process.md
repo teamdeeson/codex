@@ -32,7 +32,7 @@ This is part of the Foundations phase, with the end goal being the overall Desig
 ## Evolutionary Development.
 Evolutionary Development is an iterative process. We use Jira as the project management tool with a defined workflow. We’re planning development in Timeboxes (generally two weeks long) and make use of agile ceremonies to keep us on track.
 
-**Agile ceremonies**
+**Agile ceremonies.**
 
 * __Daily stand-ups__ – stand-ups are held with the client and each member of the team gives an update on what he/she did yesterday, what he/she are going to do today and if there are any blockers.
 * __Retrospective__ – held at the end of each Timebox to recognise the good, identify issues and take actions to improve future Timeboxes.
@@ -42,7 +42,7 @@ Evolutionary Development is an iterative process. We use Jira as the project man
 
 To prioritise stories we use [MoSCoW prioritisation](https://www.agilebusiness.org/content/moscow-prioritisation) – a technique for helping to understand and manage priorities following Must have, Should have, Could have, Won’t have this time categorisation – which helps us agree on a Timebox commitment and overall delivery plan.
 
-__Additional ceremonies__
+__Additional ceremonies.__
 
 * For internal [project oversight](https://docs.google.com/document/d/131K6oPB94dtb9WA-SYAfjVAdRqrK4b4DdMGctHqUivI/edit), the Project Lead and Delivery Manager run weekly project review meetings.
 * [Fortnightly client and Delivery Manager check-ins](https://docs.google.com/spreadsheets/d/11VQQvq7WoLPnD-JJ1wmFRH6xVQRINU74LbW8QtFA31k/edit#gid=0) to celebrate achievements and/or discuss issues and concerns.
@@ -55,14 +55,14 @@ As we grow and processes change, we keep iterating on roles and responsibilities
 
 Specifically, there are two key client side project roles:
 
-__Business Visionary__
+__Business Visionary.__
 
 * Budget holder
 * Resolves business issues
 * Makes financial decisions
 * Enables and ensures fast progress throughout the project
 
-__Business Ambassador__
+__Business Ambassador.__
 
 * Responsible for managing the prioritised requirement list in JIRA.
 * Responsible for signing off on a Timebox before it starts, including acceptance criteria on a feature level.
