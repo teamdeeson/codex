@@ -1,4 +1,4 @@
-# Health and safety policy
+# Health and safety policy.
 
 The company believes in the active prevention of accidents and ill health, and it is its policy to ensure, so far as is reasonably practicable, the health, safety and welfare of its employees. The company will, to this end, endeavour to keep up-to-date with current professional expertise on health and safety matters, and to observe all relevant statutes, regulations and codes of practice. 
 
@@ -18,7 +18,7 @@ The premises are inspected regularly. All passages and gangways should be kept c
 Never lift beyond your capability and avoid strains. 
 
 
-## Additional points 
+## Additional points. 
 
 - Do not attempt to repair anything that is electrically powered yourself. 
 
@@ -41,7 +41,7 @@ Never lift beyond your capability and avoid strains.
 - Make sure you are sitting comfortably and your back is properly supported.
 
 
-## Review
+## Review.
 
 The effectiveness of this policy and associated arrangements will be reviewed annually under the direct supervision of the Managing Director.
 
