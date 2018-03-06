@@ -2,7 +2,7 @@
 
 ## Introduction.
 
-‘Sickness absence’ is defined as an incapacity to carry out the duties and responsibilities which a member of staff is contractually obliged to do because of his or her own illness or injury. This policy does not apply to the need to take time off work because of the illness or injury of others, for example, dependents or agreed compassionate leave.
+‘Sickness absence’ is defined as an incapacity to carry out the duties and responsibilities which a member of staff is contractually obliged to do, because of his or her own illness or injury. This policy does not apply to the need to take time off work because of the illness or injury of others, for example, dependents or to agreed compassionate leave.
 
 ## Aim.
 
@@ -32,7 +32,7 @@ Failure to notify the company may result in the absence being recorded as unauth
 
 If you are absent due to illness for four to seven days, you should submit a self-certification form to a director on your return to work.
 
-If you are absent for eight or more calendar days, then you must obtain a medical certificate from your GP (fit note), covering the eighth day of absence onwards and send it to a director. Subsequent medical certificates are required as soon as the current certificate has expired.
+If you are absent for eight or more calendar days, then you must obtain a medical certificate from your GP (fit note), covering the eighth day of absence onwards and send it to a Director. Subsequent medical certificates are required as soon as the current certificate has expired.
 
 You must keep your line manager informed of your progress, with an indication if possible, of a return to work date. You are responsible for ensuring that medical certificates are submitted on time and cover all periods of absence.
 
@@ -100,17 +100,17 @@ We will inform you in writing, of the date of any meetings under this section an
 
 * A reminder of your right to be represented by a colleague not acting in a legal capacity.
 
-* Details of your sickness record over previous 12 months.
+* Details of your sickness record over the previous 12 months.
 
 Your length of service, performance, the likelihood of a change in attendance, the availability of suitable alternative work, and the effect of past and future absences on the company, will all be taken into account in deciding appropriate action. Excessive absence may result in termination of employment on grounds of capability. 
 
-At the conclusion of the meeting, a letter should be written advising you of the discussions and what further action would be taken.
+At the conclusion of the meeting, a letter will be written advising you of the discussions and what further action may be taken.
 
 ## Long-term absence.
 
 Long-term sickness absence can be defined as any period of sickness lasting over four weeks. Each employee who is absent due to long-term sickness will have individual needs and so consideration should be given to the following:
 
-* Agreeing the intervals of when contact with each other will be made.
+* Agreeing the intervals when contact with each other will be made.
 
 * Consideration of obtaining a medical report/referral to occupational health (with employee’s consent) for advice on return to work or potential adaptations/modifications to enable a return to work.
 
@@ -152,7 +152,7 @@ At the interview the following will be covered:
 
 * A further meeting arranged as necessary.
 
-The outcome of the meeting including any formal warnings, will be confirmed in writing.
+The outcome of the meeting, including any formal warnings, will be confirmed in writing.
 
 ## Obtaining medical reports.
 
@@ -170,7 +170,7 @@ Where you refuse to co-operate in providing medical evidence, or to undergo an i
 
 In some cases, after a period of ill health, it may be deemed appropriate for you to return to work on a phased basis, increasing your hours gradually to ensure that you are rehabilitated back into the workplace.  
 
-The period of the phased return will be based on advice from either a GP from a fit note or from an occupational health assessment. It should be for an agreed timeframe and reviewed towards the end of that timeframe, to ensure that you are able to undertake the majority of the role/contractual hours. If this is not the case, then a decision will need to be made about future ability to do the role. Further guidance may be required from an occupational health service.
+The period of the phased return will be based on advice from either a GP from a fit note or from an occupational health assessment. It should be for an agreed timeframe and reviewed towards the end of that timeframe, to ensure that you are able to undertake the majority of the role/contractual hours. If this is not the case, then a decision will need to be made about your future ability to fulfil the role. Further guidance may be required from an occupational health service.
 
 ## Reasonable adjustment.
 
@@ -182,12 +182,12 @@ In some cases, reasonable adjustments may include an acceptance following advice
 
 ## Termination of employment on grounds of incapacity.
 
-Where you are incapable either permanently or for the foreseeable future of undertaking the duties of your post, and where redeployment has been investigated but is not possible, Deeson will have the option to terminate employment. Full regard will be taken of all the medical evidence concerning your incapacity, before such a decision is made.   
+Where you are incapable either permanently or for the foreseeable future, of undertaking the duties of your post and where redeployment has been investigated but is not possible, Deeson will have the option to terminate employment. Full regard will be taken of all the medical evidence concerning your incapacity, before such a decision is made.   
 
 In these cases, we will arrange a meeting with you. You will be notified of your right to be accompanied at this meeting.
 
-Notice of termination of employment on grounds of incapacity can only be given by a director. The date of termination of employment will be confirmed in writing, together with confirmation of any notice pay period or payment in lieu of notice.
+Notice of termination of employment on grounds of incapacity can only be given by a Director. The date of termination of employment will be confirmed in writing, together with confirmation of any notice pay period or payment in lieu of notice.
 
 ## Appointments for dentist, doctor and other medical reasons
 
-Appointments made to see a dentist, doctor or other medical professional should be taken in your own time where possible. This can normally be accommodated within our flexible working scheme. Where possible, appointments should be made at the start or end of the normal working day. Urgent appointments may be made if this is not possible during work time.
+Appointments made to see a dentist, doctor or other medical professional, should be taken in your own time where possible. This can normally be accommodated within our flexible working scheme. Where possible, appointments should be made at the start or end of the normal working day. Urgent appointments may be made if this is not possible during work time.
