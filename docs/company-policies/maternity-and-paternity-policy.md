@@ -1,4 +1,4 @@
-# Maternity, paternity and shared leave policy
+# Maternity, paternity and shared leave policy.
 
 ## Who is covered by this policy?
 1. For maternity/adoption leave and pay: Any employee who has become pregnant or who has been matched with a child for adoption.
@@ -12,11 +12,11 @@ If you are an employee who is pregnant or adopting, you will be entitled to take
 
 Your pay during this period of leave depends on how long you've worked for the company. 
 
-### Employed by the company for less than 26 weeks
+### Employed by the company for less than 26 weeks.
 
 There is no entitlement to maternity or adoption leave for team members who have worked for Deeson for less than 26 weeks.
 
-### Employed by the company for between 26 and 104 weeks
+### Employed by the company for between 26 and 104 weeks.
 
 If 15 weeks before the expected birth or adoption, you have been employed by us continuously for at least 26 weeks but less than 104 weeks, and your average weekly earnings are at least equal to the lower earnings limit for National Insurance contributions ([details](https://www.gov.uk/government/publications/rates-and-allowances-national-insurance-contributions/rates-and-allowances-national-insurance-contributions)), your entitlement (including statutory maternity / adoption pay) will be:
 
@@ -25,7 +25,7 @@ If 15 weeks before the expected birth or adoption, you have been employed by us 
 - **Weeks 7 to 39:** Statutory rate set by the government each tax year or 90% of your average weekly earnings – whichever is the lower.
 - **Weeks 40 to 52:** Unpaid.
 
-### Employed by the company for more than 104 weeks
+### Employed by the company for more than 104 weeks.
 
 If 15 weeks before the expected birth or adoption, you have been employed by us continuously for at least 104 weeks, and your average weekly earnings are at least equal to the lower earnings limit for National Insurance contributions ([details](https://www.gov.uk/government/publications/rates-and-allowances-national-insurance-contributions/rates-and-allowances-national-insurance-contributions)) your entitlement (including statutory maternity/adoption pay) will be:
 
@@ -36,22 +36,22 @@ If 15 weeks before the expected birth or adoption, you have been employed by us 
 
 ## What paternity leave am I entitled to?
 
-### Employed by the company for less than 52 weeks
+### Employed by the company for less than 52 weeks.
 
 There is no entitlement to paternity leave for team members who have worked for Deeson for less than 52 weeks.
 
-### Employed by the company for more than 52 weeks
+### Employed by the company for more than 52 weeks.
 
 If 15 weeks before the expected birth or adoption, you have been employed by us continuously for at least 52 weeks, you will be entitled to two weeks' paternity leave. This leave will be paid at your average weekly earnings.
 
-## Parental leave
+## Parental leave.
 
 If you are a parent with a child who is under 18 years old then:
 
 - After one year's service you can take up to 18 weeks' unpaid parental leave for that child.
 - This allowance applies to each of your children but can only be taken in blocks of up to four weeks per year.
 
-## Leaving Deeson after maternity, adoption or paternity leave
+## Leaving Deeson after maternity, adoption or paternity leave.
 
 Given our commitment to building a long-term, stable, diverse and high performing team, Deeson has chosen to put in place, a policy that pays well above the statutory minimum during maternity, adoption and paternity. 
 
@@ -59,15 +59,15 @@ This means we do require team members to return to work following maternity, ado
 
 If you leave Deeson following your return to work from a period of maternity, adoption or paternity leave, and have received pay above the statutory minimum, you will have to repay the enhanced pay as set out below:
 
-### Leaving within six months of your return to work
+### Leaving within six months of your return to work.
 
 If your final day of employment with Deeson is within six months of your return to work date after a period of maternity, adoption or paternity leave, the full enhanced maternity/adoption/paternity benefits above the statutory minimum would be repayable in full.
 
-### Leaving within six and 12 months of your return to work
+### Leaving within six and 12 months of your return to work.
 
 If your final day of employment with Deeson is between six and 12 months of your return to work date after a period of maternity, adoption or paternity leave, 50% of the enhanced maternity/adoption/paternity benefits above the statutory minimum would be repayable in full.
 
-### Leaving more than 12 months after your reutrn to work
+### Leaving more than 12 months after your reutrn to work.
 
 If your final day of employment with Deeson is more than 12 months after your return to work date following a period of maternity, adoption or paternity leave, there will be no repayment due.
 
