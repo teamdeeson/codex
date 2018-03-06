@@ -32,9 +32,9 @@ If we’re not sure how to deal with a particular situation, thinking about the 
 
 Our core values are:
 
-* Be ambitious
-* Be curious
-* Be generous
+* Be ambitious.
+* Be curious.
+* Be generous.
 
 Here are some examples of how Deeson team members bring these values to life in what they do:
 
