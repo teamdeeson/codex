@@ -17,14 +17,14 @@ There are a variety of tasks in Foundations, to make sure we are building the ri
 
 **Key outcomes include:**
 
-* Agreeing a high level Delivery Plan which outlines delivery dates and objectives 
-* At least the first [Timebox](https://www.agilebusiness.org/content/timeboxing-0) of user stories refined and estimated 
-* Definitions of [Ready](https://docs.google.com/document/d/1q2tjhJud2hZkUcBa6JYTbraI7HMCmR8D8K0QagF4ZGw/edit#heading=h.gjdgxs) and [Done](https://docs.google.com/document/d/1lSZv_LRJJrkT_uK7gYxLB2sits7gsD1i-unqDiDBfVM/edit#heading=h.gjdgxs) agreed
-* Roles and responsibilities agreed 
+* Agreeing a high level Delivery Plan which outlines delivery dates and objectives. 
+* At least the first [Timebox](https://www.agilebusiness.org/content/timeboxing-0) of user stories are refined and estimated. 
+* Definitions of [Ready](https://docs.google.com/document/d/1q2tjhJud2hZkUcBa6JYTbraI7HMCmR8D8K0QagF4ZGw/edit#heading=h.gjdgxs) and [Done](https://docs.google.com/document/d/1lSZv_LRJJrkT_uK7gYxLB2sits7gsD1i-unqDiDBfVM/edit#heading=h.gjdgxs) are agreed.
+* Roles and responsibilities are agreed. 
 
 The activities are flexible but the outcomes are fixed, and are assessed against this [checklist](https://docs.google.com/document/d/1GLer6Uml5cwS4Z9EpJtC1oLqAA7dJB8-g5Ni3CuY-Gc/edit) of deliverables.
 
-The length of this phase varies depending on the project but on average is between 6-8 weeks. 
+The length of this phase varies depending on the project but on average is between six and eight weeks. 
 
 ## Design Direction.
 This is part of the Foundations phase, with the end goal being the overall Design Direction signed off by the client before Evolutionary Development starts. It’s an iterative process where key pages are presented to the client for feedback. We don’t commence development until the client has signed off on the Design Direction.
