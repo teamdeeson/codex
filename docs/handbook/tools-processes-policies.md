@@ -8,15 +8,15 @@ Here’s a quick rundown of our company-wide standard:
 
 ## Company-wide tools.
 
-- Discipline-specific software, tools and standards, e.g. development environments
-- [Project oversight boards](https://trello.com/b/2MEgvOJx/pob-template-project-oversight-board) act as a living risk register. Every project board also includes key delivery metrics which help us assess the health of the project (internal only)
-- Our time recording tool – [Harvest](https://deesonemedia.harvestapp.com/overview)
-- Our forecasting and resource planning tool – [Forecast](https://forecastapp.com/89482/schedule/team)
-- Our project management tool – [JIRA](https://www.atlassian.com/software/jira)
-- Our instant communication tool – [Slack](https://deeson-agency.slack.com)
-- Google Drive – Project documentation repository and shared files with clients
-- Our Invoicing tool – [Xero](https://go.xero.com/Dashboard/)
-- Our HR tool for annual leave/sickness requests – [Bamboo HR](https://deeson.bamboohr.co.uk)
+- Discipline-specific software, tools and standards, e.g. development environments.
+- [Project oversight boards](https://trello.com/b/2MEgvOJx/pob-template-project-oversight-board) act as a living risk register. Every project board also includes key delivery metrics which help us assess the health of the project (internal only).
+- Our time recording tool – [Harvest](https://deesonemedia.harvestapp.com/overview).
+- Our forecasting and resource planning tool – [Forecast](https://forecastapp.com/89482/schedule/team).
+- Our project management tool – [JIRA](https://www.atlassian.com/software/jira).
+- Our instant communication tool – [Slack](https://deeson-agency.slack.com).
+- Google Drive – Project documentation repository and shared files with clients.
+- Our Invoicing tool – [Xero](https://go.xero.com/Dashboard/).
+- Our HR tool for annual leave/sickness requests – [Bamboo HR](https://deeson.bamboohr.co.uk).
 
 If a company-wide standard tool or process isn’t working as well as you think it could or you think there’s a better way, get a group together and recommend a better way for consideration.
 
