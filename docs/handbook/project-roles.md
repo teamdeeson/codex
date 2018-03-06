@@ -6,12 +6,12 @@ This page describes the roles individuals undertake on projects at Deeson.
 
 Here are the specific accountabilities we all share, regardless of our job title and role on any specific project:
 
-* Client satisfaction
-* Delivering projects (on time, on budget, on spec)
-* Your own capacity
-* Your own capability
-* Supporting your colleagues
-* Following company processes
+* Client satisfaction.
+* Delivering projects (on time, on budget, on spec).
+* Your own capacity.
+* Your own capability.
+* Supporting your colleagues.
+* Following company processes.
 
 ## Project roles at Deeson.
 
