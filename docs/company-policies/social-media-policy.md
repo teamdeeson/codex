@@ -3,7 +3,7 @@
 
 ## Overview.
 
-**If you wouldn’t say it in front of your boss or a client then don’t say it on public social media.**
+**If you wouldn’t say it in front of your boss or a client, then don’t say it on public social media.**
 
 The lines between work and personal life can become blurred.
 
@@ -11,7 +11,7 @@ Each individual is personally responsible for the content he or she publishes on
 
 You may have identified yourself as a Deeson employee or identified the company as your employer, either directly or as part of a user profile.
 
-If so, ensure your profile and related content is consistent with how you wish to present yourself to the the company’s clients, business contacts and your colleagues. Please be aware that any inappropriate postings may reflect badly on the company and/or the people you work with.
+If so, ensure your profile and related content is consistent with how you wish to present yourself to the company’s clients, business contacts and your colleagues. Please be aware that any inappropriate postings may reflect badly on the company and/or the people you work with.
 
 ## Share information carefully.
 
