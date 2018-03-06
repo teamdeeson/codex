@@ -27,8 +27,10 @@ To run a local copy of the site you can do it through Docker. If it's installed 
 `make docker-start`
 
 You should now see the project running on your local machine here
-http://127.0.0.1:8000/
+http://127.0.0.1/
 
 If you are making changes to the theme, you can rebuild the theme locally using docker:
 
 `make docker-build`
+
+Note that if you have ever built the theme locally outside of docker then you'll need to delete the `deeson-theme/node_modules` directory to redownload the node modules correctly for the Dockerised environment. This first build will be slow as everything is downloaded, but subsequent builds will be faster.
