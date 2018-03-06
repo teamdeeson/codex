@@ -12,12 +12,12 @@ In some cases, individuals will perform more than one of the roles on a project.
 
 Here are the specific accountabilities we all share, regardless of our job title and role on any specific project:
 
-* Client satisfaction
-* Delivering projects (on time, on budget, on spec)
-* Your own capacity
-* Your own capability
-* Supporting your colleagues
-* Following company processes
+* Client satisfaction.
+* Delivering projects (on time, on budget, on spec).
+* Your own capacity.
+* Your own capability.
+* Supporting your colleagues.
+* Following company processes.
 
 
 ## Roles and scorecards.
