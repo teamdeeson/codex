@@ -1,4 +1,4 @@
-# Equality policy
+# Equality policy.
 
 Deeson (the company) [recognises](https://www.deeson.co.uk/blog/white-men-digital-our-privilege-blinding) that discrimination and victimisation is unacceptable, and that it is in the interests of the company and its employees to utilise the skills of the total workforce. 
 
@@ -16,7 +16,7 @@ Our staff will not discriminate directly or indirectly, or harass customers or c
 
 This policy and the associated arrangements shall operate in accordance with statutory requirements. In addition, full account will be taken of any guidance or codes of practice issued by the Equality and Human Rights Commission, any Government Departments, and any other statutory bodies.
 
-## Our commitments
+## Our commitments.
 
 * To create an environment in which individual differences and the contributions of all our staff are recognised and valued.
 
@@ -36,7 +36,7 @@ This policy and the associated arrangements shall operate in accordance with sta
 
 * The policy will be monitored and reviewed annually.
 
-## Director responsibilities
+## Director responsibilities.
 
 Responsibility for ensuring the effective implementation and operation of the arrangements will rest with the Managing Director. 
 
@@ -46,7 +46,7 @@ Each manager will ensure that all their staff are aware of the policy and the ar
 
 The Managing Director will be responsible for monitoring the operation of the policy in respect of employees and job applicants, including periodic audits.
 
-## Team member responsibilities
+## Team member responsibilities.
 
 Responsibility for ensuring that there is no unlawful discrimination rests with all staff and the attitudes of staff are crucial to the successful operation of fair employment practices. In particular, all members of staff should:
 
@@ -60,17 +60,17 @@ Responsibility for ensuring that there is no unlawful discrimination rests with 
 
 * Inform their manager if they become aware of any discriminatory practice.
 
-## Third parties
+## Third parties.
 
 Third party harassment occurs where a company employee is harassed, and the harassment is related to a protected characteristic, by third parties such as clients or customers. 
 
 Deeson will not tolerate such actions against its staff, and the employee concerned should inform their manager at once that this has occurred. Deeson will fully investigate and take all reasonable steps to ensure such harassment does not happen again.
 
-## Employment related policies
+## Employment related policies.
 
 All employment policies and arrangements have a bearing on equality of opportunity. The company policies will be reviewed regularly and any discriminatory elements removed.
 
-## Rights of disabled people
+## Rights of disabled people.
 
 The company attaches particular importance to the needs of disabled people.
 
@@ -82,13 +82,13 @@ Under the terms of this policy, managers are required to:
 
 * Give full and proper consideration to disabled people who apply for jobs, having regard to making reasonable adjustments for their particular aptitudes and abilities, to allow them to be able to do the job.
 
-## Equality training
+## Equality training.
 
 Briefing sessions will be held for staff on equality issues as required. These will be repeated as necessary. Equality information is also included in induction programmes.
 
 Training will be provided as necessary for managers on this policy and the associated arrangements. All managers who have an involvement in the recruitment and selection process will receive specialist training as required.
 
-## Monitoring
+## Monitoring.
 
 The company deems it appropriate to state its intention not to discriminate and assumes that this will be translated into practice consistently across the organisation as a whole. 
 
@@ -106,6 +106,6 @@ If monitoring shows that the company, or areas within it, are not representative
 
 This will include a review of recruitment and selection procedures, company policies and practices, as well as consideration of taking legal positive action.
 
-## Review
+## Review.
 
 The effectiveness of this policy and associated arrangements will be reviewed annually under the direct supervision of the Managing Director.
