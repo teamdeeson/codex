@@ -10,7 +10,7 @@ The aim of this policy is to:
 
 * Provide a standard process and consistent approach for managing sickness absence.
 
-* Treat everyone in a way that is sensitive, fair and balances the needs of the member of staff with that of the organisation.
+* Treat everyone in a way that is sensitive and fair, and balances the needs of the member of staff with that of the organisation.
 
 * Provide support for the absent member of staff so that they can return to work as soon as their condition allows, whilst sustaining a required level of attendance.
 
