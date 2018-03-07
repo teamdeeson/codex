@@ -12,7 +12,7 @@
       top: 5px;
       padding-left: 30px;
       margin-top: 10px;
-      line-height: 16px;
+      line-height: 1.5;
       list-style: none;
       &::before {
         content: '\2022';
@@ -20,7 +20,16 @@
         position: absolute;
         line-height: 15px;
         left: 0;
-        top: 3px;
+        top: 6px;
+      }
+    }
+    a {
+      font-family: $font-family-text-bold;
+      color: $color-black;
+      transition: text-decoration 0.2s cubic-bezier(0.165, 0.84, 0.44, 1);
+      &:hover,
+      &:focus {
+        text-decoration-color: $color-red;
       }
     }
   }

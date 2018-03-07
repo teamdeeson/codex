@@ -11,17 +11,11 @@ $color-black: #000000;
 
 a {
   color: $color-black;
-  font-weight: 400;
-  transition: text-decoration 0.2s cubic-bezier(0.165, 0.84, 0.44, 1);
-  &:hover,
-  &:focus {
-    text-decoration-color: $color-red;
-  }
   &:visited {
     color: $color-black;
   }
 }
 
 blockquote {
-  color: $color-grey-dark;
+  color: #404348;
 }
