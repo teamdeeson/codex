@@ -1,24 +1,25 @@
-.breadcrumbs{
+.breadcrumbs {
   display: inline-block;
-  margin:0;
+  margin: 0;
   padding: 0;
 
-  .breadcrumbs__item{
+  .breadcrumbs__item {
     list-style: none;
     display: inline-block;
-    &:after{
+    &:after {
       font-family: icomoon;
-      content: " \3e ";
+      content: ' \3e ';
     }
 
     &.breadcrumbs__item--active,
-    &.breadcrumbs__item:last-child{
-      &:after{
+    &.breadcrumbs__item:last-child {
+      &:after {
         content: '';
       }
     }
   }
-  .breadcrumbs__link{
+  .breadcrumbs__link {
+    font-family: $font-family-text-bold;
     color: $color-grey-dark;
     text-decoration: none;
   }

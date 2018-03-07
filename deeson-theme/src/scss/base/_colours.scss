@@ -1,21 +1,27 @@
-$color-red:            #ff0044;
-$color-red-dark:       #e14949;
-$color-orange:         #f7b500;
-$color-blue:           #03b8f8;
-$color-teal:           #29d3be;
-$color-grey:           #575756;
-$color-grey-light:     #f8f7f5;
-$color-grey-mid:       #cecece;
-$color-grey-dark:      #2d2d2d;
+$color-red: #ff0046;
+$color-red-dark: #e14949;
+$color-orange: #f7b500;
+$color-blue: #03b8f8;
+$color-teal: #29d3be;
+$color-grey: #575756;
+$color-grey-light: #f8f7f5;
+$color-grey-mid: #cecece;
+$color-grey-dark: #2d2d2d;
+$color-black: #000000;
 
-a{
-  color: $color-red;
-
-  &:visited{
-    color: $color-red-dark;
+a {
+  color: $color-black;
+  font-weight: 400;
+  transition: text-decoration 0.2s cubic-bezier(0.165, 0.84, 0.44, 1);
+  &:hover,
+  &:focus {
+    text-decoration-color: $color-red;
+  }
+  &:visited {
+    color: $color-black;
   }
 }
 
-blockquote{
+blockquote {
   color: $color-grey-dark;
 }

@@ -1,17 +1,33 @@
-.content{
-  .content__header{
+.content {
+  .content__header {
     border-bottom: 1px solid $color-grey-light;
     margin-bottom: 1em;
     padding-bottom: 1em;
     @include clearfix;
   }
-  .content__main{
+  .content__main {
     @include clearfix;
+    li {
+      position: relative;
+      top: 5px;
+      padding-left: 30px;
+      margin-top: 10px;
+      line-height: 16px;
+      list-style: none;
+      &::before {
+        content: '\2022';
+        font-size: 30px;
+        position: absolute;
+        line-height: 15px;
+        left: 0;
+        top: 3px;
+      }
+    }
   }
-  .content__footer{
+  .content__footer {
     @include clearfix;
 
-    .content__footer__extra-info{
+    .content__footer__extra-info {
       border-top: 1px solid $color-grey-light;
       margin-top: 1em;
       padding-top: 1em;
