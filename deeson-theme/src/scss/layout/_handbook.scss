@@ -1,9 +1,7 @@
-$vars_handbook: (
-        sidebar-width: 375px
-);
+$vars_handbook: (sidebar-width: 375px);
 
-.handbook{
-  width:100%;
+.handbook {
+  width: 100%;
 
   @media only screen and (min-width: $breakpoint-main-content-menu-2-min) {
     display: flex;
@@ -11,8 +9,8 @@ $vars_handbook: (
     justify-content: space-around;
   }
 
-  .handbook__sidebar{
-    width:map-get($vars_handbook, sidebar-width);
+  .handbook__sidebar {
+    width: map-get($vars_handbook, sidebar-width);
     min-height: 100vh;
     overflow-y: scroll;
 
@@ -22,10 +20,10 @@ $vars_handbook: (
     }
     padding: 45px;
 
-    background-color: #f04;
-    color: white;
+    background-color: #edeee9;
+    color: #000;
   }
-  .handbook__main{
+  .handbook__main {
     @media only screen and (min-width: $breakpoint-main-content-menu-2-min) {
       flex: 1 auto;
     }
@@ -35,12 +33,12 @@ $vars_handbook: (
 
     background-color: white;
 
-    .handbook__main__content{
-      width:100%;
+    .handbook__main__content {
+      width: 100%;
       max-width: 770px;
-      margin:0 auto;
+      margin: 0 auto;
 
-      img{
+      img {
         max-width: 100%;
         height: auto;
       }

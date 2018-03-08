@@ -1,17 +1,43 @@
-.content{
-  .content__header{
+.content {
+  .content__header {
     border-bottom: 1px solid $color-grey-light;
     margin-bottom: 1em;
     padding-bottom: 1em;
     @include clearfix;
   }
-  .content__main{
+  .content__main {
     @include clearfix;
+    padding-bottom: 20px;
+    li {
+      position: relative;
+      top: 5px;
+      padding-left: 30px;
+      margin-top: 10px;
+      line-height: 1.5;
+      list-style: none;
+      &::before {
+        content: '\2022';
+        font-size: 30px;
+        position: absolute;
+        line-height: 15px;
+        left: 0;
+        top: 6px;
+      }
+    }
+    a {
+      font-family: $font-family-text-bold;
+      color: $color-black;
+      transition: text-decoration 0.2s cubic-bezier(0.165, 0.84, 0.44, 1);
+      &:hover,
+      &:focus {
+        text-decoration-color: $color-red;
+      }
+    }
   }
-  .content__footer{
+  .content__footer {
     @include clearfix;
 
-    .content__footer__extra-info{
+    .content__footer__extra-info {
       border-top: 1px solid $color-grey-light;
       margin-top: 1em;
       padding-top: 1em;
