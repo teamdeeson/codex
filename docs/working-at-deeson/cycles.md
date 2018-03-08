@@ -1,4 +1,4 @@
-# Tax-free cycles and e-cycles
+# Tax-free cycles and e-cycles.
 
 As a Deeson employee, you can save 25-39% on the cost of a new bike or e-bike through a salary sacrifice scheme.
 
@@ -8,13 +8,13 @@ If you want to purchase a bike or e-bike using this benefit, please check out th
 
 At Deeson we provide this benefit using two partners:
 
-## Cyclescheme
+## Cyclescheme.
 
 Cyclescheme works with more than 2,000 local and online retailers. You can find out more about a tax-free bike and accessories through Cyclescheme [here](https://www.cyclescheme.co.uk/). 
 
 There is a limit of £1,000 for bikes and accessories supplied through Cyclescheme.
 
-## Green Commute Initiative
+## Green Commute Initiative.
 
 The Green Commute Initiative (GCI) is a not for profit social enterprise, with a mission to get more commuters out of their cars and onto clean e-bikes because cleaner air helps us all.
 
