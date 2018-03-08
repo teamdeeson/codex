@@ -30,7 +30,7 @@ It’s a focused period when you’ll be doing a lot of learning – about Deeso
 
 Successfully completing your first six months is a milestone in your work with Deeson and is a great achievement. 
 
-Your Project Leads, Chapter Lead and fellow team members, are there to support you in successfully completing your first year.
+Your Project Leads, Chapter Lead and fellow team members, are there to support and help you to successfully complete your first year.
 
 ## Before you start.
 
