@@ -1,6 +1,6 @@
 # Onboarding.
 
-It’s really important that we support new team members with their transition to being a member of the Deeson team. 
+It’s really important that we support new team members in their transition to being a member of the Deeson team. 
 
 We want new team members to be happy, engaged and effective as soon as possible.
 
