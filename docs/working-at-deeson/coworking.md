@@ -1,4 +1,4 @@
-# Co-working
+# Co-working.
 
 If you have a blue The Office Group (TOG) swipe card for the Deeson London office, you can also use other co-working spaces/lounges run by TOG.
 
