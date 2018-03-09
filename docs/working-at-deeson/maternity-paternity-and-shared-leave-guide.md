@@ -55,7 +55,7 @@ Firstly, you and your partner must meet the eligibility criteria described earli
 
 - Shared parental leave may be taken at any time within the period that begins on the date the child is born or date of the adoption placement and ends 52 weeks after that date. 
 
-### Here is how you and your partner should go about opting in to shared parental leave:
+### Here is how you and your partner should go about opting in to shared parental leave.
 
 1. The mother/main adopter must bring their period of maternity/adoption leave to an end by letting their employer know at least eight weeks before the date she/he intends to curtail the leave.
 **NB.** Maternity leave cannot be brought to an end before the conclusion of the two week compulsory maternity leave period. The balance of maternity leave at that point becomes available for the partner to share as shared parental leave. While this notice of curtailment of maternity/adoption leave can be given before or after the birth/placement, if it is given afterwards, the notice is binding. However, if notice is given before, there is a six-week window after the child's birth/adoption, during which a mother/primary adopter who has previously stated she/he intends to share her/his leave, can change her/his mind and decide to remain on leave.
