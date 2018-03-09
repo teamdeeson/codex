@@ -156,7 +156,7 @@ The outcome of the meeting, including any formal warnings, will be confirmed in 
 
 ## Obtaining medical reports.
 
-If Deeson is considering obtaining a medical report or an occupational health opinion, then we will discuss this with you and explain the reasons why this is required. Deeson will secure your consent before making a referral for opinion.
+If Deeson is considering obtaining a medical report or an occupational health opinion, then we will discuss this with you and explain the reasons why might be required. Deeson will secure your consent before making a referral for opinion.
 
 If Deeson is writing to a medical practitioner directly for a report, Deeson must provide full written consent of the employee and let the physician know if the employee would like to see the report first when making the application. The employee must then contact the GP within 21 days of the date of application to make arrangements to see the report.
 
