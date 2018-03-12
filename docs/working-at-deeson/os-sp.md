@@ -15,5 +15,3 @@ Our strategic planning covers four areas:
 2. Missions – the building blocks of what we need to do to achieve our vision.
 3. Objectives – measureable checkpoints that we need to have accomplished to ensure a mission is complete.
 4. Tactics – the things we are going to do in the next 90 days to deliver an objective.
-
-We keep our strategic plan as a set of nested ['to-do' lists in Basecamp](https://3.basecamp.com/3624440/buckets/2215746/todosets/329262117) that's open for every Deeson team member to see.
