@@ -21,7 +21,7 @@ The actions/issues for each Project Lead are [here](https://3.basecamp.com/36244
 
 A one hour meeting each week that is attended by all Project Leads, Chapter Leads and the Directors. Covers any other cross-agency delivery issues that aren't specific to a particular project.
 
-This meeting also reviews progress ('on track'/'off track') on our vision, mission, objectives and tactics. If there are blockers that can't be sorted outside the meeting, this is when we can identify, discuss and most importantly, solve them.
+This meeting also reviews progress ('on track'/'off track') of our vision, mission, objectives and tactics. If there are blockers that can't be sorted outside the meeting, this is when we can identify, discuss and most importantly, solve them.
 
 The agenda is:
 
