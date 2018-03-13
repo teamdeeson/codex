@@ -18,7 +18,7 @@
 - [Slack](https://deeson-agency.slack.com/messages)
 - [ReceiptBank](https://app.receipt-bank.com/login)
 - [Xero](https://www.xero.com/uk/)
-- [Harvest – digital agency](https://deesonemedia.harvestapp.com/overview)
+- [Harvest – digital agency and publishing](https://deesonemedia.harvestapp.com/overview)
 - [Forecast](https://forecastapp.com/89482/schedule/team)
 - [Basecamp](https://basecamp.com/1992881/)
 - [Webmail](https://www.google.com/a/deeson.co.uk)
