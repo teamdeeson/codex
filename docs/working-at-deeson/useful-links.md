@@ -19,7 +19,6 @@
 - [ReceiptBank](https://app.receipt-bank.com/login)
 - [Xero](https://www.xero.com/uk/)
 - [Harvest – digital agency](https://deesonemedia.harvestapp.com/overview)
-- [Harvest – publishing team](https://deesonpublishing.harvestapp.com/time)
 - [Forecast](https://forecastapp.com/89482/schedule/team)
 - [Basecamp](https://basecamp.com/1992881/)
 - [Webmail](https://www.google.com/a/deeson.co.uk)
