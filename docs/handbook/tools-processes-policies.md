@@ -43,7 +43,7 @@ And there are a few things we expect our employees to be aware of:
 - [JIRA ticket configuration](https://docs.google.com/document/d/1_nUPb3wfpJewQyOxWj-IHdTiR9NRXbB576Hk0-G5zJw/edit#)
 - [JIRA workflow](https://www.deeson.co.uk/labs/well-defined-stories-key-eliminating-work-flow-delays)
 - Recruitment
-- [Goals and development](https://handbook.deeson.co.uk/working-at-deeson/personal-goals-and-development/)
+- [Personal Development Planning](https://handbook.deeson.co.uk/working-at-deeson/pdp/)
 - Company business policies
 - [The Deeson Handbook](http://handbook.deeson.co.uk/)
 - [Job roles](http://handbook.deeson.co.uk/handbook/roles-at-deeson)
