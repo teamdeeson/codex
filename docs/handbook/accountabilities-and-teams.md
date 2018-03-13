@@ -16,7 +16,7 @@ There are three things that need to be in place to have long-term accountability
 - **Buy-in** – team members must be involved in setting the expectations and agree that they are reasonable and achievable.
 - **Results** – team members need to understand the consequences of success or failure and how their accountability will directly affect the results.
 
-It’s important that every role has clear accountabilities and the handbook is designed to help with this. 
+It’s important that every role has clear accountabilities and the Handbook is designed to help with this. 
 
 But ultimately, it's every team member's responsibility to know, understand and be confident in doing what it takes to fulfil their own accountabilities.
 
