@@ -22,4 +22,4 @@ To be able to move into the new role permanently, they should be assessed with a
 
 The first six months after being confirmed permanently in the new role should be considered a probationary period. Pay would change to the impact outcome rating of 1.5 in the new role from the start of the probationary period. 
 
-If the team member doesn’t achieve a satisfactory impact rating by the end of the probationary period, we reserve the right to return them back to their previous role and pay immediately, or extend the probationary period to provide extra time and support to help them succeed.
+If the team member doesn’t achieve a satisfactory impact rating by the end of the probationary period, we reserve the right to return them back to their previous role and pay immediately or extend the probationary period to provide extra time and support to help them succeed.
