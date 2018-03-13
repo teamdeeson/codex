@@ -15,10 +15,10 @@ N1C 4AG
 The internal Deeson office phone number is 0203 7145029. This number is not for clients though, as it's not always staffed.
 
 ## How do I contact reception/security?
-**Reception:** 0203 714 5000 / <gridiron@theofficegroup.co.uk]>  
+**Reception:** 0203 714 5000 / <gridiron@theofficegroup.co.uk>  
 **Out of hours emergency:** 08432 999 365  
-**Building Manager:** Heidi Tagg / <heidi@theofficegroup.co.uk>/07392 080 127  
-**Area manager:** Ellie Jewitt / <ellie@theofficegroup.co.uk>/07467 148 714
+**Building Manager:** Heidi Tagg / <heidi@theofficegroup.co.uk> / 07392 080 127  
+**Area manager:** Ellie Jewitt / <ellie@theofficegroup.co.uk> / 07467 148 714
 
 ## How do I get in?
 You need an access card and a key for the office door. Details are pinned on the #general channel in Slack.
