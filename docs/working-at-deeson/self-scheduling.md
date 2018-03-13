@@ -1,4 +1,4 @@
-## Self-scheduling.
+# Self-scheduling.
 
 In line with our ethos of enabling our team members to manage their own working life, we expect everyone working at Deeson to take responsibility for their own work schedule (aka 'self-scheduling').
 
