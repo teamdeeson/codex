@@ -4,10 +4,8 @@
 
 ## Processes and templates.
 
-- [Estimating methodology for projects](https://docs.google.com/document/d/115Pup6P7hL1tMS6K4cSX_ewzWom96Eb3dtmrOlR3alw/edit)
 - [The Deeson project blueprint – template](https://docs.google.com/document/d/1fqNkhTgEo6OZj8ewQAioTqbjDWq61cxRIN3FjDsQvMg/edit)
 - [Discovery process](https://docs.google.com/document/d/1ugutCc-e7LvaPNYw3X7T2pEwz2KulCzc2TWGpa-5mAw/edit#heading=h.dglinb4whg2q)
-- [Payment models for projects](https://docs.google.com/document/d/1Bti69GzVe_mk0MCRn5w_lLpzhks_HyLZvarxIT1fqbo/edit)
 - [Standard terms and conditions](https://docs.google.com/document/d/1AqcHf5br2mpxLUTZ9GqucezAgr3oCto8drbpARhmOGY/edit)
 - [New business process](https://docs.google.com/presentation/d/12YKQqMV48oZx2KfD0qqJaE9ZIVrtw3yRx1hz7jwRmj0/edit#slide=id.p)
 - [Sales invoicing](https://docs.google.com/a/deeson.co.uk/document/d/1QKJJlfy5BblQubMPqO5rzXKMu-2fOUhTV7SxkujYZT4/edit?usp=sharing)
@@ -24,7 +22,7 @@
 - [Harvest – publishing team](https://deesonpublishing.harvestapp.com/time)
 - [Forecast](https://forecastapp.com/89482/schedule/team)
 - [Basecamp](https://basecamp.com/1992881/)
-- [Webmail](https://mail.deeson.co.uk)
+- [Webmail](https://www.google.com/a/deeson.co.uk)
 - [JIRA](https://deeson.atlassian.net/login)
 - [Bamboo](https://deeson.bamboohr.co.uk)
 
