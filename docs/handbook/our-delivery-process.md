@@ -19,7 +19,7 @@ There are a variety of tasks in Foundations, to make sure we are building the ri
 
 * Agreeing a high level Delivery Plan which outlines delivery dates and objectives. 
 * At least the first [Timebox](https://www.agilebusiness.org/content/timeboxing-0) of user stories are refined and estimated. 
-* Definitions of [Ready](https://docs.google.com/document/d/1q2tjhJud2hZkUcBa6JYTbraI7HMCmR8D8K0QagF4ZGw/edit#heading=h.gjdgxs) and [Done](https://docs.google.com/document/d/1lSZv_LRJJrkT_uK7gYxLB2sits7gsD1i-unqDiDBfVM/edit#heading=h.gjdgxs) are agreed.
+* Definitions of Ready and Done are agreed.
 * Roles and responsibilities are agreed. 
 
 The activities are flexible but the outcomes are fixed, and are assessed against this [checklist](https://docs.google.com/document/d/1GLer6Uml5cwS4Z9EpJtC1oLqAA7dJB8-g5Ni3CuY-Gc/edit) of deliverables.
