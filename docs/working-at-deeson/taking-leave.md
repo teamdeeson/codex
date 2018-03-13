@@ -4,9 +4,9 @@
 
 There are 24 days of paid leave per calendar year, plus UK bank holidays.
 
-For team members based outside the UK, there may be individual variations to this, based on local public holidays.
+For team members based outside the UK, there may be individual variations to this based on local public holidays.
 
-You have to take time off from your allowance each year, for our Christmas to New Year company-wide close down period. This is usually three or four days of leave and will be automatically booked for you at the start of each calendar year.
+You have to take time off from your allowance each year for our Christmas to New Year company-wide close down period. This is usually three or four days of leave and will be automatically booked for you at the start of each calendar year.
 
 ## How to book time off.
 
