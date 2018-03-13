@@ -15,11 +15,10 @@ N1C 4AG
 The internal Deeson office phone number is 0203 7145029. This number is not for clients though, as it's not always staffed.
 
 ## How do I contact reception/security?
-**Reception:** 0203 714 5000/[gridiron@theofficegroup.co.uk](gridiron@theofficegroup.co.uk)  
+**Reception:** 0203 714 5000 / <gridiron@theofficegroup.co.uk]>  
 **Out of hours emergency:** 08432 999 365  
-**Building Manager:** Heidi Tagg/[heidi@theofficegroup.co.uk](mailto:heidi@theofficegroup.co.uk)/07392 080 127  
-**Area manager:** Ellie Jewitt/[ellie@theofficegroup.co.uk](ellie@theofficegroup.co.uk)/07467 148 714
-
+**Building Manager:** Heidi Tagg / <heidi@theofficegroup.co.uk>/07392 080 127  
+**Area manager:** Ellie Jewitt / <ellie@theofficegroup.co.uk>/07467 148 714
 
 ## How do I get in?
 You need an access card and a key for the office door. Details are pinned on the #general channel in Slack.
@@ -33,7 +32,7 @@ They can provide copying, printing, postage, catering, network support etc. They
 ## What meeting rooms are there that we can pay to book?
 Yes – details are here: [www.theofficegroup.co.uk/locations/gridiron/](http://www.theofficegroup.co.uk/locations/gridiron/).
 
-You can make a booking by emailing [gridiron@theofficegroup.co.uk](gridiron@theofficegroup.co.uk).
+You can make a booking by emailing <gridiron@theofficegroup.co.uk>.
 
 Catering for meetings needs to be booked at least 24 hours in advance.
 
