@@ -12,7 +12,7 @@ The information that’s kept in Forecast about who’s planning on spending how
 
 It means project teams can easily see who’s working on what and when, and it feeds into our daily and weekly business reporting, so that we know exactly what capacity we have to sell to new clients or use in other ways.
 
-As a business, time is all we sell, so having a pretty watertight way of recording time (Harvest) and planning time (Forecast) is vital.
+As a business, time is all we sell, so having a pretty watertight way of recording time ([Harvest](https://www.getharvest.com/)) and planning time ([Forecast](https://www.getharvest.com/forecast)) is vital.
 
 ## So what do I have to do?
 
