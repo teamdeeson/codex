@@ -1,8 +1,8 @@
-#Reference information
+# Reference information.
 
 - [Team contact details](https://deeson-agency.slack.com/team)
 
-#Processes and templates
+## Processes and templates.
 
 - [Estimating methodology for projects](https://docs.google.com/document/d/115Pup6P7hL1tMS6K4cSX_ewzWom96Eb3dtmrOlR3alw/edit)
 - [The Deeson project blueprint - template](https://docs.google.com/document/d/1fqNkhTgEo6OZj8ewQAioTqbjDWq61cxRIN3FjDsQvMg/edit)
@@ -15,7 +15,7 @@
 - [Credit control](https://docs.google.com/a/deeson.co.uk/document/d/1ZWoGo36sHdvDMckzwpH-sMzH-Flh8JbqMo7mE1YnG_o/edit?usp=sharing)
 - [Receipt Bank processing & approvals](https://docs.google.com/a/deeson.co.uk/document/d/1rcH04NgsdDK5ZS4bwNm8WpXStKlsZXeRzRpuJknuf4E/edit?usp=sharing)
 
-#Company tools
+## Company tools.
 
 - [Slack](https://deeson-agency.slack.com/messages)
 - [ReceiptBank](https://app.receipt-bank.com/login)
@@ -28,13 +28,13 @@
 - [JIRA](https://deeson.atlassian.net/login)
 - [Bamboo](https://deeson.bamboohr.co.uk)
 
-#Tracking documents
+## Tracking documents.
 
 - [Monthly IT self-assessment](https://docs.google.com/spreadsheets/d/1ZBjz9jYl5sqNLzsO4WJjST_r5g-La7UZ8XI2UG8Umf0/edit#gid=0)
 - [Company tool list / asset register](https://docs.google.com/spreadsheets/d/1jOTBKmHVrgcQGbvAVt8ta7c1UtK7pZeAhwgr6auuCfo/edit#gid=0)
 - [Workstation health and safety assessment tracker](https://docs.google.com/spreadsheets/d/18eoDaLypltd8A2Dt177XMn0RZe-LhqxV3-a-nGUcaXE/edit#gid=0&vpid=A1)
 
-#Policies and procedures
+## Policies and procedures.
 
 - [Deeson company policies](https://docs.google.com/document/d/1rGy0i56tOjmohsM8lfkFboq1F4Wyi0jkwyL6VHr3Q0M/edit)
 - [Guidelines for client service using Slack](https://docs.google.com/document/d/1PWLrExVQiR6wS0a52i7AYzX8FaiWYmSMOcKsPWg322g/edit)
