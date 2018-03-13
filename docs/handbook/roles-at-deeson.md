@@ -54,7 +54,6 @@ The roles and job scorecards are shown below:
 - [Finance Director](https://drive.google.com/open?id=1OJm4nF_ypRpf8lR9AahOf2aT5hV1HZN6)
 - [Creative Director (R&D)](https://drive.google.com/open?id=1bB4e7VNjTZa55z1GF0HBDUFqk3PXFXrn)
 - [Managing Director](https://drive.google.com/open?id=1jTnjJD2st6YHRqLWj8PRMd9uzkKUlJHT)
-- [Sales Co-ordinator]()
 
 ## Additional roles.
 
