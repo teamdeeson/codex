@@ -1,4 +1,4 @@
-# Subscriptions
+# Subscriptions.
 
 As we grow, we need to keep track of the many software-as-a-service (SaaS) subscriptions we have across the team. If we don’t do this, we’ve found that we end up paying for unused subscriptions or for the wrong number of users. This costs the company more than it needs to and that’s a bad thing.
 
