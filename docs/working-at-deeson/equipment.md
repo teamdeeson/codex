@@ -16,7 +16,7 @@ But don’t just spend it because it’s there - money is obviously a valuable r
 
 No-one pre-approves what you spend it on. Be prepared to share the resource with your colleagues if need be.
 
-To use your allowance, buy the item/service/thing, add it to the [tool list](https://docs.google.com/a/deeson.co.uk/spreadsheets/d/1jOTBKmHVrgcQGbvAVt8ta7c1UtK7pZeAhwgr6auuCfo/edit?usp=drive_web) and add to ReceiptBank for approval. 
+To use your allowance, buy the item/service/thing, add it to the [tool list](https://docs.google.com/a/deeson.co.uk/spreadsheets/d/1jOTBKmHVrgcQGbvAVt8ta7c1UtK7pZeAhwgr6auuCfo/edit?usp=drive_web) and add to Receipt Bank for approval. 
 
 Where possible, get someone with a company card to make the payment, although you can buy it on a personal credit card and be reimbursed by BACS. We also have a company Amazon account through which purchases can be made - speak to Hannah S for more details.
 
