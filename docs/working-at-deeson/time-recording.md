@@ -12,7 +12,7 @@ We can only sell our time and being mindful of this being our only source of rev
 
 This doesn’t ever include being dishonest or misleading – that would be toxic, not in line with our values and doesn't help us build long-term relationships with our clients.
 
-Another way to consider it, is if the client doesn’t pay for it then we do – the time isn’t free. Is it part of the overall effort of delivering their work for their benefit?
+Another way to consider it is, if the client doesn’t pay for it then we do – the time isn’t free. Is it part of the overall effort of delivering the client's work for their benefit?
 
 If a task is necessary to successfully deliver a project, then it should be considered billable. Meetings (including internal), calls, emails, estimating and documentation, are all necessary activities needed to support the delivery of the work and should go under the chargeable task for your role.
 
