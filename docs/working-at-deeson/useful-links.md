@@ -38,6 +38,6 @@
 
 - [Deeson company policies](https://docs.google.com/document/d/1rGy0i56tOjmohsM8lfkFboq1F4Wyi0jkwyL6VHr3Q0M/edit)
 - [Guidelines for client service using Slack](https://docs.google.com/document/d/1PWLrExVQiR6wS0a52i7AYzX8FaiWYmSMOcKsPWg322g/edit)
-- [ISO9001 Quality Manual & Procedures](https://drive.google.com/a/deeson.co.uk/folderview?id=0B0GQKUgEHXldYXY1d01ha1VaRkU&usp=sharing)
+- [ISO9001 Quality Manual and Procedures](https://drive.google.com/a/deeson.co.uk/folderview?id=0B0GQKUgEHXldYXY1d01ha1VaRkU&usp=sharing)
 - [Laptop retention and disposal policy](https://docs.google.com/document/d/1yMDWQCJDbgxQkSu9sMvPsBLjeOTDxKGOYhNrbnUQe3M/edit)
 - [Credit control procedure](https://docs.google.com/document/d/1ZWoGo36sHdvDMckzwpH-sMzH-Flh8JbqMo7mE1YnG_o/edit?ts=57398cf2)
