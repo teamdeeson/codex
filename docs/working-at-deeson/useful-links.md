@@ -13,7 +13,7 @@
 - [Sales invoicing](https://docs.google.com/a/deeson.co.uk/document/d/1QKJJlfy5BblQubMPqO5rzXKMu-2fOUhTV7SxkujYZT4/edit?usp=sharing)
 - [VAT on sales](https://docs.google.com/a/deeson.co.uk/document/d/1MKHBouEOuleBEbsEQ1OcPvFd7Cxt8PSCjoIq87Eh-tY/edit?usp=sharing)
 - [Credit control](https://docs.google.com/a/deeson.co.uk/document/d/1ZWoGo36sHdvDMckzwpH-sMzH-Flh8JbqMo7mE1YnG_o/edit?usp=sharing)
-- [Receipt Bank processing & approvals](https://docs.google.com/a/deeson.co.uk/document/d/1rcH04NgsdDK5ZS4bwNm8WpXStKlsZXeRzRpuJknuf4E/edit?usp=sharing)
+- [Receipt Bank processing and approvals](https://docs.google.com/a/deeson.co.uk/document/d/1rcH04NgsdDK5ZS4bwNm8WpXStKlsZXeRzRpuJknuf4E/edit?usp=sharing)
 
 ## Company tools.
 
@@ -31,7 +31,7 @@
 ## Tracking documents.
 
 - [Monthly IT self-assessment](https://docs.google.com/spreadsheets/d/1ZBjz9jYl5sqNLzsO4WJjST_r5g-La7UZ8XI2UG8Umf0/edit#gid=0)
-- [Company tool list / asset register](https://docs.google.com/spreadsheets/d/1jOTBKmHVrgcQGbvAVt8ta7c1UtK7pZeAhwgr6auuCfo/edit#gid=0)
+- [Company tool list/asset register](https://docs.google.com/spreadsheets/d/1jOTBKmHVrgcQGbvAVt8ta7c1UtK7pZeAhwgr6auuCfo/edit#gid=0)
 - [Workstation health and safety assessment tracker](https://docs.google.com/spreadsheets/d/18eoDaLypltd8A2Dt177XMn0RZe-LhqxV3-a-nGUcaXE/edit#gid=0&vpid=A1)
 
 ## Policies and procedures.
