@@ -47,7 +47,7 @@ The basics of our scheme are explained below:
 - We have a transparent way that team members can progress into new roles and be rewarded accordingly.
 - We have a transparent and non-negotiable approach to pay setting for new recruits to the Deeson team.
 - We have a 'fair pay guarantee' that rewards team members if the business does better than we expected it to when we set the pay scales for that year.
-- We have clear guidelines for transitioning to the new pay arrangements for existing team members as of January 2018
+- We have clear guidelines for transitioning to the new pay arrangements for existing team members as of January 2018.
 
 ## Getting a pay review.
 
