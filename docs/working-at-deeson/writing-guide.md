@@ -46,9 +46,9 @@ We make our writing readable and user-friendly by:
 
 We use gender-neutral language to be inclusive.
 
--   Use 'they', 'them', and 'their' over 'he', 'she', 'his' and 'her', unless you're referring to specific people (e.g. 'When a developer opens their laptop...')
+-   Use 'they', 'them', and 'their' over 'he', 'she', 'his' and 'her', unless you're referring to specific people (e.g. 'When a developer opens their laptop...').
 
--   Avoid gendered terms (e.g. 'Hey guys, 'man-hours')
+-   Avoid gendered terms (e.g. 'Hey guys, 'man-hours').
 
 ## Our style.
 
@@ -70,27 +70,27 @@ We don't hyphenate compound words.
 
 -   Multidisciplinary not multi-disciplinary
 
--   Micromanage not micro-manage
+-   Micromanage not micro-manage.
 
--   Biweekly not bi-weekly
+-   Biweekly not bi-weekly.
 
 And we don't hyphenate phrases...
 
--   High profile not high-profile
+-   High profile not high-profile.
 
--   High stakes not high-stakes
+-   High stakes not high-stakes.
 
 ...with these exceptions:
 
--   front-end
+-   Front-end.
 
--   user-friendly
+-   User-friendly.
 
--   e-commerce
+-   E-commerce.
 
--   e-learning
+-   E-learning.
 
--   fractions (e.g. three-quarters)
+-   Fractions (e.g. three-quarters).
 
 We introduce unfamiliar acronyms in full the first time we use them on each page.
 
@@ -106,9 +106,9 @@ We write product and phase names in lower case.
 
 We write job titles in title case.
 
--   Managing Director
+-   Managing Director.
 
--   Senior Developer
+-   Senior Developer.
 
 We apply the following rules when writing numbers:
 
@@ -126,11 +126,11 @@ We apply the following rules when writing numbers:
 
 We write the dates and times like this:
 
--   15th January 1986
+-   15th January 1986.
 
--   Wednesday 15th January 1986
+-   Wednesday 15th January 1986.
 
--   5.15pm, 3pm - no 24 hour clock
+-   5.15pm, 3pm - no 24 hour clock.
 
 We follow these conventions for punctuation use:
 
@@ -138,7 +138,7 @@ We follow these conventions for punctuation use:
 
 -   Use the [Oxford comma](https://www.grammarly.com/blog/what-is-the-oxford-comma-and-why-do-people-care-so-much-about-it/) in lists.
 
--   Use exclamation marks sparingly. They work well on social media and in direct communication, but we should use them rarely on our website, in our handbook, or in formal documents.
+-   Use exclamation marks sparingly. They work well on social media and in direct communication but we should use them rarely on our website, in our handbook, or in formal documents.
 
 -   Don't use the ampersand (&) unless it's part of a company or brand name.
 
