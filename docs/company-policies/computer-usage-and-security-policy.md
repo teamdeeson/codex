@@ -22,7 +22,7 @@
 
 10. You must not transfer or copy any company or client data to personal devices. The only exception to this is the use of personally owned mobile devices in line with this policy.
 
-11. You must complete the monthly IT self-assessment checklist: https://docs.google.com/spreadsheets/d/1ZBjz9jYl5sqNLzsO4WJjST_r5g-La7UZ8XI2UG8Umf0/edit#gid=0
+11. You must complete the monthly [IT self-assessment checklist](https://docs.google.com/spreadsheets/d/1ZBjz9jYl5sqNLzsO4WJjST_r5g-La7UZ8XI2UG8Umf0/edit#gid=0).
 
 ## Full guidelines.
 
