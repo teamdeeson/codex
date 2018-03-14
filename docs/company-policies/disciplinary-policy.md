@@ -54,63 +54,63 @@ If the employee wishes to appeal the decision made at the hearing, then he or sh
 
 The following are examples of general misconduct that may result in formal proceedings. The list is not exhaustive.
 
-* Poor timekeeping
+* Poor timekeeping.
 
-* Poor work performance
+* Poor work performance.
 
-* Excessive sickness absence
+* Excessive sickness absence.
 
-* Capability
+* Capability.
 
-* Unreasonable behaviour to work colleagues
+* Unreasonable behaviour to work colleagues.
 
-* Harassment or victimisation
+* Harassment or victimisation.
 
-* Breach of company security
+* Breach of company security.
 
-* Breach of health and safety rules
+* Breach of health and safety rules.
 
-* Repeated or serious failure to follow instructions
+* Repeated or serious failure to follow instructions.
 
-* Personal use of a company computer and/or ancillary electronic equipment during working hours
+* Personal use of a company computer and/or ancillary electronic equipment during working hours.
 
 ## Appendix 3 – gross misconduct.
 
 The following are examples of gross misconduct that after investigation, may result in dismissal. The list is not exhaustive.
 
-* Theft from the company, its employees or clients
+* Theft from the company, its employees or clients.
 
-* Malicious damage to the company’s, employees’ or clients’ property
+* Malicious damage to the company’s, employees’ or clients’ property.
 
-* Fraud
+* Fraud.
 
-* Deliberate falsification of records or deliberate failure to maintain records
+* Deliberate falsification of records or deliberate failure to maintain records.
 
-* Misuse of the company’s name
+* Misuse of the company’s name.
 
-* Misuse of the company’s property
+* Misuse of the company’s property.
 
-* Action that brings the company into disrepute
+* Action that brings the company into disrepute.
 
-* Serious negligence which causes or may cause unacceptable loss, damage or injury to the company, its employees or clients
+* Serious negligence which causes or may cause unacceptable loss, damage or injury to the company, its employees or clients.
 
-* Serious infringement of health and safety rules
+* Serious infringement of health and safety rules.
 
-* Inability to work due to the consumption of alcohol and/or drugs inside or outside working hours
+* Inability to work due to the consumption of alcohol and/or drugs inside or outside working hours.
 
-* Gross insubordination
+* Gross insubordination.
 
-* Physical assault
+* Physical assault.
 
-* Sexual harassment
+* Sexual harassment.
 
-* Any act of discrimination towards race, gender, colour, creed, age or disability
+* Any act of discrimination towards race, gender, colour, creed, age or disability.
 
-* Unauthorised disclosure of company or client information to any third party
+* Unauthorised disclosure of company or client information to any third party.
 
-* Soliciting work for independent personal gain from company clients or potential clients in negotiation with the company
+* Soliciting work for independent personal gain from company clients or potential clients in negotiation with the company.
 
-* Use of a company computer to view obscene, pornographic, racist, destructive and/or illegal material
+* Use of a company computer to view obscene, pornographic, racist, destructive and/or illegal material.
 
 ## Grievance procedure.
 
