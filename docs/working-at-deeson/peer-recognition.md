@@ -12,7 +12,7 @@ The company puts £100 per week into the prize pot and the prize is paid out bas
 
 
 - Every day you can give away up to five tacos to other team members to recognise them for doing something great. 
- - You can give someone a taco by using the :taco: emoji on Slack - for example, '@joebloggs great work today on bug fixing :taco:'.
+ - You can give someone a taco by using the :taco: emoji on Slack – for example, '@joebloggs great work today on bug fixing :taco:'.
  - More info on how to give tacos and other functionality: https://www.heytaco.chat/about. 
 - At the end of each week, we share the leaderboard of who’s been awarded the most tacos by their colleagues. End of the week
 - During the week anyone can check the leaderboard by asking '@heytaco leaderboard'.
