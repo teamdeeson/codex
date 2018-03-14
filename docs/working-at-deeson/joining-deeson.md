@@ -55,7 +55,7 @@ The outcomes for your first day at Deeson are shown below:
 
 1. You’ll have been shown around your main office.
 2. You’ll know where your desk is and where you can hotdesk in the office.
-3. You’ll have your laptop up and running, with the core business systems set up and working properly (Google Apps, Basecamp, Slack, Harvest, Forecast etc.
+3. You’ll have your laptop up and running, with the core business systems set up and working properly (Google Apps, Slack, Harvest, Forecast etc.
 4. You’ll have had a coffee or lunch with some colleagues.
 5. You’ll have completed the new joiner paperwork and provided the proof of a right to work in the UK. 
 6. You’ll have been introduced to the Deeson Handbook and will have begun reading it.
