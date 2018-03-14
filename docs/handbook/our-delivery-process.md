@@ -57,10 +57,10 @@ Specifically, there are two key client side project roles:
 
 __Business Visionary.__
 
-* Budget holder
-* Resolves business issues
-* Makes financial decisions
-* Enables and ensures fast progress throughout the project
+* Budget holder.
+* Resolves business issues.
+* Makes financial decisions.
+* Enables and ensures fast progress throughout the project.
 
 __Business Ambassador.__
 
