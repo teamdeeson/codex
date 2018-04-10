@@ -117,3 +117,6 @@ Paternity leave is granted in addition to your normal holiday entitlement. Pater
 Ordinary paternity leave can start either from the date the child is born or placed for adoption, or from a chosen number of days or weeks after that date. In addition, employees who are the father or partner have the right to take unpaid time off work to accompany expectant mothers on up to two antenatal appointments.  
   
 To qualify for paternity pay, you must have met the statutory criteria set out by government and the requirements of the Deeson policy.
+
+### Additional resources
+We are supporters of The Tommy’s Pregnancy at Work scheme, which is designed to give organisations all the tools they need to provide the best level of support for pregnant employees and their managers. Tommy's is a charity that provides accredited midwife-led pregnancy health information for parents-to-be, and funds research into the causes of pregnancy loss. It also provides evidence based, expert and user led, accessible pregnancy information to support expectant parents in understanding what they can do to support a safe and healthy pregnancy. https://www.tommys.org
