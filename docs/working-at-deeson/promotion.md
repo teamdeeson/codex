@@ -23,3 +23,11 @@ To be able to move into the new role permanently, they should be assessed with a
 The first six months after being confirmed permanently in the new role should be considered a probationary period. Pay would change to the impact outcome rating of 1.5 in the new role from the start of the probationary period. 
 
 If the team member doesn’t achieve a satisfactory impact rating by the end of the probationary period, we reserve the right to return them back to their previous role and pay immediately or extend the probationary period to provide extra time and support to help them succeed.
+
+## Junior/trainee/graduate roles
+
+For junior roles - where a team member joins with less than two years relevant experience or no relevant experience at all - there will be a 20% reduction in the whole pay scale. 
+
+This is a reflection of the relative inexperience of someone joining the team in this way and the fact we don't have a junior equivalent of many of our roles. 
+
+We would expect them to progress into the full role within 18 months of joining Deeson (using the promotion process set out in this document) and they would then be part of the normal pay scale for their role. Team members in junior roles are not subject to the restriction on pay review requests of one per year.
