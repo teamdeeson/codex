@@ -24,7 +24,7 @@ The first six months after being confirmed permanently in the new role should be
 
 If the team member doesn’t achieve a satisfactory impact rating by the end of the probationary period, we reserve the right to return them back to their previous role and pay immediately or extend the probationary period to provide extra time and support to help them succeed.
 
-## Junior/trainee/graduate roles
+## Junior/trainee/graduate roles.
 
 For junior roles - where a team member joins with less than two years relevant experience or no relevant experience at all - there will be a 20% reduction in the whole pay scale. 
 
