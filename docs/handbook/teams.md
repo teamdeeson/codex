@@ -8,7 +8,7 @@ This is small multidisciplinary team that’s using the Deeson agile framework t
 
 A team member may be a member of more than one project at once, depending on the stage that a project is at.
 
-We keep the number of projects that a team member is involved in to a minimum. The less projects someone is dealing with, the better they can focus and not lose efficiency through context switching
+We keep the number of projects that a team member is involved in to a minimum. The fewer projects someone is dealing with, the better they can focus and not lose efficiency through context switching
 
 ## Chapter team.
 
