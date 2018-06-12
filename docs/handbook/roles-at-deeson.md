@@ -28,11 +28,9 @@ The roles and job scorecards are shown below:
 
 ### Technical Chapter.
 
-- [Development Manager](https://drive.google.com/open?id=1FA5Qp3lf_yRTh0SD-Z5jnklpkbHoh_JC)
 - [Lead Developer](https://drive.google.com/open?id=1_9JVuWaxQeaKpr7nDNPd40eeipaNBKDJ)
 - [Senior Developer](https://drive.google.com/open?id=1WWLcRiY3D_uUGjiGfh58rBIUePvdMDMc)
 - [Developer](https://drive.google.com/open?id=1bFCxFqd3xtiSxYMSVutx0wtuYSkHaS16)
-- [Project Manager](https://drive.google.com/open?id=1agycbU5R3KUm4UjlQFOtGX87c3GJXhLR)
 - [Technical Project Director](https://drive.google.com/open?id=1wiTbJdWTcqSEt0YCDhPN-3TYwG0j-b2w)
 
 ### Design Chapter.
@@ -49,10 +47,9 @@ The roles and job scorecards are shown below:
 
 ### Other roles.
 
-- [Marketing Manager](https://drive.google.com/open?id=1tSyMeV6mex3bV_WolwWQXf8XkgO_Obkv)
+- [Marketing Manager](https://docs.google.com/document/d/1MGP_0XDtI5GjUlIYSleIDyirLVPEungSGNbGZGDYGiI/edit?usp=sharing)
 - [Finance and Operations Manager](https://drive.google.com/open?id=1lCo8iK4EMpsBJ8r4dr5wekmvC5Rq2V4x)
 - [Finance Director](https://drive.google.com/open?id=1OJm4nF_ypRpf8lR9AahOf2aT5hV1HZN6)
-- [Creative Director (R&D)](https://drive.google.com/open?id=1bB4e7VNjTZa55z1GF0HBDUFqk3PXFXrn)
 - [Managing Director](https://drive.google.com/open?id=1jTnjJD2st6YHRqLWj8PRMd9uzkKUlJHT)
 
 ## Additional roles.
