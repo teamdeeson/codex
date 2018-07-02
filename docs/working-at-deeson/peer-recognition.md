@@ -17,7 +17,7 @@ The company puts £100 per week into the prize pot and the prize is paid out bas
 - At the end of each week, we share the leaderboard of who’s been awarded the most tacos by their colleagues. End of the week
 - During the week anyone can check the leaderboard by asking '@heytaco leaderboard'.
 - The company will put £100 into the taco pot each week.
-- At the end of each week Katy rolls a dice. 
+- At the end of each week Rowan rolls a dice. 
 - If a one or a six is rolled, the top five people will get an equal share of the taco pot to say thanks for their great work.
 - In the event of a tie, we’ll include everyone who has tied for fifth place, so there may be more than five people sharing.
 - If any number other than a one or six is rolled, the pot rolls over to the next week and will be bigger, up to a maximum of £500.
