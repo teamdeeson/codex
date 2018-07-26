@@ -2,7 +2,7 @@
 
 ##Policy & compliance statement.
 
-Deeson Group Limited (Deeson) is committed to compliance with the GDPR legal requirements. This statement outlines the enhanced requirements that Deeson must adhere to and our implemented/planned approach to ensuring compliance obligations are met. 
+Deeson Group Limited and Deeson Publishing Ltd (Deeson) is committed to compliance with the GDPR legal requirements. This statement outlines the enhanced requirements that Deeson must adhere to and our implemented/planned approach to ensuring compliance obligations are met. 
 
 ###Overview.
 
