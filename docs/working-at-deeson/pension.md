@@ -1,6 +1,8 @@
 # Company pension.
 
-All Deeson team members are automatically enrolled into our workplace pension scheme with Legal & General (L&G).
+All Deeson Group Ltd team members are automatically enrolled into our workplace pension scheme with Legal & General (L&G).
+
+All Deeson Publishing Ltd team members are automatically rolled into our workplace pension scheme with NEST.
  
 You will receive an enrolment notification from L&G when you've been enrolled. This will tell you:
 
