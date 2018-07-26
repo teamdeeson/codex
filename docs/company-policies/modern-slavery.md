@@ -13,7 +13,7 @@ This statement is made pursuant to section 54(1) of the Modern Slavery Act 2015 
  
 ## Organisational structure.
 
-Deeson is a provider of software development services in the IT and technology sector.
+Deeson is a provider of software development services in the IT and technology sector. Deeson also provides publishing services and activities.
  
 ## Our policies on slavery and human trafficking.
 
