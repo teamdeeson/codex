@@ -9,7 +9,7 @@ It takes various forms, such as slavery, servitude, forced and compulsory labour
 
 We are committed to improving our practices where necessary, to combat slavery and human trafficking.
 
-This statement is made pursuant to section 54(1) of the Modern Slavery Act 2015 and constitutes Deeson’s slavery and human trafficking statement for the current financial year.
+This statement is made pursuant to section 54(1) of the Modern Slavery Act 2015 and constitutes The Deeson Group Ltd's and Deeson Publishing Ltd's (Deeson's) slavery and human trafficking statement for the current financial year.
  
 ## Organisational structure.
 
