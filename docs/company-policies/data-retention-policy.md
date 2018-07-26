@@ -1,6 +1,6 @@
 #Data retention policy.
 
-Deeson Group Ltd (Deeson) recognises and understands that the efficient management of its data and records is necessary to support its core business functions, to comply with its legal, statutory and regulatory obligations, to ensure the protection of personal information and to enable the effective management of the organisation.
+Deeson Group Ltd and Deeson Publishing Ltd (Deeson) recognises and understands that the efficient management of its data and records is necessary to support its core business functions, to comply with its legal, statutory and regulatory obligations, to ensure the protection of personal information and to enable the effective management of the organisation.
 
 Information held for longer than is necessary carries additional risk and cost and can breach data protection rules and principles. Deeson only ever retain records and information for legitimate business reasons and use and comply fully with the UK data protection laws and guidance. 
 
