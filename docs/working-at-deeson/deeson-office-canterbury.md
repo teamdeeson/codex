@@ -19,7 +19,7 @@ Use your key and alarm fob to gain access at any time. When you're locking up, p
 
 ## What meeting rooms are there that we can book?
 
-There are three meeting rooms on the ground floor (G1, G2 and G3) that are bookable via Google Calendar.
+There is one meeting room on the ground floor (G1) that is bookable via Google Calendar.
 
 ## How do I make drinks?
 
