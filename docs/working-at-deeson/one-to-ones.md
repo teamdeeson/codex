@@ -20,3 +20,5 @@ Every one-to-one follows a standard agenda:
 ## Notes.
 
 Line managers make brief notes of one-to-one meetings in the *People 1:1s Trello*. These are automatically shared with the *People Managers Slack* channel.
+
+_This information is for team members employed by Deeson Group Ltd._

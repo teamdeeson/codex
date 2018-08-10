@@ -1,5 +1,7 @@
 # Disciplinary policy.
 
+_This policy applies to team members employed by Deeson Group Ltd and Deeson Publishing Ltd._
+
 Disciplinary rules and procedures exist to create an orderly and fair working environment, while maintaining consistency in the way employees are treated in the event of misconduct. The purpose of using disciplinary procedures is primarily to deal with situations where employees allegedly fail to comply with disciplinary rules; also they may be used in circumstances where the employee consistently fails to meet the expectations of his or her job description and duties.
 
 The following procedures will be used when an employee fails to meet the company’s standards of performance or conduct. The procedures also may be applied if the employee is in breach of his or her contract of employment. 

@@ -1,6 +1,8 @@
 
 # Employee social media policy.
 
+_This policy applies to team members employed by Deeson Group Ltd and Deeson Publishing Ltd._
+
 ## Overview.
 
 **If you wouldn’t say it in front of your boss or a client, then don’t say it on public social media.**

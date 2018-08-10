@@ -48,3 +48,5 @@ Yes, ask eighth floor reception.
 
 ## How do I connect to the wifi?
 Wifi access codes are pinned in the #general channel on Slack.
+
+_This information is for team members employed by Deeson Group Ltd and Deeson Publishing Ltd._

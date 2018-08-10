@@ -48,3 +48,5 @@ Unless there’s a reason we want to track a specific set of time, you probably 
 Every project that we set up in Harvest should have an hours budget associated with it. This should be the same as set out in the statement of work, unless a variation has been agreed by a Director (for example if we have chosen to spend more hours on a project than we are able to bill to the client). 
 
 These budgets should always be at a task level – so each team member knows their own budget allocation (in hours).
+
+_This information is for team members employed by Deeson Group Ltd._

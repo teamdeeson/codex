@@ -53,3 +53,5 @@ The first priority should be to find out how you can move forward other billable
 Also speak to Paula – the 'revenue wrangler' – as she’s got an overview of the agency’s work and may know where you could help too.
 
 If you haven't managed to find billable work, then speak with your Chapter Lead. They’ll help you identify what personal development work or internal project work is right for you and the time you have available. 
+
+_This information is for team members employed by Deeson Group Ltd._

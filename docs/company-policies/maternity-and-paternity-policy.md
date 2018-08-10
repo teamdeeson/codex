@@ -1,5 +1,7 @@
 # Maternity, paternity and shared leave policy.
 
+_This policy applies to team members employed by Deeson Group Ltd and Deeson Publishing Ltd._
+
 ## Who is covered by this policy?
 1. For maternity/adoption leave and pay: Any employee who has become pregnant or who has been matched with a child for adoption.
 2. For shared parental leave: The partner of any such employee, whether or not they work for this organisation (subject to certain qualifying and earnings criteria); or an employee whose partner has become pregnant or been matched with a child for adoption.

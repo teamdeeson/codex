@@ -22,3 +22,4 @@ GCI works with e-bike retailers nationwide to supply e-bikes. There is no £1,00
 
 For more details about GCI, visit [their website](https://greencommuteinitiative.uk/employees/).
 
+_This information is for team members employed by Deeson Group Ltd and Deeson Publishing Ltd._

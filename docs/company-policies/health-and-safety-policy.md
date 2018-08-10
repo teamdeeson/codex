@@ -1,5 +1,7 @@
 # Health and safety policy.
 
+_This policy applies to team members employed by Deeson Group Ltd and Deeson Publishing Ltd._
+
 The company believes in the active prevention of accidents and ill health, and it is its policy to ensure, so far as is reasonably practicable, the health, safety and welfare of its employees. The company will, to this end, endeavour to keep up-to-date with current professional expertise on health and safety matters, and to observe all relevant statutes, regulations and codes of practice. 
 
 The company recognises its duties to persons other than employees and it is its policy to ensure, so far as is reasonably practicable, that the health and safety of visitors is not put at risk by its operations. Particular attention is paid to the provision and maintenance of: 

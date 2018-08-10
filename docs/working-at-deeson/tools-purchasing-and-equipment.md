@@ -45,3 +45,4 @@ If you’re using it for non-work purposes and you break it then you need to rep
 There’s an open list of who’s got/bought what so that everyone can share. The onus is on you to check that we aren’t buying small amounts inefficiently, to get the best deal and that we don’t already have five Segways in the cellar.
 
 
+_This information is for team members employed by Deeson Group Ltd and Deeson Publishing Ltd._

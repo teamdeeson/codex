@@ -30,3 +30,5 @@ The range of activities included in PDPs is wide. It can include things like:
 - Reflective practice.
 
 There are no limits to what can be considered for inclusion in a PDP – what's important is getting the right mix of activities that will help a team member develop and be deliverable alongside their role at Deeson.
+
+_This information is for team members employed by Deeson Group Ltd._

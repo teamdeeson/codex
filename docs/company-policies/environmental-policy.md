@@ -1,5 +1,7 @@
 # Environmental Policy.
 
+_This policy applies to Deeson Group Ltd and Deeson Publishing Ltd._
+
 Deeson is an enthusiastic supporter of environmental policies, not only because we recognise they are essential to the future wellbeing of the world but because they invariably ensure good housekeeping and help to improve our profits. We conform with environmental regulations, laws and codes of best practice. 
 
 Our procurement and policy adherence processes are verified through our ISO9001 accreditation.

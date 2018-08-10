@@ -49,3 +49,5 @@ We offer compassionate leave where your personal circumstances mean it isn't pos
 Due to the sensitive nature of these situations, we don’t have a blanket policy about how compassionate leave is agreed. 
 
 If you feel you need to take compassionate leave, please discuss with your line manager in confidence.
+
+_This information is for team members employed by Deeson Group Ltd and Deeson Publishing Ltd._

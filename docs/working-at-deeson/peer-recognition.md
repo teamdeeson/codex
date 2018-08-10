@@ -27,3 +27,5 @@ The company puts £100 per week into the prize pot and the prize is paid out bas
 	- A £50 Amazon voucher (no tax implication) with the rest of their share given to a charity of their choice.
 
 To use the taco scheme, you need to have the Hey Taco bot in the channel you're giving the tacos in. It's in most channels already but to add Hey Taco to a Slack channel use the '/invite @heytaco' in that channel.
+
+_This information is for team members employed by Deeson Group Ltd and Deeson Publishing Ltd._

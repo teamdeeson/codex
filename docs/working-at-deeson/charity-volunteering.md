@@ -12,3 +12,4 @@ We provide up to three days per calendar year of paid time off to team members w
 - For new team members joining Deeson, the three days is applied pro rata in their first year.
 - The activity should be discussed with your line manager in advance and recorded in Bamboo.
 
+_This information is for team members employed by Deeson Group Ltd and Deeson Publishing Ltd._

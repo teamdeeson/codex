@@ -1,5 +1,7 @@
 # Equality policy.
 
+_This policy applies to Deeson Group Ltd and Deeson Publishing Ltd._
+
 Deeson (the company) [recognises](https://www.deeson.co.uk/blog/white-men-digital-our-privilege-blinding) that discrimination and victimisation is unacceptable, and that it is in the interests of the company and its employees to utilise the skills of the total workforce. 
 
 It is the aim of the company to ensure that no employee or job applicant receives less favourable facilities or treatment (either directly or indirectly) in recruitment or employment on grounds of age, disability, gender/gender reassignment, marriage/civil partnership, pregnancy/maternity, race, religion or belief, sex or sexual orientation (the protected characteristics).

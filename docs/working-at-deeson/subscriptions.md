@@ -5,3 +5,5 @@ As we grow, we need to keep track of the many software-as-a-service (SaaS) subsc
 That’s why we say that all subscriptions must be paid for on a Chapter Lead or Director’s company credit card. 
 
 If you wish to take out a subscription or feel the company could benefit from a particular service, speak with the appropriate card holder and they can arrange for the payment to be set up. 
+
+_This information is for team members employed by Deeson Group Ltd and Deeson Publishing Ltd._

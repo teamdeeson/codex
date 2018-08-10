@@ -41,4 +41,6 @@ The company supports professional development in many ways, including access to 
 
 PDPs are reviewed regularly in one-to-one meetings, to make sure that team members are on track to achieve their plans.
 
+_This information is for team members employed by Deeson Group Ltd._
+
 

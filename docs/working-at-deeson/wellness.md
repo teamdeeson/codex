@@ -1,5 +1,7 @@
 # Wellness fund.
 
+_This information is for team members employed by Deeson Group Ltd and Deeson Publishing Ltd._
+
 All permanent Deeson employees are entitled to an annual personal £250 [wellness fund](https://www.deeson.co.uk/blog/healthy-mind-healthy-body-new-deeson-wellness-fund), which they can spend on improving their health and wellbeing.
 
 ## Two simple guidelines.

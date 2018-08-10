@@ -120,3 +120,5 @@ To qualify for paternity pay, you must have met the statutory criteria set out b
 
 ### Additional resources
 We are supporters of The Tommy’s Pregnancy at Work scheme, which is designed to give organisations all the tools they need to provide the best level of support for pregnant employees and their managers. Tommy's is a charity that provides accredited, midwife-led pregnancy health information for parents-to-be, and funds research into the causes of pregnancy loss. It also provides evidence-based, expert and user-led, accessible pregnancy information to support expectant parents in understanding what they can do to support a safe and healthy pregnancy. https://www.tommys.org
+
+_This information is for team members employed by Deeson Group Ltd and Deeson Publishing Ltd._

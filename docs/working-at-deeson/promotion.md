@@ -31,3 +31,5 @@ For junior roles - where a team member joins with less than two years relevant e
 This is a reflection of the relative inexperience of someone joining the team in this way and the fact we don't have a junior equivalent of many of our roles. 
 
 We would expect them to progress into the full role within 18 months of joining Deeson (using the promotion process set out in this document) and they would then be part of the normal pay scale for their role. Team members in junior roles are not subject to the restriction on pay review requests of one per year.
+
+_This information is for team members employed by Deeson Group Ltd._

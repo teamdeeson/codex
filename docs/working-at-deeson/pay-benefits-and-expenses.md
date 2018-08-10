@@ -159,3 +159,4 @@ The exception to this is where a Director or Chapter Lead decides it is appropri
 
 Any other expenses incurred while entertaining staff members, would be classed as a personal expense and could not be reclaimed.
 
+_This information is for team members employed by Deeson Group Ltd and Deeson Publishing Ltd._

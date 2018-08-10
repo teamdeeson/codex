@@ -1,5 +1,7 @@
 # Writing style guide.
 
+_The styleguide applies to Deeson Group Ltd and Deeson Publishing Ltd._
+
 Everyone at Deeson has something to say, and we want to encourage you to share it.
 
 We all have slightly different writing styles, so this guide lays out a few simple rules to ensure that everything we publish has a consistent tone and is of the highest quality.

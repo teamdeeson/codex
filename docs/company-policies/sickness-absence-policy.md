@@ -1,5 +1,7 @@
 # Sickness absence policy.
 
+_This policy applies to team members employed by Deeson Group Ltd and Deeson Publishing Ltd._
+
 ## Introduction.
 
 ‘Sickness absence’ is defined as an incapacity to carry out the duties and responsibilities which a member of staff is contractually obliged to do, because of his or her own illness or injury. This policy does not apply to the need to take time off work because of the illness or injury of others, for example, dependents or to agreed compassionate leave.

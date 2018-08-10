@@ -40,3 +40,5 @@ The five weeks must be taken together in one block and you must not have contact
 - You mustn’t be subject to a short-term sickness absence final review or the long-term sickness absence procedure, in the six months before your sabbatical starts.
 - Maternity, paternity or parental leave does not affect your eligibility for this scheme.
 - While you’re on sabbatical, you remain an employee of the company and all normal contractual conditions still apply.
+
+_This information is for team members employed by Deeson Group Ltd and Deeson Publishing Ltd._

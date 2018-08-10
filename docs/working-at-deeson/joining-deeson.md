@@ -72,3 +72,5 @@ The outcomes for your first week at Deeson are shown below:
 4. You’ll have read and understood our company policies.
 6. You’ll have agreed month one goals with your Chapter Lead, to help inform your learning during your first month. We have a self-led development approach. This is your first step towards self-led development.
 7. You’ll have a first week review meeting with your Chapter Lead. This is an opportunity to share feedback from your first week and ask those burning questions.
+
+_This information is for team members employed by Deeson Group Ltd._

@@ -20,3 +20,5 @@ For referrals where more than one team member claims the bonus, you’ll need to
 
 Also remember, the bonus isn’t payable when a candidate contacts us directly as a result of any of our existing recruitment marketing – it’s about helping us meet people we wouldn’t have otherwise met. 
 
+_This information is for team members employed by Deeson Group Ltd and Deeson Publishing Ltd._
+

@@ -1,5 +1,7 @@
 # Conference attendance.
 
+_This policy applies to team members employed by Deeson Group Ltd._
+
 We encourage our team members to attend relevant conferences for personal development and to promote our agnecy around the industry.
 
 If you'd like to attend a conference/event, you need to talk this through with your Chapter Lead. 

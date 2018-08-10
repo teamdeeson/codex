@@ -1,7 +1,7 @@
 
 # Information security management statement.
 
-This policy statement outlines my endorsement and intent for Information Security Management (ISM) within Deeson Group Ltd. 
+This policy statement outlines my endorsement and intent for Information Security Management (ISM) within Deeson Group Ltd and Deeson Publishing Ltd.
 
 Its purpose is to communicate our ISM expectations to all those delivering services upon our behalf or working on our premises.
  

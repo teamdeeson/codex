@@ -6,3 +6,4 @@ You need to present your blue card to get access. If you haven't got a card, you
 
 Locations are shown on [The Office Group website](https://www.theofficegroup.co.uk/overview/).
 
+_This information is for team members employed by Deeson Group Ltd and Deeson Publishing Ltd._

@@ -29,3 +29,4 @@ Where possible, get someone with a company card to make the payment, although yo
 - There’s an [open list](https://docs.google.com/a/deeson.co.uk/spreadsheets/d/1jOTBKmHVrgcQGbvAVt8ta7c1UtK7pZeAhwgr6auuCfo/edit?usp=drive_web) of who’s got/bought what, so that everyone can share tools where appropriate.
 
 
+_This information is for team members employed by Deeson Group Ltd and Deeson Publishing Ltd._

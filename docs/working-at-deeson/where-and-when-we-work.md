@@ -1,5 +1,7 @@
 # Where do I work?
 
+_This information is for team members employed by Deeson Group Ltd and Deeson Publishing Ltd._
+
 You choose – the aim is to be wherever you're most effective.
 
 Our approach – and our success – is based on tight collaboration between people who know each other well. This is vital.

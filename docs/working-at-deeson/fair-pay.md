@@ -29,3 +29,4 @@ The 'fair pay' guarantee works like this:
 - If the company’s total staffing costs exceed the target percentage (57.1% for 2017/18) of agency income, then there won’t be a 'fair pay' guarantee payment.
 - This scheme is a non-contractual bonus and can be reviewed, altered or withdrawn at any time. It will be reviewed annually, with the first review planned to take place in January/February 2019.
 
+_This information is for team members employed by Deeson Group Ltd._

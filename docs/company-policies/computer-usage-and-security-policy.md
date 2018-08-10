@@ -1,5 +1,7 @@
 # Computer usage and security policy.
 
+_This policy applies to team members employed by Deeson Group Ltd and Deeson Publishing Ltd._
+
 ## Mandated security practices to follow.
 
 1. FileVault (whole disk encryption) must be enabled on all devices.

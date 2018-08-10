@@ -34,5 +34,7 @@ We calculate an impact score using this formula (rounded to nearest 0.25):
 > 1 x Count(B) + 0 x Count(C) + 0 x Count(X)) <br />
 > / Count(*))
 
+_This information is for team members employed by Deeson Group Ltd._
+
 
 

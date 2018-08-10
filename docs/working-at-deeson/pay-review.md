@@ -30,3 +30,4 @@ Subsequent changes to pay, in line with the pay scale and average impact score, 
 
 - There is a limit of one pay increase per financial year per team member. This limit does not apply to team members in the junior roles within the team. 
 
+_This information is for team members employed by Deeson Group Ltd._

@@ -55,3 +55,5 @@ These items can't currently be recycled:
 There’s free parking for team members in our car park behind the office.
 
 It’s fine for team members to park in the office car park at weekends too.
+
+_This information is for team members employed by Deeson Group Ltd and Deeson Publishing Ltd._

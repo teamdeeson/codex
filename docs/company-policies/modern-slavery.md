@@ -1,6 +1,8 @@
 
 # Modern slavery.
 
+_This policy applies to Deeson Group Ltd and Deeson Publishing Ltd._
+
 ## Introduction.
 
 Modern slavery is a crime and a violation of fundamental human rights. 

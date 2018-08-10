@@ -1,5 +1,6 @@
 # How your information will be used.
 
+_This information is for team members employed by Deeson Group Ltd and Deeson Publishing Ltd._
 
 All of the personal data we collect will be stored in our HR database - Bamboo HR. Your data may also be held securely in other approved company systems.
 

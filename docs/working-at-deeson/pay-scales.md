@@ -53,4 +53,6 @@ The basics of our scheme are explained below:
 
 For more information about how pay reviews are undertaken please visit the [pay review page](https://handbook.deeson.co.uk/working-at-deeson/pay-review/).
 
+_This information is for team members employed by Deeson Group Ltd._
+
 

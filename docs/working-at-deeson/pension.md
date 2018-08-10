@@ -20,3 +20,5 @@ From April 2018, the employer contribution will be 2% and your contribution will
 From April 2019, the employer contribution will be 3% and your contribution will be 5%.
 
 For further information, please visit [the L&G website](https://www20.landg.com/DocumentLibraryWeb/Document?lgrouter=CommApp&targetApp=MANAGEYOURSCHEME_DOCUMENTLIBRARY_ENTRY&reference=Q0037200AE_employee_guide.pdf). 
+
+_This information is for team members employed by Deeson Group Ltd and Deeson Publishing Ltd._
