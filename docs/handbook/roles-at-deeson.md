@@ -45,6 +45,11 @@ The roles and job scorecards are shown below:
 - [Delivery Manager](https://drive.google.com/open?id=10nOdP6LsQO6OPvdKphRqGDXinpV_mwK_)
 - [Head of Delivery](https://drive.google.com/open?id=1ysdlHHThKqgjBjL0uU4PC7etddVVtlLq)
 
+### Account Management.
+
+- [Account Manager](https://drive.google.com/a/deeson.co.uk/file/d/1XFKsarGKmz-1MGt83HLYwDQntGb-4TDr/view?usp=sharing)
+- [Account Director](https://drive.google.com/open?id=19tD9lx20vhCbwiuvJQVvKWOEEIkOJvWI)
+
 ### Other roles.
 
 - [Marketing Manager](https://docs.google.com/document/d/1MGP_0XDtI5GjUlIYSleIDyirLVPEungSGNbGZGDYGiI/edit?usp=sharing)
