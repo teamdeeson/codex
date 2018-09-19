@@ -6,7 +6,9 @@ You choose – the aim is to be wherever you're most effective.
 
 Our approach – and our success – is based on tight collaboration between people who know each other well. This is vital.
 
-Everyone has a working location defined in their contract – London office, Canterbury office or home office. However, where you choose to work from day-to-day is up to you.
+Everyone has a working location defined in their contract – London office or Canterbury office. However, where you choose to work from day-to-day is up to you.
+
+We have some days that we try to make sure we're working together in the same place - more on that [here](https://handbook.deeson.co.uk/working-at-deeson/company-engagement/).
 
 Experience says that an effective working location is going to:
 

@@ -6,4 +6,4 @@ We believe in thinking differently about the future of work and have transformed
 
 That's why our team Handbook, processes and information are all published here under a Creative Commons license.
 
-If you like the sound of the way we do things, we're always looking for new team members based in London, Canterbury or anywhere in Europe. You can find out more about working for Deeson in this Handbook and on our [careers page](https://www.deeson.co.uk/careers). 
+If you like the sound of the way we do things, we're always looking for new team members based in Canterbury or Londn. You can find out more about working for Deeson in this Handbook and on our [careers page](https://www.deeson.co.uk/careers). 
