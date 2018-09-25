@@ -71,5 +71,11 @@
   "devDependencies": {
     "jquery": "^3.0.0",
     "normalize.css": "^8.0.0"
+  },
+  "eslintConfig": {
+    "env": {
+      "browser": true,
+      "node": true
+    }
   }
 }
