@@ -2,6 +2,7 @@
 
 clean:
 	rm -rf site
+	rm -rf deeson-theme/node_modules
 
 # Build the theme assets
 build-frontend:
