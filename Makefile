@@ -14,7 +14,7 @@ build: build-frontend
 	@echo
 	@echo "Build finished. The HTML pages are in the site directory"
 
-docker-start: serve
+start: serve
 run: serve
 serve:
 	docker run -it --rm -p 80:8000 -v ${PWD}:/docs --name deeson-codex teamdeeson/mkdocs:0.15.3
